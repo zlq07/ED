@@ -1,0 +1,6 @@
+Carmen;19
+Rosa;1
+Tomas;3
+machine1;4
+machine2;1
+

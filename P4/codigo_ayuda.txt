@@ -1,0 +1,114 @@
+Para ayudar al alumno/a he proporcionado el codigo o guias que implementan
+determinadas funciones. El alumno simplemente deberá adaptarlo a su proyecto.
+
+
+____________________________UTILIDADES__________________________________
+void CreaTree(ArbolGeneral<string> &a, ArbolGeneral<string>::Nodo n,const set<string> &pp,int lc,int lw)
+{
+    if (a.Nulo(n))
+        return;
+    if (lc==lw){ //cortamos la ramificación
+            return;
+    }
+
+    set<string> ww=getWordDistanceOne(pp,a.etiqueta(n).w);
+    if (ww.size()==0)
+        return ;
+    else{
+
+        for (auto it =ww.begin();it!=ww.end();++it)
+           if (!EstaEtiquetaCamino(a, n,*it)){
+               ArbolGeneral<string> rama(*it);
+               a.insertar_hijomasizquierda(n,rama);
+           }
+
+
+        ww.clear();
+        if(a.Nulo(a.hijomasizquierda(n)))
+            return;
+        ArbolGeneral<string>::Nodo aux = a.hijomasizquierda(n);
+
+        for(aux=a.hijomasizquierda(n); a.Nulo(aux)==false;aux=a.hermanoderecha(aux)){
+            CreaTree(a,aux,pp,lc+1,lw);
+        }
+    }
+    return;
+}
+/*******************************/
+pair<int,set<string>> PosiblesPalabrasDesde(const string &s,const set<string>& pp){
+   ArbolGeneral<string>a;
+
+    a.AsignaRaiz(s);
+
+    set<string> dif=pp;
+    dif.erase(s);
+    ArbolGeneral<string>::Nodo n= a.raiz();  
+	
+    CreaTree(a, n,dif,0,4);
+
+    int maxway= MaxWay(a,a.raiz());
+
+    set<string> nexts;
+    if (maxway<=0)
+        return pair<int,set<string>>(maxway,nexts);
+    n=a.hijomasizquierda(n);
+    for (;!a.Nulo(n);n=a.hermanoderecha(n))
+        nexts.insert(a.etiqueta(n).w);
+    return pair<int,set<string>>(maxway,nexts);
+
+}
+/*******************************/
+int MaxWay(ArbolGeneral<string> &a,ArbolGeneral<string>::Nodo n){
+
+    //PASOS A SEGUIR:	
+	1.- Si el nodo es nulo devolver -1
+	2.- Si no recorrer los hijos y obtener la longitud del maximo camino
+            entre los hijos. Devolver esa maxima longitud +1.
+}
+_____________________________________STRATEGY_____________________
+bool Strategy::CrearJugadas(const string & w){
+
+	//1.-LImpiar el arbol
+        //2.- Asignar a la raiz del arbol la palabra w
+        //3.- LLamar a CrearTree con el arbol y la raiz dando lc=0 y lw= 10
+}
+
+string Strategy::getWord_1(string ultimaword){
+	//Devoler "0" si el arbol no tiene hijo mas a la izquierda
+        //En otro caso Devolver la etiqueta del hijo mas a la izquierda
+}
+_____________________________________JUEGO_____________________
+//FUncion auxiliar para comprobar que los caracteres van desde [a-z]
+bool HaveCharracterRaros(const string &s){
+    for (int i=0;i<s.size();i++)
+        if (!(s[i]>='a' && s[i]<='z'))
+          return true;
+    return false;
+
+
+}
+/****************************************/
+
+set<string> Juego::getPosiblesWordToPlay(){
+        all_words.clear();
+        for (auto it=mispalabras.begin();it!=mispalabras.end();++it){
+            string aux=(*it).getPalabra();
+           
+            if (aux.size()==l_words && !HaveCharracterRaros(aux)){
+                all_words.insert(aux);
+
+            }
+        }
+        set<string> posibles_w;
+
+        for (auto it=all_words.begin();it!=all_words.end();++it){
+
+            if (PosiblesPalabrasDesde(*it,all_words).first>=3){
+                posibles_w.insert(*it);
+
+            }
+        }
+        return posibles_w;
+}
+
+

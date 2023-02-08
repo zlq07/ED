@@ -1,0 +1,7657 @@
+Spanish
+English
+#TIPO;PALABRA IDIOMA ORIGEN;PALABRA IDIOMA DESTINO 
+country;China;China
+country;China;People's Republic of China
+country;China;mainland China
+country;China;Communist China
+country;China;Red China
+country;China;PRC
+country;China;Cathay
+country;Estados Unidos;United States
+country;Estados Unidos;United States of America
+country;Estados Unidos;America
+country;Estados Unidos;the States
+country;Estados Unidos;US
+country;Estados Unidos;U.S.
+country;Estados Unidos;USA
+country;Estados Unidos;U.S.A.
+country;Italia;Italy
+country;Italia;Italian Republic
+country;Italia;Italia
+country;Japon;Japan
+country;Japon;Nippon
+country;Japon;Nihon
+country;Reino Unido;United Kingdom
+country;Reino Unido;UK
+country;Reino Unido;U.K.
+country;Reino Unido;Britain
+country;Reino Unido;United Kingdom of Great Britain and Northern Ireland
+country;Reino Unido;Great Britain
+country;Reino de España;Spain
+country;Reino de España;Kingdom of Spain
+country;Reino de España;Espana
+country;Republica Checa;Czech Republic
+country;Republica Federal de Alemania;Germany
+country;Republica Federal de Alemania;Federal Republic of Germany
+country;Republica Federal de Alemania;Deutschland
+country;Republica Federal de Alemania;FRG
+country;Republica Francesa;France
+country;Republica Francesa;French Republic
+country;Republica de la India;India
+country;Republica de la India;Republic of India
+country;Republica de la India;Bharat
+preposition;a;at
+adverb;a lo largo de;along
+adverb;junto con;along
+adverb;a traves de;through
+adverb;dentro de;through
+adverb;por;through
+adverb;a veces;sometimes
+adverb;abajo;down
+adverb;abajo;downwards
+adverb;abajo;downward
+adverb;abajo;downwardly
+adjective;abajo;down
+adjective;debajo;down
+verb;abandonar;leave
+verb;dejar;leave
+animal;abeja;bee
+adjective-basic;abierto;open
+adjective-basic;abierto;unfastened
+verb-basic;abonar;pay
+verb-basic;pagar;pay
+time;abril;April
+time;abril;Apr
+verb;abrillantar;polish
+verb;abrillantar;smooth
+verb;abrillantar;smoothen
+verb;abrillantar;shine
+verb-basic;abrir;open
+verb-basic;abrir;open up
+adjective;absoluto;full
+adjective;absoluto;total
+adjective;completo;full
+adjective;completo;total
+adjective;perfecto;full
+adjective;perfecto;total
+adjective;total;full
+adjective;total;total
+family;abuelo;grandfather
+family;abuelo;gramps
+family;abuelo;granddad
+family;abuelo;grandad
+family;abuelo;granddaddy
+family;abuelo;grandpa
+verb;acabar;end
+verb;acabar;stop
+verb;acabar;finish
+verb;acabar;terminate
+verb;acabar;cease
+verb;cesar;end
+verb;cesar;stop
+verb;cesar;finish
+verb;cesar;terminate
+verb;cesar;cease
+verb;concluir;end
+verb;concluir;stop
+verb;concluir;finish
+verb;concluir;terminate
+verb;concluir;cease
+verb;parar;end
+verb;parar;stop
+verb;parar;finish
+verb;parar;terminate
+verb;parar;cease
+verb;terminar;end
+verb;terminar;stop
+verb;terminar;finish
+verb;terminar;terminate
+verb;terminar;cease
+adjective-basic;acalorado;hot
+verb;acarrear;bring
+verb;acarrear;convey
+verb;acarrear;take
+verb;llevar;bring
+verb;llevar;convey
+verb;llevar;take
+verb;traer;bring
+verb;traer;convey
+verb;traer;take
+verb;transportar;bring
+verb;transportar;convey
+verb;transportar;take
+transport;accidente;accident
+abstract;accion;activity
+abstract;accion;action
+abstract;accion;activeness
+abstract;actividad;activity
+abstract;actividad;action
+abstract;actividad;activeness
+abstract;accion;act
+abstract;accion;deed
+abstract;accion;human action
+abstract;accion;human activity
+abstract;acto;act
+abstract;acto;deed
+abstract;acto;human action
+abstract;acto;human activity
+abstract;accion;action
+abstract;acto;action
+abstract;hecho;action
+business;accion;share
+business;titulo;share
+food;aceite;oil
+vegetable;aceituna;olive
+verb;aceptar;accept
+verb;aceptar;take
+verb;aceptar;have
+verb;querer;accept
+verb;querer;take
+verb;querer;have
+verb;alojar;accept
+verb;alojar;take
+verb;alojar;have
+adjective;acerca de;after
+material;acero;steel
+adjective-basic;acertado;correct
+adjective-basic;acertado;right
+adjective-basic;correcto;correct
+adjective-basic;correcto;right
+verb;acoplar;join
+verb;acoplar;bring together
+verb;reunir;join
+verb;reunir;bring together
+verb;acrecentar;enhance
+verb;acrecentar;heighten
+verb;acrecentar;raise
+abstract;actitud;attitude
+abstract;actitud;mental attitude
+abstract;disposicion;attitude
+abstract;disposicion;mental attitude
+abstract;postura;attitude
+abstract;postura;mental attitude
+profession;actor;actor
+profession;actor;histrion
+profession;actor;player
+profession;actor;thespian
+profession;actor;role player
+profession;interprete;actor
+profession;interprete;histrion
+profession;interprete;player
+profession;interprete;thespian
+profession;interprete;role player
+profession;farandulero;actor
+profession;farandulero;histrion
+profession;farandulero;player
+profession;farandulero;thespian
+profession;farandulero;role player
+profession;comico;actor
+profession;comico;histrion
+profession;comico;player
+profession;comico;thespian
+profession;comico;role player
+profession;actriz;actress
+adjective;actual;present
+adjective;presente;present
+adjective;ofrenda;present
+time;actualidad;present
+time;actualidad;nowadays
+time;presente;present
+time;presente;nowadays
+adverb;actualmente;now
+adverb;actualmente;at present
+verb;actuar;act
+verb;actuar;move
+verb;hacer;act
+verb;hacer;move
+verb;representar;act
+verb;representar;move
+business;acuerdo;agreement
+business;acuerdo;understanding
+business;pacto;agreement
+business;pacto;understanding
+business;contrato;agreement
+business;contrato;understanding
+verb;acusar;accuse
+verb;acusar;charge
+adverb;adelante;before
+adverb;adelante;ahead
+adverb;adelante;in front
+adverb;adelante;forward
+adverb;adelante;forwards
+adverb;adelante;frontward
+adverb;adelante;frontwards
+adverb;adelante;forrad
+adverb;adelante;forrard
+preposition;ademas de;beside
+adverb;adentro;inside
+adverb;adentro;within
+abstract;adicion;addition
+abstract;adicion;add-on
+abstract;adicion;improver
+verb;admitir;admit
+verb;admitir;acknowledge
+verb;reconocer;admit
+verb;reconocer;acknowledge
+abstract;adorno;decoration
+abstract;adorno;ornament
+abstract;adorno;ornamentation
+abstract;decoracion;decoration
+abstract;decoracion;ornament
+abstract;decoracion;ornamentation
+verb-basic;adquirir;buy
+verb-basic;adquirir;purchase
+verb-basic;comprar;buy
+verb-basic;comprar;purchase
+sports;adversario;competitor
+sports;adversario;rival
+sports;adversario;challenger
+sports;adversario;competition
+sports;adversario;contender
+sports;rival;competitor
+sports;rival;rival
+sports;rival;challenger
+sports;rival;competition
+sports;rival;contender
+business;advertencia;advice
+business;consejo;advice
+city;aeropuerto;airport
+city;aeropuerto;airdrome
+city;aeropuerto;aerodrome
+city;aeropuerto;drome
+city;aerodromo;airport
+city;aerodromo;airdrome
+city;aerodromo;aerodrome
+city;aerodromo;drome
+verb;afanar;steal
+verb;quitar;steal
+medicine;afeccion;disease
+medicine;enfermedad;disease
+verb;afectar;affect
+verb;afectar;impact
+verb;afectar;bear upon
+verb;afectar;bear on
+verb;afectar;touch on
+verb;afectar;touch
+verb;conmover;affect
+verb;conmover;impact
+verb;conmover;bear upon
+verb;conmover;bear on
+verb;conmover;touch on
+verb;conmover;touch
+communication;afirmacion;statement
+communication;declaracion;statement
+adjective;afortunado;lucky
+abstract;afan;effort
+abstract;afan;elbow grease
+abstract;afan;exertion
+abstract;afan;travail
+abstract;afan;sweat
+abstract;dedicacion;effort
+abstract;dedicacion;elbow grease
+abstract;dedicacion;exertion
+abstract;dedicacion;travail
+abstract;dedicacion;sweat
+abstract;esfuerzo;effort
+abstract;esfuerzo;elbow grease
+abstract;esfuerzo;exertion
+abstract;esfuerzo;travail
+abstract;esfuerzo;sweat
+abstract;agotamiento;effort
+abstract;agotamiento;elbow grease
+abstract;agotamiento;exertion
+abstract;agotamiento;travail
+abstract;agotamiento;sweat
+profession;agente;policeman
+profession;agente;police officer
+profession;agente;officer
+profession;guardia;policeman
+profession;guardia;police officer
+profession;guardia;officer
+profession;oficial;policeman
+profession;oficial;police officer
+profession;oficial;officer
+profession;policia;policeman
+profession;policia;police officer
+profession;policia;officer
+time;agosto;August
+time;agosto;Aug
+adjective-basic;agradable;nice
+adjective-basic;bonito;nice
+adjective-basic;simpatico;nice
+verb;agradar;please
+verb;agradar;delight
+verb;complacer;please
+verb;complacer;delight
+verb;encantar;please
+verb;encantar;delight
+verb;agradecer;thank
+verb;agradecer;give thanks
+verb;agregar;add
+verb;añadir;add
+business;agrupacion;group
+business;agrupacion;grouping
+business;colectivo;group
+business;colectivo;grouping
+business;grupo;group
+business;grupo;grouping
+drink;agua;water
+drink;agua;H2O
+verb;aguantar;hold
+verb;aguantar;take hold
+verb;sostener;hold
+verb;sostener;take hold
+verb;sujetar;hold
+verb;sujetar;take hold
+verb;aguardar;expect
+verb;aguardar;look
+verb;aguardar;await
+verb;aguardar;wait
+verb;contar;expect
+verb;contar;look
+verb;contar;await
+verb;contar;wait
+verb;esperar;expect
+verb;esperar;look
+verb;esperar;await
+verb;esperar;wait
+adjective-basic;agudo;sharp
+adjective-basic;agudo;acuate
+adjective-basic;agudo;acute
+adjective-basic;agudo;needlelike
+adjective-basic;afilado;sharp
+adjective-basic;afilado;acuate
+adjective-basic;afilado;acute
+adjective-basic;afilado;needlelike
+adjective-basic;cortante;sharp
+adjective-basic;cortante;acuate
+adjective-basic;cortante;acute
+adjective-basic;cortante;needlelike
+tool;aguja;needle
+abstract;agujero;hole
+abstract;cavidad;hole
+abstract;hueco;hole
+verb;ahorrar;save
+verb;ahorrar;preserve
+adverb;ahi;here
+adverb;ahi;hither
+adverb;ahi;there
+adverb;ahi;at that place
+adverb;ahi;in that location
+adjective-people;airado;angry
+nature;aire;air
+environment;aire;atmosphere
+environment;aire;air
+environment;atmosfera;atmosphere
+environment;atmosfera;air
+vegetable;ajo;garlic
+vegetable;ajo;ail
+anatomy;ala;wing
+object;alambre;wire
+abstract;alcance;reach
+abstract;alcance;range
+science;alcance;range
+science;alcance;scope
+science;alcance;reach
+science;alcance;orbit
+science;alcance;compass
+science;alcance;ambit
+science;ambito;range
+science;ambito;scope
+science;ambito;reach
+science;ambito;orbit
+science;ambito;compass
+science;ambito;ambit
+science;esfera;range
+science;esfera;scope
+science;esfera;reach
+science;esfera;orbit
+science;esfera;compass
+science;esfera;ambit
+science;marco;range
+science;marco;scope
+science;marco;reach
+science;marco;orbit
+science;marco;compass
+science;marco;ambit
+verb;alcanzar;reach
+verb;alcanzar;make
+verb;alcanzar;attain
+verb;alcanzar;hit
+verb;alcanzar;arrive at
+verb;alcanzar;gain
+verb;ganar;reach
+verb;ganar;make
+verb;ganar;attain
+verb;ganar;hit
+verb;ganar;arrive at
+verb;ganar;gain
+verb;alcanzar;achieve
+verb;alcanzar;accomplish
+verb;alcanzar;attain
+verb;alcanzar;reach
+verb;lograr;achieve
+verb;lograr;accomplish
+verb;lograr;attain
+verb;lograr;reach
+house;alcoba;bedroom
+house;alcoba;sleeping room
+house;alcoba;sleeping accommodation
+house;alcoba;chamber
+house;alcoba;bedchamber
+house;dormitorio;bedroom
+house;dormitorio;sleeping room
+house;dormitorio;sleeping accommodation
+house;dormitorio;chamber
+house;dormitorio;bedchamber
+house;habitacion;bedroom
+house;habitacion;sleeping room
+house;habitacion;sleeping accommodation
+house;habitacion;chamber
+house;habitacion;bedchamber
+house;pieza;bedroom
+house;pieza;sleeping room
+house;pieza;sleeping accommodation
+house;pieza;chamber
+house;pieza;bedchamber
+house;cuarto;bedroom
+house;cuarto;sleeping room
+house;cuarto;sleeping accommodation
+house;cuarto;chamber
+house;cuarto;bedchamber
+house;dependencia;bedroom
+house;dependencia;sleeping room
+house;dependencia;sleeping accommodation
+house;dependencia;chamber
+house;dependencia;bedchamber
+language;aleman;German
+language;aleman;High German
+language;aleman;German language
+object;alfiler;pin
+furniture;alfombra;carpet
+furniture;alfombra;rug
+furniture;alfombra;carpeting
+furniture;tapete;carpet
+furniture;tapete;rug
+furniture;tapete;carpeting
+furniture;tapiz;carpet
+furniture;tapiz;rug
+furniture;tapiz;carpeting
+furniture;moqueta;carpet
+furniture;moqueta;rug
+furniture;moqueta;carpeting
+material;algodon;cotton
+anatomy;aliento;breath
+anatomy;respiracion;breath
+anatomy;animo;breath
+anatomy;soplo;breath
+anatomy;anhelo;breath
+food;alimento;food
+food;alimento;nutrient
+food;comida;food
+food;comida;nutrient
+food;almuerzo;lunch
+food;almuerzo;luncheon
+food;almuerzo;tiffin
+food;almuerzo;dejeuner
+food;comida;lunch
+food;comida;luncheon
+food;comida;tiffin
+food;comida;dejeuner
+food;almuerzo;breakfast
+food;desayuno;breakfast
+adverb;alrededor;about
+adverb;alrededor;around
+abstract;alteracion;change
+abstract;alteracion;alteration
+abstract;alteracion;modification
+abstract;cambio;change
+abstract;cambio;alteration
+abstract;cambio;modification
+abstract;modificacion;change
+abstract;modificacion;alteration
+abstract;modificacion;modification
+abstract;variacion;change
+abstract;variacion;alteration
+abstract;variacion;modification
+verb;alterar;change
+verb;alterar;alter
+verb;alterar;modify
+verb;cambiar;change
+verb;cambiar;alter
+verb;cambiar;modify
+science;alternativa;option
+science;alternativa;alternative
+science;alternativa;choice
+science;eleccion;option
+science;eleccion;alternative
+science;eleccion;choice
+science;opcion;option
+science;opcion;alternative
+science;opcion;choice
+geography;altitud;height
+geography;altitud;altitude
+geography;altura;height
+geography;altura;altitude
+geography;elevacion;height
+geography;elevacion;altitude
+adjective-basic;alto;high
+adjective;alto;tall
+adverb;alto;up
+adverb;alto;upwards
+adverb;alto;upward
+adverb;alto;upwardly
+vegetable;alubia;bean
+vegetable;alubia;edible bean
+vegetable;judia;bean
+vegetable;judia;edible bean
+verb;aludir;mention
+verb;aludir;advert
+verb;aludir;bring up
+verb;aludir;cite
+verb;aludir;name
+verb;aludir;refer
+verb;citar;mention
+verb;citar;advert
+verb;citar;bring up
+verb;citar;cite
+verb;citar;name
+verb;citar;refer
+verb;mencionar;mention
+verb;mencionar;advert
+verb;mencionar;bring up
+verb;mencionar;cite
+verb;mencionar;name
+verb;mencionar;refer
+verb;mentar;mention
+verb;mentar;advert
+verb;mentar;bring up
+verb;mentar;cite
+verb;mentar;name
+verb;mentar;refer
+verb;nombrar;mention
+verb;nombrar;advert
+verb;nombrar;bring up
+verb;nombrar;cite
+verb;nombrar;name
+verb;nombrar;refer
+education;alumno;student
+education;alumno;pupil
+education;alumno;educatee
+education;estudiante;student
+education;estudiante;pupil
+education;estudiante;educatee
+verb;alzar;lift
+verb;alzar;raise
+verb;alzar;elevate
+verb;alzar;get up
+verb;alzar;bring up
+verb;elevar;lift
+verb;elevar;raise
+verb;elevar;elevate
+verb;elevar;get up
+verb;elevar;bring up
+verb;levantar;lift
+verb;levantar;raise
+verb;levantar;elevate
+verb;levantar;get up
+verb;levantar;bring up
+verb;subir;lift
+verb;subir;raise
+verb;subir;elevate
+verb;subir;get up
+verb;subir;bring up
+verb;acosar;lift
+verb;acosar;raise
+verb;acosar;elevate
+verb;acosar;get up
+verb;acosar;bring up
+verb;realzar;lift
+verb;realzar;raise
+verb;realzar;elevate
+verb;realzar;get up
+verb;realzar;bring up
+verb;alzar;stand
+verb;alzar;stand up
+verb;levantar;stand
+verb;levantar;stand up
+adjective-people;amable;kind
+adjective-people;simpatico;kind
+adjective-people;gentil;kind
+verb-basic;amar;love
+verb-basic;querer;love
+adjective;amargo;bitter
+color;amarillo;yellow
+color;amarillo;yellowish
+color;amarillo;xanthous
+adjective;ambos;both
+family;amigo;friend
+adjective-people;amistoso;friendly
+adjective-people;amigable;friendly
+business;amo;owner
+business;amo;possessor
+business;dueña;owner
+business;dueña;possessor
+business;dueño;owner
+business;dueño;possessor
+business;propietario;owner
+business;propietario;possessor
+relations;amor;dear
+relations;amor;beloved
+relations;amor;dearest
+relations;amor;honey
+relations;amor;love
+relations;cariño;dear
+relations;cariño;beloved
+relations;cariño;dearest
+relations;cariño;honey
+relations;cariño;love
+relations;cielo;dear
+relations;cielo;beloved
+relations;cielo;dearest
+relations;cielo;honey
+relations;cielo;love
+relations;corazon;dear
+relations;corazon;beloved
+relations;corazon;dearest
+relations;corazon;honey
+relations;corazon;love
+relations;sol;dear
+relations;sol;beloved
+relations;sol;dearest
+relations;sol;honey
+relations;sol;love
+relations;dulzura;dear
+relations;dulzura;beloved
+relations;dulzura;dearest
+relations;dulzura;honey
+relations;dulzura;love
+relations;querida;dear
+relations;querida;beloved
+relations;querida;dearest
+relations;querida;honey
+relations;querida;love
+feeling;amor;love
+feeling;pasion;love
+adjective;amplio;wide
+adjective;amplio;broad
+adjective;ancho;wide
+adjective;ancho;broad
+fruit;anana;pineapple
+fruit;anana;ananas
+verb;andar;walk
+verb;caminar;walk
+clothes;anillo;ring
+clothes;anillo;band
+nature;animal;animal
+nature;animal;animate being
+nature;animal;beast
+nature;animal;brute
+nature;animal;creature
+nature;animal;fauna
+nature;bestia;animal
+nature;bestia;animate being
+nature;bestia;beast
+nature;bestia;brute
+nature;bestia;creature
+nature;bestia;fauna
+nature;criatura;animal
+nature;criatura;animate being
+nature;criatura;beast
+nature;criatura;brute
+nature;criatura;creature
+nature;criatura;fauna
+verb;animar;encourage
+verb;estimular;encourage
+time;anochecer;evening
+time;anochecer;eve
+time;anochecer;even
+time;anochecer;eventide
+time;atardecer;evening
+time;atardecer;eve
+time;atardecer;even
+time;atardecer;eventide
+time;noche;evening
+time;noche;eve
+time;noche;even
+time;noche;eventide
+adjective-people;ansioso;impatient
+adverb;ante todo;particularly
+adverb;ante todo;peculiarly
+adverb;ante todo;especially
+adverb;ante todo;specially
+adjective;anterior;previous
+adjective;anterior;old
+adverb;antes;before
+adverb;antes;earlier
+adjective;antiguo;former
+adjective;antiguo;erstwhile
+adjective;antiguo;old
+adjective;antiguo;onetime
+adjective;antiguo;one-time
+adjective;antiguo;quondam
+adjective;antiguo;sometime
+adjective;anterior;former
+adjective;anterior;erstwhile
+adjective;anterior;old
+adjective;anterior;onetime
+adjective;anterior;one-time
+adjective;anterior;quondam
+adjective;anterior;sometime
+verb;anunciar;announce
+verb;anunciar;denote
+verb;proclamar;announce
+verb;proclamar;denote
+business;anuncio;advertisement
+business;anuncio;ad
+business;anuncio;advertizement
+business;anuncio;advertising
+business;anuncio;advertizing
+business;anuncio;advert
+business;cartel;advertisement
+business;cartel;ad
+business;cartel;advertizement
+business;cartel;advertising
+business;cartel;advertizing
+business;cartel;advert
+business;letrero;advertisement
+business;letrero;ad
+business;letrero;advertizement
+business;letrero;advertising
+business;letrero;advertizing
+business;letrero;advert
+communication;anuncio;announcement
+communication;anuncio;proclamation
+communication;anuncio;annunciation
+communication;anuncio;declaration
+communication;proclamacion;announcement
+communication;proclamacion;proclamation
+communication;proclamacion;annunciation
+communication;proclamacion;declaration
+communication;apariencia;expression
+communication;apariencia;look
+communication;apariencia;aspect
+communication;apariencia;facial expression
+communication;apariencia;face
+communication;aspecto;expression
+communication;aspecto;look
+communication;aspecto;aspect
+communication;aspecto;facial expression
+communication;aspecto;face
+communication;estampa;expression
+communication;estampa;look
+communication;estampa;aspect
+communication;estampa;facial expression
+communication;estampa;face
+communication;expresion;expression
+communication;expresion;look
+communication;expresion;aspect
+communication;expresion;facial expression
+communication;expresion;face
+business;apartado;section
+business;apartado;subdivision
+business;seccion;section
+business;seccion;subdivision
+city;apartamento;flat
+city;apartamento;apartment
+city;piso;flat
+city;piso;apartment
+city;departamento;flat
+city;departamento;apartment
+verb;aplastar;crush
+verb;aplastar;smash
+verb;aplastar;nail
+verb;aplastar;boom
+verb;aplastar;blast
+verb;aplastar;crush
+verb;aplastar;squash
+verb;aplastar;squelch
+verb;aplastar;mash
+verb;aplastar;squeeze
+verb;machacar;crush
+verb;machacar;squash
+verb;machacar;squelch
+verb;machacar;mash
+verb;machacar;squeeze
+verb;apoyar;support
+verb;apoyar;back up
+verb;respaldar;support
+verb;respaldar;back up
+business;apoyo;support
+business;ayuda;support
+communication;apreciacion;opinion
+communication;apreciacion;sentiment
+communication;apreciacion;persuasion
+communication;apreciacion;view
+communication;apreciacion;thought
+communication;opinion;opinion
+communication;opinion;sentiment
+communication;opinion;persuasion
+communication;opinion;view
+communication;opinion;thought
+communication;parecer;opinion
+communication;parecer;sentiment
+communication;parecer;persuasion
+communication;parecer;view
+communication;parecer;thought
+communication;vision;opinion
+communication;vision;sentiment
+communication;vision;persuasion
+communication;vision;view
+communication;vision;thought
+communication;dictamen;opinion
+communication;dictamen;sentiment
+communication;dictamen;persuasion
+communication;dictamen;view
+communication;dictamen;thought
+communication;conjetura;opinion
+communication;conjetura;sentiment
+communication;conjetura;persuasion
+communication;conjetura;view
+communication;conjetura;thought
+communication;informe;opinion
+communication;informe;sentiment
+communication;informe;persuasion
+communication;informe;view
+communication;informe;thought
+communication;concepto;opinion
+communication;concepto;sentiment
+communication;concepto;persuasion
+communication;concepto;view
+communication;concepto;thought
+verb-basic;aprender;learn
+verb-basic;aprender;larn
+verb-basic;aprender;acquire
+adjective;apretado;tight
+verb-basic;apretar;push
+verb-basic;apretar;force
+verb-basic;empujar;push
+verb-basic;empujar;force
+verb;apretar;press
+verb;presionar;press
+communication;aprobacion;approval
+communication;aprobacion;blessing
+communication;aprobacion;approving
+communication;aceptacion;approval
+communication;aceptacion;blessing
+communication;aceptacion;approving
+communication;adhesion;approval
+communication;adhesion;blessing
+communication;adhesion;approving
+communication;consentimiento;approval
+communication;consentimiento;blessing
+communication;consentimiento;approving
+communication;consenso;approval
+communication;consenso;blessing
+communication;consenso;approving
+adverb;aproximadamente;approximately
+adverb;aproximadamente;about
+adverb;aproximadamente;close to
+adverb;aproximadamente;just about
+adverb;aproximadamente;some
+adverb;aproximadamente;roughly
+adverb;aproximadamente;more or less
+adverb;aproximadamente;around
+adverb;aproximadamente;or so
+pronoun;aquel;that
+adverb;aqui;here
+verb;arar;plow
+verb;arar;plough
+verb;arar;turn
+verb;binar;plow
+verb;binar;plough
+verb;binar;turn
+weather;arco iris;rainbow
+verb;arder;burn
+verb;arder;fire
+verb;arder;burn down
+verb;incendiar;burn
+verb;incendiar;fire
+verb;incendiar;burn down
+verb;quemar;burn
+verb;quemar;fire
+verb;quemar;burn down
+material;arena;sand
+communication;argumento;argument
+communication;argumento;statement
+furniture;armario;cupboard
+furniture;armario;closet
+verb-basic;arrastrar;pull
+verb-basic;arrastrar;draw
+verb-basic;arrastrar;force
+verb-basic;estirar;pull
+verb-basic;estirar;draw
+verb-basic;estirar;force
+verb-basic;tirar;pull
+verb-basic;tirar;draw
+verb-basic;tirar;force
+verb;arriesgar;risk
+verb;arriesgar;gamble
+verb;arriesgar;chance
+verb;arriesgar;hazard
+verb;arriesgar;take chances
+verb;arriesgar;adventure
+verb;arriesgar;run a risk
+verb;arriesgar;take a chance
+verb;aventurar;risk
+verb;aventurar;gamble
+verb;aventurar;chance
+verb;aventurar;hazard
+verb;aventurar;take chances
+verb;aventurar;adventure
+verb;aventurar;run a risk
+verb;aventurar;take a chance
+food;arroz;rice
+art;arte;art
+art;arte;fine art
+adjective;artificial;fake
+adjective;artificial;false
+adjective;artificial;faux
+adjective;artificial;imitation
+adjective;artificial;simulated
+adjective;falso;fake
+adjective;falso;false
+adjective;falso;faux
+adjective;falso;imitation
+adjective;falso;simulated
+art;artista;artist
+art;artista;creative person
+object;asa;handle
+object;asa;grip
+object;asa;handgrip
+object;asa;hold
+object;mango;handle
+object;mango;grip
+object;mango;handgrip
+object;mango;hold
+verb;asaltar;attack
+verb;asaltar;assail
+verb;asaltar;assault
+verb;asaltar;set on
+verb;atacar;attack
+verb;atacar;assail
+verb;atacar;assault
+verb;atacar;set on
+abstract;asalto;attack
+abstract;asalto;onslaught
+abstract;asalto;onset
+abstract;asalto;onrush
+abstract;ataque;attack
+abstract;ataque;onslaught
+abstract;ataque;onset
+abstract;ataque;onrush
+abstract;ascension;rise
+abstract;ascension;rising
+abstract;ascension;ascent
+abstract;ascension;ascension
+abstract;ascenso;rise
+abstract;ascenso;rising
+abstract;ascenso;ascent
+abstract;ascenso;ascension
+abstract;subida;rise
+abstract;subida;rising
+abstract;subida;ascent
+abstract;subida;ascension
+device;ascensor;elevator
+device;ascensor;lift
+furniture;asiento;seat
+furniture;banco;seat
+furniture;butaca;seat
+furniture;escaño;seat
+furniture;silla;seat
+abstract;asiento;seat
+abstract;asiento;place
+abstract;localidad;seat
+abstract;localidad;place
+abstract;plaza;seat
+abstract;plaza;place
+business;asistencia;help
+business;asistencia;aid
+business;asistencia;assist
+business;asistencia;assistance
+business;ayuda;help
+business;ayuda;aid
+business;ayuda;assist
+business;ayuda;assistance
+society;asociacion;club
+society;asociacion;social club
+society;asociacion;society
+society;asociacion;guild
+society;asociacion;gild
+society;asociacion;lodge
+society;asociacion;order
+society;club;club
+society;club;social club
+society;club;society
+society;club;guild
+society;club;gild
+society;club;lodge
+society;club;order
+society;clube;club
+society;clube;social club
+society;clube;society
+society;clube;guild
+society;clube;gild
+society;clube;lodge
+society;clube;order
+society;sociedad;club
+society;sociedad;social club
+society;sociedad;society
+society;sociedad;guild
+society;sociedad;gild
+society;sociedad;lodge
+society;sociedad;order
+society;circulo;club
+society;circulo;social club
+society;circulo;society
+society;circulo;guild
+society;circulo;gild
+society;circulo;lodge
+society;circulo;order
+relations;asombro;surprise
+relations;desconcierto;surprise
+relations;sorpresa;surprise
+adjective-people;astuto;sharp
+adjective-people;astuto;astute
+adjective-people;astuto;shrewd
+adjective-people;asunto;subject
+adjective-people;asunto;dependent
+abstract;asunto;matter
+abstract;asunto;affair
+abstract;asunto;thing
+abstract;cosa;matter
+abstract;cosa;affair
+abstract;cosa;thing
+communication;asunto;subject
+communication;asunto;topic
+communication;asunto;theme
+communication;objeto;subject
+communication;objeto;topic
+communication;objeto;theme
+communication;tema;subject
+communication;tema;topic
+communication;tema;theme
+communication;premisa;subject
+communication;premisa;topic
+communication;premisa;theme
+adverb;asi;so
+adverb;asi;therefore
+adverb;asi;hence
+adverb;asi;thence
+adverb;asi;thus
+adverb;asi;so
+business;atencion;attention
+business;atencion;attending
+medicine;atencion;care
+medicine;atencion;attention
+medicine;atencion;aid
+medicine;atencion;tending
+medicine;cuidado;care
+medicine;cuidado;attention
+medicine;cuidado;aid
+medicine;cuidado;tending
+verb;aterrizar;land
+verb;aterrizar;set down
+adjective;atroz;cruel
+adjective;atroz;barbarous
+adjective;atroz;brutal
+adjective;atroz;fell
+adjective;atroz;roughshod
+adjective;atroz;savage
+adjective;atroz;vicious
+adjective;barbaro;cruel
+adjective;barbaro;barbarous
+adjective;barbaro;brutal
+adjective;barbaro;fell
+adjective;barbaro;roughshod
+adjective;barbaro;savage
+adjective;barbaro;vicious
+adjective;brutal;cruel
+adjective;brutal;barbarous
+adjective;brutal;brutal
+adjective;brutal;fell
+adjective;brutal;roughshod
+adjective;brutal;savage
+adjective;brutal;vicious
+adjective;cruel;cruel
+adjective;cruel;barbarous
+adjective;cruel;brutal
+adjective;cruel;fell
+adjective;cruel;roughshod
+adjective;cruel;savage
+adjective;cruel;vicious
+adjective;salvaje;cruel
+adjective;salvaje;barbarous
+adjective;salvaje;brutal
+adjective;salvaje;fell
+adjective;salvaje;roughshod
+adjective;salvaje;savage
+adjective;salvaje;vicious
+abstract;auge;top
+abstract;auge;peak
+abstract;auge;summit
+abstract;auge;acme
+abstract;auge;height
+abstract;auge;elevation
+abstract;auge;pinnacle
+abstract;auge;superlative
+abstract;auge;meridian
+abstract;auge;tiptop
+abstract;cima;top
+abstract;cima;peak
+abstract;cima;summit
+abstract;cima;acme
+abstract;cima;height
+abstract;cima;elevation
+abstract;cima;pinnacle
+abstract;cima;superlative
+abstract;cima;meridian
+abstract;cima;tiptop
+abstract;pico;top
+abstract;pico;peak
+abstract;pico;summit
+abstract;pico;acme
+abstract;pico;height
+abstract;pico;elevation
+abstract;pico;pinnacle
+abstract;pico;superlative
+abstract;pico;meridian
+abstract;pico;tiptop
+verb;aumentar;increase
+verb;incrementar;increase
+verb;crecer;increase
+abstract;aumento;increase
+abstract;aumento;increment
+abstract;aumento;growth
+abstract;crecimiento;increase
+abstract;crecimiento;increment
+abstract;crecimiento;growth
+abstract;incremento;increase
+abstract;incremento;increment
+abstract;incremento;growth
+abstract;multiplicacion;increase
+abstract;multiplicacion;increment
+abstract;multiplicacion;growth
+adverb;aunque;however
+adverb;aunque;nevertheless
+adverb;aunque;withal
+adverb;aunque;still
+adverb;aunque;yet
+adverb;aunque;all the same
+adverb;aunque;even so
+adverb;aunque;nonetheless
+adverb;aunque;notwithstanding
+transport;auto;car
+transport;auto;auto
+transport;auto;automobile
+transport;auto;machine
+transport;auto;motorcar
+transport;automovil;car
+transport;automovil;auto
+transport;automovil;automobile
+transport;automovil;machine
+transport;automovil;motorcar
+transport;coche;car
+transport;coche;auto
+transport;coche;automobile
+transport;coche;machine
+transport;coche;motorcar
+transport;turismo;car
+transport;turismo;auto
+transport;turismo;automobile
+transport;turismo;machine
+transport;turismo;motorcar
+transport;carro;car
+transport;carro;auto
+transport;carro;automobile
+transport;carro;machine
+transport;carro;motorcar
+transport;cacharro;car
+transport;cacharro;auto
+transport;cacharro;automobile
+transport;cacharro;machine
+transport;cacharro;motorcar
+transport;autobus;bus
+transport;autobus;autobus
+transport;autobus;coach
+transport;autobus;charabanc
+transport;autobus;double-decker
+transport;autobus;jitney
+transport;autobus;motorbus
+transport;autobus;motorcoach
+transport;autobus;omnibus
+transport;autobus;passenger vehicle
+transport;colectivo;bus
+transport;colectivo;autobus
+transport;colectivo;coach
+transport;colectivo;charabanc
+transport;colectivo;double-decker
+transport;colectivo;jitney
+transport;colectivo;motorbus
+transport;colectivo;motorcoach
+transport;colectivo;omnibus
+transport;colectivo;passenger vehicle
+transport;camion;bus
+transport;camion;autobus
+transport;camion;coach
+transport;camion;charabanc
+transport;camion;double-decker
+transport;camion;jitney
+transport;camion;motorbus
+transport;camion;motorcoach
+transport;camion;omnibus
+transport;camion;passenger vehicle
+adjective;automatico;automatic
+profession;autor;writer
+profession;autor;author
+profession;escritor;writer
+profession;escritor;author
+society;autoridad;leader
+society;dirigente;leader
+society;lider;leader
+business;autoridad;authority
+business;autoridad;authorization
+business;autoridad;authorisation
+business;autoridad;potency
+business;autoridad;dominance
+business;autoridad;say-so
+business;dominacion;authority
+business;dominacion;authorization
+business;dominacion;authorisation
+business;dominacion;potency
+business;dominacion;dominance
+business;dominacion;say-so
+business;dominio;authority
+business;dominio;authorization
+business;dominio;authorisation
+business;dominio;potency
+business;dominio;dominance
+business;dominio;say-so
+business;poder;authority
+business;poder;authorization
+business;poder;authorisation
+business;poder;potency
+business;poder;dominance
+business;poder;say-so
+business;potencia;authority
+business;potencia;authorization
+business;potencia;authorisation
+business;potencia;potency
+business;potencia;dominance
+business;potencia;say-so
+business;autorizacion;authority
+business;autorizacion;authorization
+business;autorizacion;authorisation
+business;autorizacion;potency
+business;autorizacion;dominance
+business;autorizacion;say-so
+society;autoridad;dominion
+society;autoridad;rule
+society;dominio;dominion
+society;dominio;rule
+society;autoridad;government
+society;autoridad;authorities
+society;autoridad;regime
+society;gobierno;government
+society;gobierno;authorities
+society;gobierno;regime
+society;regimen;government
+society;regimen;authorities
+society;regimen;regime
+verb;autorizar;title
+verb;autorizar;entitle
+verb;titular;title
+verb;titular;entitle
+animal;ave;bird
+animal;pajaro;bird
+verb;averiguar;determine
+verb;averiguar;check
+verb;averiguar;find out
+verb;averiguar;see
+verb;averiguar;ascertain
+verb;averiguar;watch
+verb;averiguar;learn
+verb;determinar;determine
+verb;determinar;check
+verb;determinar;find out
+verb;determinar;see
+verb;determinar;ascertain
+verb;determinar;watch
+verb;determinar;learn
+transport;avion;plane
+transport;avion;airplane
+transport;avion;aeroplane
+verb-basic;ayudar;help
+verb-basic;ayudar;assist
+verb-basic;ayudar;aid
+verb-basic;asistir;help
+verb-basic;asistir;assist
+verb-basic;asistir;aid
+tool;azote;whip
+color;azul;blue
+color;azul;bluish
+color;azul;blueish
+food;azucar;sugar
+food;azucar;refined sugar
+time;año;year
+time;año;twelvemonth
+time;año;yr
+verb-basic;bailar;dance
+verb-basic;bailar;trip the light fantastic
+verb-basic;bailar;trip the light fantastic toe
+verb-basic;saltar;dance
+verb-basic;saltar;trip the light fantastic
+verb-basic;saltar;trip the light fantastic toe
+adjective;bajo;low
+adjective;bajo;under
+adjective;bajo;nether
+adjective;inferior;under
+adjective;inferior;nether
+sports;balon;ball
+sports;pelota;ball
+city;banco;bank
+city;banco;depository financial institution
+city;banco;banking concern
+city;banco;banking company
+art;banda;band
+art;banda;dance band
+art;banda;dance orchestra
+object;bandera;flag
+adjective;barato;cheap
+adjective;barato;inexpensive
+anatomy;barba;chin
+anatomy;barba;mentum
+anatomy;barbilla;chin
+anatomy;barbilla;mentum
+transport;barca;boat
+transport;barco;ship
+transport;buque;ship
+transport;nave;ship
+society;base;base
+society;base;base of operations
+adverb;bastante;enough
+adverb;bastante;plenty
+drink;batido;milkshake
+drink;batido;milk shake
+drink;batido;shake
+house;baño;bathroom
+house;baño;bath
+house;baño;toilet
+house;baño;lavatory
+house;baño;lav
+house;baño;can
+house;baño;john
+house;baño;privy
+house;baño;bathroom
+house;letrina;toilet
+house;letrina;lavatory
+house;letrina;lav
+house;letrina;can
+house;letrina;john
+house;letrina;privy
+house;letrina;bathroom
+verb-basic;beber;drink
+verb-basic;beber;imbibe
+verb-basic;tomar;drink
+verb-basic;tomar;imbibe
+drink;bebida;drink
+drink;bebida;beverage
+drink;bebida;drinkable
+drink;bebida;potable
+adjective-basic;bello;beautiful
+adjective-basic;bonito;beautiful
+adjective-basic;hermoso;beautiful
+adjective-basic;precioso;beautiful
+adjective-basic;esplendido;beautiful
+verb;beneficiar;benefit
+verb;beneficiar;do good
+verb;beneficiarse;profit
+verb;beneficiarse;turn a profit
+verb-basic;besar;kiss
+verb-basic;besar;snog
+verb-basic;besar;buss
+verb-basic;besar;osculate
+relations;beso;kiss
+relations;beso;buss
+relations;beso;osculation
+city;biblioteca;library
+sports;bicicleta;bike
+sports;bicicleta;bicycle
+sports;bicicleta;wheel
+sports;bicicleta;cycle
+adverb;bien;well
+adverb;bien;good
+business;billete;banknote
+business;billete;bill
+business;billete;note
+business;billete;government note
+business;billete;bank bill
+business;billete;banker's bill
+business;billete;bank note
+business;billete;Federal Reserve note
+business;billete;greenback
+object;billete;ticket
+object;pasaje;ticket
+science;biologia;biology
+science;biologia;biological science
+color;blanco;white
+color;candido;white
+adjective-basic;blando;soft
+adjective-basic;muelle;soft
+anatomy;boca;mouth
+anatomy;boca;oral cavity
+anatomy;boca;oral fissure
+anatomy;boca;rima oris
+food;bocadillo;sandwich
+family;boda;wedding
+family;boda;marriage
+family;boda;marriage ceremony
+family;boda;wedding
+family;boda;wedding ceremony
+family;boda;nuptials
+family;boda;hymeneals
+family;boda nupcial;wedding
+family;boda nupcial;wedding ceremony
+family;boda nupcial;nuptials
+family;boda nupcial;hymeneals
+family;casamiento;wedding
+family;casamiento;wedding ceremony
+family;casamiento;nuptials
+family;casamiento;hymeneals
+communication;bola;lie
+communication;bola;prevarication
+communication;historia;lie
+communication;historia;prevarication
+communication;mentira;lie
+communication;mentira;prevarication
+communication;pelicula;lie
+communication;pelicula;prevarication
+communication;falsedad;lie
+communication;falsedad;prevarication
+container;bolsa;bag
+container;bolso;bag
+clothes;bolso;bag
+clothes;bolso;handbag
+clothes;bolso;pocketbook
+clothes;bolso;purse
+tool;bomba;pump
+mathematics;borde;edge
+mathematics;borde;border
+mathematics;canto;edge
+mathematics;canto;border
+mathematics;margen;edge
+mathematics;margen;border
+mathematics;arista;edge
+mathematics;arista;border
+mathematics;orilla;edge
+mathematics;orilla;border
+nature;bosque;forest
+nature;bosque;wood
+nature;bosque;woods
+nature;floresta;forest
+nature;floresta;wood
+nature;floresta;woods
+nature;jungla;forest
+nature;jungla;wood
+nature;jungla;woods
+clothes;bota;boot
+container;bote;can
+container;bote;tin
+container;bote;tin can
+container;lata;can
+container;lata;tin
+container;lata;tin can
+container;frasco;can
+container;frasco;tin
+container;frasco;tin can
+container;botella;bottle
+tool;boton;button
+tool;boton;push button
+tool;boton;push
+tool;tecla;button
+tool;tecla;push button
+tool;tecla;push
+anatomy;brazo;arm
+adjective;brillante;bright
+adjective;brillante;brilliant
+adjective;brillante;vivid
+adjective;vivo;bright
+adjective;vivo;brilliant
+adjective;vivo;vivid
+adverb;bruscamente;suddenly
+adverb;bruscamente;all of a sudden
+adverb;bruscamente;of a sudden
+conversation;buena suerte;good luck
+adjective-basic;bueno;good
+conversation;buenos dias;good day
+business;bulto;package
+business;bulto;bundle
+business;bulto;packet
+business;bulto;parcel
+business;lio;package
+business;lio;bundle
+business;lio;packet
+business;lio;parcel
+business;paquete;package
+business;paquete;bundle
+business;paquete;packet
+business;paquete;parcel
+adjective-basic;barbaro;great
+adjective-basic;barbaro;bang-up
+adjective-basic;barbaro;bully
+adjective-basic;barbaro;corking
+adjective-basic;barbaro;cracking
+adjective-basic;barbaro;dandy
+adjective-basic;barbaro;groovy
+adjective-basic;barbaro;keen
+adjective-basic;barbaro;neat
+adjective-basic;barbaro;nifty
+adjective-basic;barbaro;not bad
+adjective-basic;barbaro;peachy
+adjective-basic;barbaro;slap-up
+adjective-basic;barbaro;swell
+adjective-basic;barbaro;smashing
+adjective-basic;brutal;great
+adjective-basic;brutal;bang-up
+adjective-basic;brutal;bully
+adjective-basic;brutal;corking
+adjective-basic;brutal;cracking
+adjective-basic;brutal;dandy
+adjective-basic;brutal;groovy
+adjective-basic;brutal;keen
+adjective-basic;brutal;neat
+adjective-basic;brutal;nifty
+adjective-basic;brutal;not bad
+adjective-basic;brutal;peachy
+adjective-basic;brutal;slap-up
+adjective-basic;brutal;swell
+adjective-basic;brutal;smashing
+adjective-basic;genial;great
+adjective-basic;genial;bang-up
+adjective-basic;genial;bully
+adjective-basic;genial;corking
+adjective-basic;genial;cracking
+adjective-basic;genial;dandy
+adjective-basic;genial;groovy
+adjective-basic;genial;keen
+adjective-basic;genial;neat
+adjective-basic;genial;nifty
+adjective-basic;genial;not bad
+adjective-basic;genial;peachy
+adjective-basic;genial;slap-up
+adjective-basic;genial;swell
+adjective-basic;genial;smashing
+adjective-basic;basico;basic
+adjective-basic;basilar;basic
+sports;beisbol;baseball
+sports;beisbol;baseball game
+animal;caballo;horse
+animal;caballo;Equus caballus
+anatomy;cabeza;head
+anatomy;cabeza;caput
+abstract;cabeza;mind
+abstract;cabeza;head
+abstract;cabeza;brain
+abstract;cabeza;psyche
+abstract;cabeza;nous
+abstract;cerebro;mind
+abstract;cerebro;head
+abstract;cerebro;brain
+abstract;cerebro;psyche
+abstract;cerebro;nous
+abstract;mente;mind
+abstract;mente;head
+abstract;mente;brain
+abstract;mente;psyche
+abstract;mente;nous
+abstract;animo;mind
+abstract;animo;head
+abstract;animo;brain
+abstract;animo;psyche
+abstract;animo;nous
+time;cabo;end
+time;cabo;terminal
+time;final;end
+time;final;terminal
+animal;cabra;goat
+animal;cabra;caprine animal
+adjective;cada;each
+adverb;cada;either
+adjective;cada;every
+object;cadena;chain
+verb-basic;caer;fall
+verb-basic;derrumbarse;fall
+verb-basic;desplomarse;fall
+drink;cafe;coffee
+drink;cafe;java
+container;caja;box
+container;cajita;box
+container;cajon;drawer
+clothes;calcetin;sock
+verb;calcular;estimate
+verb;calcular;gauge
+verb;calcular;approximate
+verb;calcular;guess
+verb;calcular;judge
+verb;echar;estimate
+verb;echar;gauge
+verb;echar;approximate
+verb;echar;guess
+verb;echar;judge
+verb;estimar;estimate
+verb;estimar;gauge
+verb;estimar;approximate
+verb;estimar;guess
+verb;estimar;judge
+environment;calentamiento global;global warming
+verb;calentar;warm
+abstract;calidad;quality
+abstract;cualidad;quality
+education;calificacion;grade
+education;calificacion;mark
+education;calificacion;score
+education;nota;grade
+education;nota;mark
+education;nota;score
+city;calle;street
+city;camino;street
+city;avenida;street
+city;calzada;street
+furniture;cama;bed
+business;cambio;change
+environment;cambio climatico;climate change
+environment;cambio climatico;global climate change
+business;camino;direction
+business;curso;direction
+business;direccion;direction
+business;trayectoria;direction
+abstract;camino;means
+abstract;camino;agency
+abstract;camino;way
+abstract;forma;means
+abstract;forma;agency
+abstract;forma;way
+abstract;manera;means
+abstract;manera;agency
+abstract;manera;way
+abstract;modo;means
+abstract;modo;agency
+abstract;modo;way
+clothes;camisa;shirt
+tool;campana;bell
+geography;campaña;plain
+geography;campaña;field
+geography;campaña;champaign
+geography;llanura;plain
+geography;llanura;field
+geography;llanura;champaign
+abstract;campaña;campaign
+abstract;campaña;cause
+abstract;campaña;crusade
+abstract;campaña;drive
+abstract;campaña;movement
+abstract;campaña;effort
+abstract;movimiento;campaign
+abstract;movimiento;cause
+abstract;movimiento;crusade
+abstract;movimiento;drive
+abstract;movimiento;movement
+abstract;movimiento;effort
+sports;campeonato;championship
+sports;campeonato;title
+business;campeonato;contest
+business;campeonato;competition
+business;competicion;contest
+business;competicion;competition
+business;concurso;contest
+business;concurso;competition
+nature;campo;field
+nature;terreno;field
+art;cancion;song
+art;cancion;vocal
+adjective-people;cansado;tired
+art;cantante;singer
+art;cantante;vocalist
+art;cantante;vocalizer
+art;cantante;vocaliser
+verb-basic;cantar;sing
+abstract;cantidad;amount
+abstract;cuantia;amount
+abstract;capacidad;ability
+abstract;capacidad;power
+abstract;ingenio;ability
+abstract;ingenio;power
+abstract;poder;ability
+abstract;poder;power
+adjective-people;capaz;able
+city;capital;capital
+business;capital;capital
+business;capital;working capital
+anatomy;cara;face
+anatomy;cara;human face
+anatomy;faz;face
+anatomy;faz;human face
+anatomy;rostro;face
+anatomy;rostro;human face
+abstract;caracteristica;feature
+abstract;caracteristica;characteristic
+abstract;rasgo;feature
+abstract;rasgo;characteristic
+material;carbon;coal
+physics;carga;charge
+physics;carga;electric charge
+business;carga;tax
+business;carga;taxation
+business;carga;revenue enhancement
+business;contribucion;tax
+business;contribucion;taxation
+business;contribucion;revenue enhancement
+business;imposicion;tax
+business;imposicion;taxation
+business;imposicion;revenue enhancement
+business;impuesto;tax
+business;impuesto;taxation
+business;impuesto;revenue enhancement
+business;tasa;tax
+business;tasa;taxation
+business;tasa;revenue enhancement
+business;tributacion;tax
+business;tributacion;taxation
+business;tributacion;revenue enhancement
+verb;cargar;load
+verb;cargar;charge
+verb;cargar;carry
+verb;cargar;transport
+verb;transportar;carry
+verb;transportar;transport
+business;cargo;complaint
+business;cargo;charge
+food;carne;meat
+city;carretera;road
+city;carretera;route
+transport;carril;track
+transport;carril;rail
+transport;carril;rails
+transport;carril;runway
+transport;riel;track
+transport;riel;rail
+transport;riel;rails
+transport;riel;runway
+transport;linea;track
+transport;linea;rail
+transport;linea;rails
+transport;linea;runway
+object;carta;card
+object;carta;menu
+object;carta;bill of fare
+object;carta;card
+object;carta;carte du jour
+object;carta;carte
+communication;carta;letter
+communication;carta;missive
+communication;misiva;letter
+communication;misiva;missive
+communication;esquela;letter
+communication;esquela;missive
+communication;epistola;letter
+communication;epistola;missive
+communication;caracter;character
+communication;caracter;grapheme
+communication;caracter;graphic symbol
+communication;caracter;letter
+communication;caracter;letter of the alphabet
+communication;caracter;alphabetic character
+communication;letra;letter
+communication;letra;letter of the alphabet
+communication;letra;alphabetic character
+house;casa;house
+business;casa;firm
+business;casa;house
+business;casa;business firm
+business;firma;firm
+business;firma;house
+business;firma;business firm
+house;casa;home
+house;casa;place
+house;hogar;home
+house;hogar;place
+house;techo;home
+house;techo;place
+house;familia;home
+house;familia;place
+adjective-people;casado;married
+verb;casarse;marry
+verb;casarse;get married
+verb;casarse;wed
+verb;casarse;conjoin
+verb;casarse;hook up with
+verb;casarse;get hitched with
+verb;casarse;espouse
+adverb;casi;almost
+adverb;casi;about
+adverb;casi;most
+adverb;casi;nearly
+adverb;casi;near
+adverb;casi;nigh
+adverb;casi;virtually
+adverb;casi;well-nigh
+adverb;aproximadamente;almost
+adverb;aproximadamente;about
+adverb;aproximadamente;most
+adverb;aproximadamente;nearly
+adverb;aproximadamente;near
+adverb;aproximadamente;nigh
+adverb;aproximadamente;virtually
+adverb;aproximadamente;well-nigh
+abstract;caso;case
+abstract;caso;instance
+abstract;caso;example
+language;castellano;Spanish
+language;español;Spanish
+society;castigo;punishment
+society;castigo;penalty
+society;castigo;penalization
+society;castigo;penalisation
+city;castillo;castle
+number;catorce;fourteen
+number;catorce;14
+number;catorce;xiv
+science;causa;cause
+verb;causar;cause
+verb;causar;induce
+verb;causar;stimulate
+verb;causar;have
+verb;causar;get
+verb;causar;make
+verb;hacer;cause
+verb;hacer;induce
+verb;hacer;stimulate
+verb;hacer;have
+verb;hacer;get
+verb;hacer;make
+verb;inducir;cause
+verb;inducir;induce
+verb;inducir;stimulate
+verb;inducir;have
+verb;inducir;get
+verb;inducir;make
+verb;cazar;catch
+verb;cazar;grab
+verb;cazar;take hold of
+abstract;caida;fall
+abstract;caida;spill
+abstract;caida;tumble
+vegetable;cebolla;onion
+vegetable;cebolla;onion plant
+vegetable;cebolla;Allium cepa
+verb;ceder;pass
+verb;ceder;hand
+verb;ceder;reach
+verb;ceder;pass on
+verb;ceder;turn over
+verb;ceder;give
+verb;dar;pass
+verb;dar;hand
+verb;dar;reach
+verb;dar;pass on
+verb;dar;turn over
+verb;dar;give
+verb;entregar;pass
+verb;entregar;hand
+verb;entregar;reach
+verb;entregar;pass on
+verb;entregar;turn over
+verb;entregar;give
+verb;pasar;pass
+verb;pasar;hand
+verb;pasar;reach
+verb;pasar;pass on
+verb;pasar;turn over
+verb;pasar;give
+verb;traspasar;pass
+verb;traspasar;hand
+verb;traspasar;reach
+verb;traspasar;pass on
+verb;traspasar;turn over
+verb;traspasar;give
+adjective;central;central
+mathematics;centro;center
+mathematics;centro;centre
+mathematics;centro;midpoint
+science;centro;center
+science;centro;kernel
+science;centro;substance
+science;centro;core
+science;centro;centre
+science;centro;essence
+science;centro;gist
+science;centro;heart
+science;centro;heart and soul
+science;centro;inwardness
+science;centro;marrow
+science;centro;meat
+science;centro;nub
+science;centro;pith
+science;centro;sum
+science;centro;nitty-gritty
+science;corazon;center
+science;corazon;kernel
+science;corazon;substance
+science;corazon;core
+science;corazon;centre
+science;corazon;essence
+science;corazon;gist
+science;corazon;heart
+science;corazon;heart and soul
+science;corazon;inwardness
+science;corazon;marrow
+science;corazon;meat
+science;corazon;nub
+science;corazon;pith
+science;corazon;sum
+science;corazon;nitty-gritty
+science;esencia;center
+science;esencia;kernel
+science;esencia;substance
+science;esencia;core
+science;esencia;centre
+science;esencia;essence
+science;esencia;gist
+science;esencia;heart
+science;esencia;heart and soul
+science;esencia;inwardness
+science;esencia;marrow
+science;esencia;meat
+science;esencia;nub
+science;esencia;pith
+science;esencia;sum
+science;esencia;nitty-gritty
+science;nucleo;center
+science;nucleo;kernel
+science;nucleo;substance
+science;nucleo;core
+science;nucleo;centre
+science;nucleo;essence
+science;nucleo;gist
+science;nucleo;heart
+science;nucleo;heart and soul
+science;nucleo;inwardness
+science;nucleo;marrow
+science;nucleo;meat
+science;nucleo;nub
+science;nucleo;pith
+science;nucleo;sum
+science;nucleo;nitty-gritty
+science;sustancia;center
+science;sustancia;kernel
+science;sustancia;substance
+science;sustancia;core
+science;sustancia;centre
+science;sustancia;essence
+science;sustancia;gist
+science;sustancia;heart
+science;sustancia;heart and soul
+science;sustancia;inwardness
+science;sustancia;marrow
+science;sustancia;meat
+science;sustancia;nub
+science;sustancia;pith
+science;sustancia;sum
+science;sustancia;nitty-gritty
+art;cepillo;brush
+adjective-basic;cercano;near
+adjective-basic;cercano;close
+adjective-basic;cercano;nigh
+anatomy;cerebro;brain
+anatomy;cerebro;encephalon
+fruit;cereza;cherry
+number;cero;nothing
+number;cero;nil
+number;cero;nix
+number;cero;nada
+number;cero;null
+number;cero;aught
+number;cero;cipher
+number;cero;cypher
+number;cero;goose egg
+number;cero;naught
+number;cero;zero
+number;cero;zilch
+number;cero;zip
+number;cero;zippo
+number;nada;nothing
+number;nada;nil
+number;nada;nix
+number;nada;nada
+number;nada;null
+number;nada;aught
+number;nada;cipher
+number;nada;cypher
+number;nada;goose egg
+number;nada;naught
+number;nada;zero
+number;nada;zilch
+number;nada;zip
+number;nada;zippo
+adjective;cerrado;closed
+adjective;cerrado;shut
+adjective;cerrado;unopen
+tool;cerradura;lock
+verb;cerrar;lock
+verb-basic;cerrar;close
+verb-basic;cerrar;shut
+verb-basic;tapar;close
+verb-basic;tapar;shut
+verb-basic;cercar;close
+verb-basic;cercar;shut
+drink;cerveza;beer
+container;cesto;basket
+container;cesto;handbasket
+container;aro;basket
+container;aro;handbasket
+container;cesta;basket
+container;cesta;handbasket
+clothes;chaqueta;coat
+clothes;chaqueta;jacket
+family;chaval;boy
+family;chaval;male child
+family;chico;boy
+family;chico;male child
+family;garzon;boy
+family;garzon;male child
+family;joven;boy
+family;joven;male child
+family;mozo;boy
+family;mozo;male child
+family;muchacho;boy
+family;muchacho;male child
+family;niño;boy
+family;niño;male child
+relations;chica;girlfriend
+relations;chica;girl
+relations;chica;lady friend
+relations;compañera;girlfriend
+relations;compañera;girl
+relations;compañera;lady friend
+relations;novia;girlfriend
+relations;novia;girl
+relations;novia;lady friend
+relations;pareja;girlfriend
+relations;pareja;girl
+relations;pareja;lady friend
+family;chica;girl
+family;chica;miss
+family;chica;missy
+family;chica;young lady
+family;chica;young woman
+family;chica;fille
+family;joven;girl
+family;joven;miss
+family;joven;missy
+family;joven;young lady
+family;joven;young woman
+family;joven;fille
+family;señorita;girl
+family;señorita;miss
+family;señorita;missy
+family;señorita;young lady
+family;señorita;young woman
+family;señorita;fille
+language;chino;Chinese
+food;chocolate;chocolate
+feeling;choque;shock
+feeling;choque;daze
+feeling;choque;stupor
+abstract;choque;jolt
+abstract;choque;jar
+abstract;choque;jounce
+abstract;choque;shock
+abstract;sacudida;jolt
+abstract;sacudida;jar
+abstract;sacudida;jounce
+abstract;sacudida;shock
+nature;cielo;sky
+number;cien;hundred
+number;cien;one hundred
+number;cien;100
+number;cien;c
+number;ciento;hundred
+number;ciento;one hundred
+number;ciento;100
+number;ciento;c
+number;centenar;hundred
+number;centenar;one hundred
+number;centenar;100
+number;centenar;c
+science;ciencia;science
+science;ciencia;scientific discipline
+profession;cientifico;scientist
+adverb;ciertamente;surely
+adverb;ciertamente;certainly
+adverb;ciertamente;sure
+adverb;ciertamente;for sure
+adverb;ciertamente;for certain
+adverb;ciertamente;sure enough
+adverb;ciertamente;sure as shooting
+number;cinco;five
+number;cinco;5
+number;cinco;v
+number;cincuenta;fifty
+number;cincuenta;50
+number;cincuenta;l
+city;cine;cinema
+city;cine;movie theater
+city;cine;movie theatre
+city;cine;movie house
+city;cine;picture palace
+city;biografo;cinema
+city;biografo;movie theater
+city;biografo;movie theatre
+city;biografo;movie house
+city;biografo;picture palace
+fruit;ciruela;plum
+city;ciudad;city
+city;ciudad;metropolis
+city;ciudad;urban center
+city;metropolis;city
+city;metropolis;metropolis
+city;metropolis;urban center
+society;civilizacion;culture
+society;civilizacion;civilization
+society;civilizacion;civilisation
+society;cultura;culture
+society;cultura;civilization
+society;cultura;civilisation
+society;conocimiento;culture
+society;conocimiento;civilization
+society;conocimiento;civilisation
+society;ilustracion;culture
+society;ilustracion;civilization
+society;ilustracion;civilisation
+adverb;claramente;clearly
+adverb;desnudamente;clearly
+adverb;claramente;clearly
+adverb;evidentemente;clearly
+adverb;obviamente;clearly
+adverb;ostensiblemente;clearly
+adjective;claro;clear
+adjective;claro;sparse
+adjective;claro;thin
+adjective;disperso;sparse
+adjective;disperso;thin
+business;clase;course
+business;clase;class
+business;clase;course of study
+business;clase;course of instruction
+business;curso;course
+business;curso;class
+business;curso;course of study
+business;curso;course of instruction
+education;clase;class
+education;clase;form
+education;clase;grade
+education;clase;course
+education;curso;class
+education;curso;form
+education;curso;grade
+education;curso;course
+education;seccion;class
+education;seccion;form
+education;seccion;grade
+education;seccion;course
+abstract;clase;kind
+abstract;clase;sort
+abstract;clase;form
+abstract;clase;variety
+abstract;tipo;kind
+abstract;tipo;sort
+abstract;tipo;form
+abstract;tipo;variety
+verb;clasificar;rate
+verb;clasificar;rank
+verb;clasificar;range
+verb;clasificar;order
+verb;clasificar;grade
+verb;clasificar;place
+verb;clasificar;classify
+verb;clasificar;class
+verb;clasificar;sort
+verb;clasificar;assort
+verb;clasificar;sort out
+verb;clasificar;separate
+verb;separar;classify
+verb;separar;class
+verb;separar;sort
+verb;separar;assort
+verb;separar;sort out
+verb;separar;separate
+verb;organizar;classify
+verb;organizar;class
+verb;organizar;sort
+verb;organizar;assort
+verb;organizar;sort out
+verb;organizar;separate
+tool;clavo;nail
+business;cliente;customer
+business;cliente;client
+city;clinica;hospital
+city;clinica;infirmary
+city;hospital;hospital
+city;hospital;infirmary
+house;cochera;garage
+house;cocina;kitchen
+kitchen;cocinero;cook
+verb-basic;coger;understand
+verb-basic;comprender;understand
+verb-basic;entender;understand
+verb;coger;choose
+verb;coger;take
+verb;coger;select
+verb;coger;pick out
+verb;escoger;choose
+verb;escoger;take
+verb;escoger;select
+verb;escoger;pick out
+verb;seleccionar;choose
+verb;seleccionar;take
+verb;seleccionar;select
+verb;seleccionar;pick out
+verb;preferir;choose
+verb;preferir;take
+verb;preferir;select
+verb;preferir;pick out
+verb-basic;coger;take
+verb-basic;coger;get hold of
+verb-basic;tomar;take
+verb-basic;tomar;get hold of
+verb;coincidir;agree
+verb;coincidir;hold
+verb;coincidir;concur
+verb;coincidir;concord
+verb;consentir;agree
+verb;consentir;hold
+verb;consentir;concur
+verb;consentir;concord
+anatomy;cola;tail
+material;cola;glue
+material;cola;gum
+material;cola;mucilage
+material;goma;glue
+material;goma;gum
+material;goma;mucilage
+material;pegamento;glue
+material;pegamento;gum
+material;pegamento;mucilage
+city;colegio;school
+city;colegio;schoolhouse
+city;escuela;school
+city;escuela;schoolhouse
+geography;colina;hill
+geography;monte;hill
+art;color;color
+art;color;colour
+art;color;coloring material
+art;color;colouring material
+abstract;combate;fight
+abstract;combate;fighting
+abstract;combate;combat
+abstract;combate;scrap
+abstract;lucha;fight
+abstract;lucha;fighting
+abstract;lucha;combat
+abstract;lucha;scrap
+environment;combustible fosil;fossil fuel
+verb-basic;comenzar;begin
+verb-basic;comenzar;start
+verb-basic;comenzar;get down
+verb-basic;comenzar;get
+verb-basic;comenzar;start out
+verb-basic;comenzar;set about
+verb-basic;comenzar;set out
+verb-basic;comenzar;commence
+verb-basic;empezar;begin
+verb-basic;empezar;start
+verb-basic;empezar;get down
+verb-basic;empezar;get
+verb-basic;empezar;start out
+verb-basic;empezar;set about
+verb-basic;empezar;set out
+verb-basic;empezar;commence
+verb-basic;iniciar;begin
+verb-basic;iniciar;start
+verb-basic;iniciar;get down
+verb-basic;iniciar;get
+verb-basic;iniciar;start out
+verb-basic;iniciar;set about
+verb-basic;iniciar;set out
+verb-basic;iniciar;commence
+verb-basic;comer;eat
+verb;comerciar;trade
+verb;comerciar;merchandise
+business;comercio;trade
+business;cometido;job
+business;cometido;task
+business;cometido;chore
+business;faena;job
+business;faena;task
+business;faena;chore
+business;quehacer;job
+business;quehacer;task
+business;quehacer;chore
+business;tarea;job
+business;tarea;task
+business;tarea;chore
+business;trabajo;job
+business;trabajo;task
+business;trabajo;chore
+business;empleo;job
+business;empleo;task
+business;empleo;chore
+food;comida;meal
+food;comida;repast
+time;comienzo;beginning
+time;comienzo;commencement
+time;comienzo;first
+time;comienzo;outset
+time;comienzo;get-go
+time;comienzo;start
+time;comienzo;kickoff
+time;comienzo;starting time
+time;comienzo;showtime
+time;comienzo;offset
+time;inicio;beginning
+time;inicio;commencement
+time;inicio;first
+time;inicio;outset
+time;inicio;get-go
+time;inicio;start
+time;inicio;kickoff
+time;inicio;starting time
+time;inicio;showtime
+time;inicio;offset
+time;principio;beginning
+time;principio;commencement
+time;principio;first
+time;principio;outset
+time;principio;get-go
+time;principio;start
+time;principio;kickoff
+time;principio;starting time
+time;principio;showtime
+time;principio;offset
+time;umbral;beginning
+time;umbral;commencement
+time;umbral;first
+time;umbral;outset
+time;umbral;get-go
+time;umbral;start
+time;umbral;kickoff
+time;umbral;starting time
+time;umbral;showtime
+time;umbral;offset
+business;comision;committee
+business;comision;commission
+business;comite;committee
+business;comite;commission
+business;delegacion;committee
+business;delegacion;commission
+society;comitiva;company
+society;comitiva;companionship
+society;comitiva;fellowship
+society;comitiva;society
+adverb;como;equally
+adverb;como;as
+adverb;como;every bit
+verb;comparar;compare
+verb;compartir;share
+relations;compañero;boyfriend
+relations;compañero;fellow
+relations;compañero;beau
+relations;compañero;swain
+relations;compañero;young man
+relations;novio;boyfriend
+relations;novio;fellow
+relations;novio;beau
+relations;novio;swain
+relations;novio;young man
+relations;pareja;boyfriend
+relations;pareja;fellow
+relations;pareja;beau
+relations;pareja;swain
+relations;pareja;young man
+business;compañia;company
+business;competencia;competition
+business;rivalidad;competition
+verb;completar;finish
+verb;completar;complete
+adjective;completo;complete
+adjective;completo;consummate
+mathematics;componente;component
+mathematics;componente;constituent
+mathematics;componente;element
+mathematics;componente;factor
+mathematics;componente;ingredient
+mathematics;elemento;component
+mathematics;elemento;constituent
+mathematics;elemento;element
+mathematics;elemento;factor
+mathematics;elemento;ingredient
+mathematics;factor;component
+mathematics;factor;constituent
+mathematics;factor;element
+mathematics;factor;factor
+mathematics;factor;ingredient
+abstract;componente;part
+abstract;componente;portion
+abstract;componente;component part
+abstract;componente;component
+abstract;componente;constituent
+abstract;parte;part
+abstract;parte;portion
+abstract;parte;component part
+abstract;parte;component
+abstract;parte;constituent
+abstract;comportamiento;behavior
+abstract;comportamiento;demeanor
+abstract;comportamiento;demeanour
+abstract;comportamiento;behaviour
+abstract;comportamiento;conduct
+abstract;comportamiento;deportment
+abstract;conducta;behavior
+abstract;conducta;demeanor
+abstract;conducta;demeanour
+abstract;conducta;behaviour
+abstract;conducta;conduct
+abstract;conducta;deportment
+verb;comprender;embrace
+verb;comprender;encompass
+verb;comprender;comprehend
+verb;comprender;cover
+verb;cubrir;embrace
+verb;cubrir;encompass
+verb;cubrir;comprehend
+verb;cubrir;cover
+relations;compromiso;date
+relations;compromiso;appointment
+relations;compromiso;engagement
+relations;cita;date
+relations;cita;appointment
+relations;cita;engagement
+adjective;comun;common
+adjective;comun;normal
+adjective;corriente;normal
+adjective;normal;normal
+adjective;comun;usual
+adjective;habitual;usual
+adjective;normal;usual
+adjective;usual;usual
+adjective;comun;common
+adjective;comun;mutual
+adjective;mutuo;common
+adjective;mutuo;mutual
+adjective;corriente;common
+adjective;corriente;mutual
+adjective;ordinario;common
+adjective;ordinario;mutual
+adjective;general;common
+adjective;general;mutual
+preposition;con;with
+preposition;con;with
+art;concepcion;invention
+art;concepcion;innovation
+art;concepcion;excogitation
+art;concepcion;conception
+art;concepcion;design
+art;invencion;invention
+art;invencion;innovation
+art;invencion;excogitation
+art;invencion;conception
+art;invencion;design
+art;concierto;concert
+abstract;condicion;condition
+abstract;condicion;status
+abstract;situacion;condition
+abstract;situacion;status
+verb;conducir;lead
+verb;conducir;take
+verb;conducir;direct
+verb;conducir;conduct
+verb;conducir;guide
+verb;llevar;lead
+verb;llevar;take
+verb;llevar;direct
+verb;llevar;conduct
+verb;llevar;guide
+verb;conducir;drive
+verb;manejar;drive
+verb;conectar;connect
+verb;conectar;associate
+verb;conectar;tie in
+verb;conectar;relate
+verb;conectar;link
+verb;conectar;colligate
+verb;conectar;link up
+verb;acoplar;connect
+verb;acoplar;associate
+verb;acoplar;tie in
+verb;acoplar;relate
+verb;acoplar;link
+verb;acoplar;colligate
+verb;acoplar;link up
+verb;empalmar;connect
+verb;empalmar;associate
+verb;empalmar;tie in
+verb;empalmar;relate
+verb;empalmar;link
+verb;empalmar;colligate
+verb;empalmar;link up
+verb;encadenar;connect
+verb;encadenar;associate
+verb;encadenar;tie in
+verb;encadenar;relate
+verb;encadenar;link
+verb;encadenar;colligate
+verb;encadenar;link up
+verb;unir;connect
+verb;unir;associate
+verb;unir;tie in
+verb;unir;relate
+verb;unir;link
+verb;unir;colligate
+verb;unir;link up
+verb;asociar;connect
+verb;asociar;associate
+verb;asociar;tie in
+verb;asociar;relate
+verb;asociar;link
+verb;asociar;colligate
+verb;asociar;link up
+verb;relacionar;connect
+verb;relacionar;associate
+verb;relacionar;tie in
+verb;relacionar;relate
+verb;relacionar;link
+verb;relacionar;colligate
+verb;relacionar;link up
+verb;estar conectado;connect
+verb;estar conectado;associate
+verb;estar conectado;tie in
+verb;estar conectado;relate
+verb;estar conectado;link
+verb;estar conectado;colligate
+verb;estar conectado;link up
+verb;hacer conexion;connect
+verb;hacer conexion;associate
+verb;hacer conexion;tie in
+verb;hacer conexion;relate
+verb;hacer conexion;link
+verb;hacer conexion;colligate
+verb;hacer conexion;link up
+abstract;conexion;connection
+abstract;conexion;connexion
+abstract;conexion;connectedness
+abstract;conexion;connection
+abstract;conexion;connexion
+abstract;conexion;connector
+abstract;conexion;connecter
+abstract;conexion;connective
+science;confrontacion;comparison
+science;confrontacion;comparing
+mathematics;conjunto;set
+abstract;conjunto;set
+abstract;juego;set
+verb-basic;conocer;know
+verb-basic;conocer;cognize
+verb-basic;conocer;cognise
+verb-basic;saber;know
+verb-basic;saber;cognize
+verb-basic;saber;cognise
+education;conocimiento;knowledge
+education;conocimiento;cognition
+education;conocimiento;noesis
+education;saber;knowledge
+education;saber;cognition
+education;saber;noesis
+adjective;consciente;conscious
+adjective;consciente;witting
+science;consecuencia;consequence
+science;consecuencia;effect
+science;consecuencia;outcome
+science;consecuencia;result
+science;consecuencia;event
+science;consecuencia;issue
+science;consecuencia;upshot
+science;efecto;consequence
+science;efecto;effect
+science;efecto;outcome
+science;efecto;result
+science;efecto;event
+science;efecto;issue
+science;efecto;upshot
+science;resultado;consequence
+science;resultado;effect
+science;resultado;outcome
+science;resultado;result
+science;resultado;event
+science;resultado;issue
+science;resultado;upshot
+science;corolario;consequence
+science;corolario;effect
+science;corolario;outcome
+science;corolario;result
+science;corolario;event
+science;corolario;issue
+science;corolario;upshot
+science;secuela;consequence
+science;secuela;effect
+science;secuela;outcome
+science;secuela;result
+science;secuela;event
+science;secuela;issue
+science;secuela;upshot
+science;conclusion;consequence
+science;conclusion;effect
+science;conclusion;outcome
+science;conclusion;result
+science;conclusion;event
+science;conclusion;issue
+science;conclusion;upshot
+mathematics;consecuencia;result
+mathematics;consecuencia;resultant
+mathematics;consecuencia;final result
+mathematics;consecuencia;outcome
+mathematics;consecuencia;termination
+mathematics;resultado;result
+mathematics;resultado;resultant
+mathematics;resultado;final result
+mathematics;resultado;outcome
+mathematics;resultado;termination
+mathematics;fruto;result
+mathematics;fruto;resultant
+mathematics;fruto;final result
+mathematics;fruto;outcome
+mathematics;fruto;termination
+verb-basic;conseguir;get
+verb-basic;conseguir;acquire
+verb-basic;obtener;get
+verb-basic;obtener;acquire
+verb-basic;sacar;get
+verb-basic;sacar;acquire
+verb-basic;tomar;get
+verb-basic;tomar;acquire
+business;consejo;council
+verb;conservar;keep
+verb;conservar;maintain
+verb;conservar;hold
+verb;mantener;keep
+verb;mantener;maintain
+verb;mantener;hold
+verb;considerar;believe
+verb;creer;believe
+verb;confiar;believe
+verb;considerar;see
+verb;considerar;consider
+verb;considerar;reckon
+verb;considerar;view
+verb;considerar;regard
+verb;ver;see
+verb;ver;consider
+verb;ver;reckon
+verb;ver;view
+verb;ver;regard
+adjective;consistente;firm
+adjective;consistente;solid
+adjective;firme;firm
+adjective;firme;solid
+adjective;solido;firm
+adjective;solido;solid
+adjective;robusto;firm
+adjective;robusto;solid
+adjective;estable;firm
+adjective;estable;solid
+verb;constituir;establish
+verb;constituir;found
+verb;constituir;plant
+verb;constituir;constitute
+verb;constituir;institute
+verb;instaurar;establish
+verb;instaurar;found
+verb;instaurar;plant
+verb;instaurar;constitute
+verb;instaurar;institute
+verb;fundar;establish
+verb;fundar;found
+verb;fundar;plant
+verb;fundar;constitute
+verb;fundar;institute
+city;construccion;structure
+city;construccion;construction
+city;estructura;structure
+city;estructura;construction
+verb;construir;build
+verb;construir;construct
+verb;construir;make
+verb;edificar;build
+verb;edificar;construct
+verb;edificar;make
+verb;fabricar;build
+verb;fabricar;construct
+verb;fabricar;make
+environment;contaminacion;pollution
+verb-basic;contemplar;look
+verb-basic;admirar;look
+verb-basic;calcular;look
+verb-basic;considerar;look
+verb;contener;contain
+verb;contener;incorporate
+verb;contener;comprise
+verb;incluir;contain
+verb;incluir;incorporate
+verb;incluir;comprise
+verb;integrar;contain
+verb;integrar;incorporate
+verb;integrar;comprise
+adjective-basic;contento;happy
+adjective-basic;feliz;happy
+adjective-basic;alegre;happy
+verb;continuar;continue
+verb;continuar;go on
+verb;continuar;proceed
+verb;continuar;go along
+verb;continuar;keep
+verb;avanzar;continue
+verb;avanzar;go on
+verb;avanzar;proceed
+verb;avanzar;go along
+verb;avanzar;keep
+preposition;contra;against
+adjective;contrario;opposite
+abstract;contrario;opposite
+abstract;contrario;reverse
+abstract;contrario;contrary
+business;contrato;contract
+science;control;control
+science;mando;control
+science;poder;control
+verb;controlar;control
+verb;controlar;command
+verb;controlar;operate
+verb;controlar;control
+verb;operar;operate
+verb;operar;control
+verb;convertirse;become
+verb;convertirse;go
+verb;convertirse;get
+sports;copa;cup
+sports;copa;loving cup
+business;copia;copy
+verb;copiar;copy
+verb;copiar;re-create
+verb;recrear;copy
+verb;recrear;re-create
+anatomy;corazon;heart
+anatomy;corazon;pump
+anatomy;corazon;ticker
+clothes;corbata;tie
+clothes;corbata;necktie
+communication;correo;mail
+communication;correo;mail service
+communication;correo;postal service
+communication;correo;post
+verb-basic;correr;run
+verb;corresponder;match
+verb;corresponder;fit
+verb;corresponder;correspond
+verb;corresponder;check
+verb;corresponder;jibe
+verb;corresponder;gibe
+verb;corresponder;tally
+verb;corresponder;agree
+verb;corresponder;represent
+verb;corresponder;stand for
+verb;corresponder;correspond
+verb;representar;represent
+verb;representar;stand for
+verb;representar;correspond
+adjective;corriente;usual
+adjective;corriente;common
+geography;corriente;current
+geography;corriente;stream
+geography;actual;current
+geography;actual;stream
+weather;corriente;wind
+weather;corriente;air current
+weather;corriente;current of air
+weather;aire;wind
+weather;aire;air current
+weather;aire;current of air
+weather;viento;wind
+weather;viento;air current
+weather;viento;current of air
+weather;brisa;wind
+weather;brisa;air current
+weather;brisa;current of air
+nature;corriente;stream
+nature;corriente;flow
+nature;corriente;current
+nature;curso;stream
+nature;curso;flow
+nature;curso;current
+verb-basic;cortar;cut
+verb;cortar;reduce
+verb;cortar;cut down
+verb;cortar;cut back
+verb;cortar;trim
+verb;cortar;trim down
+verb;cortar;trim back
+verb;cortar;cut
+verb;cortar;bring down
+verb;recortar;reduce
+verb;recortar;cut down
+verb;recortar;cut back
+verb;recortar;trim
+verb;recortar;trim down
+verb;recortar;trim back
+verb;recortar;cut
+verb;recortar;bring down
+abstract;corte;cut
+abstract;corte;cutting
+abstract;tajo;cut
+abstract;tajo;cutting
+nature;cortijo;farm
+nature;estancia;farm
+nature;hacienda;farm
+nature;masia;farm
+nature;granja;farm
+furniture;cortina;curtain
+furniture;cortina;drape
+furniture;cortina;drapery
+furniture;cortina;mantle
+furniture;cortina;pall
+adjective;corto;short
+adjective;breve;short
+abstract;cosa;thing
+verb;coser;sew
+verb;coser;run up
+verb;coser;sew together
+verb;coser;stitch
+business;coste;cost
+business;costo;cost
+business;coste;price
+business;coste;cost
+business;coste;toll
+business;precio;price
+business;precio;cost
+business;precio;toll
+verb;crecer;grow
+verb;progresar;grow
+profession;criado;servant
+profession;criado;retainer
+verb;criar;raise
+verb;criar;rear
+verb;criar;bring up
+verb;criar;nurture
+verb;criar;parent
+verb;asistir;raise
+verb;asistir;rear
+verb;asistir;bring up
+verb;asistir;nurture
+verb;asistir;parent
+family;criatura;baby
+family;criatura;babe
+family;criatura;infant
+society;crimen;crime
+society;crimen;offense
+society;crimen;criminal offense
+society;crimen;criminal offence
+society;crimen;offence
+society;crimen;law-breaking
+society;delito;crime
+society;delito;offense
+society;delito;criminal offense
+society;delito;criminal offence
+society;delito;offence
+society;delito;law-breaking
+communication;criterio;standard
+communication;criterio;criterion
+communication;criterio;measure
+communication;criterio;touchstone
+communication;estandar;standard
+communication;estandar;criterion
+communication;estandar;measure
+communication;estandar;touchstone
+communication;patron;standard
+communication;patron;criterion
+communication;patron;measure
+communication;patron;touchstone
+communication;pauta;standard
+communication;pauta;criterion
+communication;pauta;measure
+communication;pauta;touchstone
+communication;regla;standard
+communication;regla;criterion
+communication;regla;measure
+communication;regla;touchstone
+mathematics;cuadrado;square
+mathematics;cuadrado;foursquare
+mathematics;cuadrado;square
+mathematics;cuadrado;second power
+adjective;cuadrado;square
+adjective;cuadro;square
+art;cuadro;painting
+art;cuadro;picture
+art;pintura;painting
+art;pintura;picture
+adjective;cualquier;any
+adjective;cualquier;whatever
+adjective;cualquier;whatsoever
+pronoun;cualquiera;anyone
+pronoun;cuando;when
+conjunction;cuando quiera;whenever
+number;cuarenta;forty
+number;cuarenta;40
+number;cuarenta;xl
+number;cuarenta;twoscore
+house;cuarto;room
+house;habitacion;room
+number;cuatro;four
+number;cuatro;4
+number;cuatro;iv
+kitchen;cuchara;spoon
+kitchen;cuchillo;knife
+clothes;cuello;collar
+clothes;cuello;neckband
+anatomy;cuello;neck
+anatomy;cuello;cervix
+business;cuenta;account
+business;cuenta;business relationship
+object;cuerda;rope
+material;cuero;leather
+material;piel;leather
+verb;cuidar;treat
+verb;cuidar;care for
+verb;tratar;treat
+verb;tratar;care for
+family;cumpleaños;birthday
+transport;curva;curve
+transport;curva;bend
+mathematics;curva;curve
+mathematics;curva;curved shape
+mathematics;arco;curve
+mathematics;arco;curved shape
+pronoun;cuyo;whose
+pronoun;cual;which
+pronoun;cual;which
+adjective;calido;warm
+device;camara;camera
+device;camara;photographic camera
+device;camara;television camera
+device;camara;tv camera
+device;camara;camera
+anatomy;celula;cell
+anatomy;camara;cell
+mathematics;circulo;circle
+conversation;como se llama usted;what is your name
+fruit;damasco;apricot
+verb-basic;dar;give
+communication;datos;data
+communication;datos;information
+abstract;daño;damage
+abstract;daño;harm
+abstract;daño;impairment
+abstract;perjuicio;damage
+abstract;perjuicio;harm
+abstract;perjuicio;impairment
+abstract;siniestro;damage
+abstract;siniestro;harm
+abstract;siniestro;impairment
+abstract;deterioro;damage
+abstract;deterioro;harm
+abstract;deterioro;impairment
+preposition;de;from
+preposition;de;from
+preposition;de;of
+adjective;de color;color
+adjective;de color;colour
+adjective;en colores;color
+adjective;en colores;colour
+adjective;colores;color
+adjective;colores;colour
+conversation;de nada;you're welcome
+communication;debate;discussion
+communication;debate;give-and-take
+communication;debate;word
+communication;discusion;discussion
+communication;discusion;give-and-take
+communication;discusion;word
+verb;debatir;argue
+verb;debatir;contend
+verb;debatir;debate
+verb;debatir;fence
+verb;discutir;argue
+verb;discutir;contend
+verb;discutir;debate
+verb;discutir;fence
+abstract;deber;duty
+verb;decidir;decide
+verb;decidir;make up one's mind
+verb;decidir;determine
+verb;determinar;decide
+verb;determinar;make up one's mind
+verb;determinar;determine
+number;decimoquinto;fifteen
+number;decimoquinto;15
+number;decimoquinto;xv
+verb-basic;decir;talk
+verb-basic;decir;speak
+verb-basic;decir;utter
+verb-basic;decir;mouth
+verb-basic;decir;verbalize
+verb-basic;decir;verbalise
+verb-basic;hablar;talk
+verb-basic;hablar;speak
+verb-basic;hablar;utter
+verb-basic;hablar;mouth
+verb-basic;hablar;verbalize
+verb-basic;hablar;verbalise
+verb-basic;conversar;talk
+verb-basic;conversar;speak
+verb-basic;conversar;utter
+verb-basic;conversar;mouth
+verb-basic;conversar;verbalize
+verb-basic;conversar;verbalise
+verb-basic;decir;say
+verb-basic;decir;tell
+verb-basic;decir;state
+verb-basic;manifestar;say
+verb-basic;manifestar;tell
+verb-basic;manifestar;state
+communication;decision;decision
+communication;decision;determination
+communication;decision;conclusion
+communication;determinacion;decision
+communication;determinacion;determination
+communication;determinacion;conclusion
+communication;resolucion;decision
+communication;resolucion;determination
+communication;resolucion;conclusion
+communication;resultado;decision
+communication;resultado;determination
+communication;resultado;conclusion
+verb;declarar;reveal
+verb;declarar;unwrap
+verb;declarar;disclose
+verb;declarar;let on
+verb;declarar;bring out
+verb;declarar;discover
+verb;declarar;expose
+verb;declarar;divulge
+verb;declarar;break
+verb;declarar;give away
+verb;declarar;let out
+verb;manifestar;reveal
+verb;manifestar;unwrap
+verb;manifestar;disclose
+verb;manifestar;let on
+verb;manifestar;bring out
+verb;manifestar;discover
+verb;manifestar;expose
+verb;manifestar;divulge
+verb;manifestar;break
+verb;manifestar;give away
+verb;manifestar;let out
+verb;revelar;reveal
+verb;revelar;unwrap
+verb;revelar;disclose
+verb;revelar;let on
+verb;revelar;bring out
+verb;revelar;discover
+verb;revelar;expose
+verb;revelar;divulge
+verb;revelar;break
+verb;revelar;give away
+verb;revelar;let out
+verb;descubrir;reveal
+verb;descubrir;unwrap
+verb;descubrir;disclose
+verb;descubrir;let on
+verb;descubrir;bring out
+verb;descubrir;discover
+verb;descubrir;expose
+verb;descubrir;divulge
+verb;descubrir;break
+verb;descubrir;give away
+verb;descubrir;let out
+verb;denunciar;reveal
+verb;denunciar;unwrap
+verb;denunciar;disclose
+verb;denunciar;let on
+verb;denunciar;bring out
+verb;denunciar;discover
+verb;denunciar;expose
+verb;denunciar;divulge
+verb;denunciar;break
+verb;denunciar;give away
+verb;denunciar;let out
+anatomy;dedo;finger
+anatomy;dedo de pie;toe
+abstract;defensa;defense
+abstract;defensa;defence
+abstract;defensa;defense force
+abstract;defensa;defence force
+abstract;guardia;defense
+abstract;guardia;defence
+abstract;guardia;defense force
+abstract;guardia;defence force
+verb;dejar;let
+verb;consentir;let
+verb;autorizar;let
+verb;dejar;allow
+verb;dejar;let
+verb;dejar;permit
+verb;permitir;allow
+verb;permitir;let
+verb;permitir;permit
+abstract;delantera;front
+abstract;delantera;front end
+abstract;delantera;forepart
+adjective;delantero;front
+adjective;delgado;thin
+adjective;delicado;delicate
+adjective;delicado;fragile
+adjective;delicado;delicate
+adjective;delicado;frail
+adjective;fragil;fragile
+adjective;fragil;delicate
+adjective;fragil;frail
+communication;demanda;question
+communication;demanda;inquiry
+communication;demanda;enquiry
+communication;demanda;query
+communication;demanda;interrogation
+communication;pregunta;question
+communication;pregunta;inquiry
+communication;pregunta;enquiry
+communication;pregunta;query
+communication;pregunta;interrogation
+communication;busqueda;question
+communication;busqueda;inquiry
+communication;busqueda;enquiry
+communication;busqueda;query
+communication;busqueda;interrogation
+society;democracia;democracy
+society;democracia;republic
+society;democracia;commonwealth
+society;republica;democracy
+society;republica;republic
+society;republica;commonwealth
+business;departamento;department
+business;departamento;section
+adjective-basic;derecho;right
+business;derecho;right
+adjective;desagradable;ugly
+adjective;horrible;ugly
+verb;desagradar;dislike
+verb;caer mal;dislike
+verb;desfavorecer;dislike
+verb;disgustar;dislike
+verb;displacer;dislike
+verb;malquerer;dislike
+verb;mirar con mala cara;dislike
+verb;no gustar de;dislike
+verb;odiar;dislike
+verb;repugnar;dislike
+verb;tener antipatia a;dislike
+verb;tener aversion a;dislike
+verb;tener tema a;dislike
+abstract;desaparicion;death
+abstract;desaparicion;decease
+abstract;desaparicion;expiry
+abstract;muerte;death
+abstract;muerte;decease
+abstract;muerte;expiry
+abstract;transito;death
+abstract;transito;decease
+abstract;transito;expiry
+verb;desarrollar;develop
+nature;desarrollo;evolution
+nature;desarrollo;development
+nature;evolucion;evolution
+nature;evolucion;development
+abstract;descansar;rest
+abstract;descansar;ease
+abstract;descansar;repose
+abstract;descansar;relaxation
+abstract;descanso;break
+abstract;descanso;respite
+abstract;descanso;recess
+abstract;descanso;time out
+abstract;pausa;break
+abstract;pausa;respite
+abstract;pausa;recess
+abstract;pausa;time out
+abstract;respiro;break
+abstract;respiro;respite
+abstract;respiro;recess
+abstract;respiro;time out
+adjective;desconectado;off
+adjective;desenchufado;off
+adjective;apagado;off
+verb;describir;describe
+verb;describir;depict
+verb;describir;draw
+verb;explicar;describe
+verb;explicar;depict
+verb;explicar;draw
+verb;detallar;describe
+verb;detallar;depict
+verb;detallar;draw
+science;descubrimiento;discovery
+science;descubrimiento;find
+science;descubrimiento;uncovering
+science;hallazgo;discovery
+science;hallazgo;find
+science;hallazgo;uncovering
+verb;descubrir;discover
+verb;descubrir;find
+verb;descubrir;find
+verb;descubrir;detect
+verb;descubrir;observe
+verb;descubrir;discover
+verb;descubrir;notice
+verb;detectar;find
+verb;detectar;detect
+verb;detectar;observe
+verb;detectar;discover
+verb;detectar;notice
+verb;encontrar;find
+verb;encontrar;detect
+verb;encontrar;observe
+verb;encontrar;discover
+verb;encontrar;notice
+verb;observar;find
+verb;observar;detect
+verb;observar;observe
+verb;observar;discover
+verb;observar;notice
+verb;revelar;find
+verb;revelar;detect
+verb;revelar;observe
+verb;revelar;discover
+verb;revelar;notice
+verb;localizar;find
+verb;localizar;detect
+verb;localizar;observe
+verb;localizar;discover
+verb;localizar;notice
+preposition;desde;since
+verb;desear;wish
+verb;desear;desire
+verb;desear;want
+verb;querer;desire
+verb;querer;want
+abstract;deseo;wish
+abstract;deseo;wishing
+abstract;deseo;want
+abstract;anhelo;wish
+abstract;anhelo;wishing
+abstract;anhelo;want
+abstract;desgaste;wear
+verb;desistir;give up
+verb;desistir;surrender
+business;despedida;leave
+business;despedida;leave of absence
+environment;desperdicios;waste
+environment;desperdicios;waste material
+environment;desperdicios;waste matter
+environment;desperdicios;waste product
+adjective-people;despierto;awake
+verb-basic;desplazar;move
+verb-basic;desplazar;displace
+verb-basic;mover;move
+verb-basic;mover;displace
+adverb;despues;later
+adverb;despues;after
+adverb;despues;subsequently
+adverb;despues;afterwards
+adverb;despues;afterward
+adverb;despues;later on
+sports;destino;finish
+sports;destino;goal
+sports;destino;destination
+sports;lugar;finish
+sports;lugar;goal
+sports;lugar;destination
+business;destreza;skill
+business;destreza;science
+abstract;destruccion;destruction
+abstract;destruccion;devastation
+verb;detener;stop
+verb;detener;halt
+adjective;determinado;set
+adjective;determinado;laid
+verb;detestar;hate
+verb;detestar;detest
+verb;odiar;hate
+verb;odiar;detest
+verb;aborrecer;hate
+verb;aborrecer;detest
+verb;rechazar;hate
+verb;rechazar;detest
+adverb;detras;behind
+verb;devolver;render
+verb;devolver;return
+verb;entregar;render
+verb;entregar;return
+communication;diario;newspaper
+communication;diario;paper
+communication;periodico;newspaper
+communication;periodico;paper
+communication;gaceta;newspaper
+communication;gaceta;paper
+communication;rotativo;newspaper
+communication;rotativo;paper
+verb-basic;dibujar;trace
+verb-basic;dibujar;draw
+verb-basic;dibujar;line
+verb-basic;dibujar;describe
+verb-basic;dibujar;delineate
+verb-basic;trazar;trace
+verb-basic;trazar;draw
+verb-basic;trazar;line
+verb-basic;trazar;describe
+verb-basic;trazar;delineate
+verb-basic;delinear;trace
+verb-basic;delinear;draw
+verb-basic;delinear;line
+verb-basic;delinear;describe
+verb-basic;delinear;delineate
+communication;diccionario;dictionary
+communication;diccionario;lexicon
+communication;lexico;dictionary
+communication;lexico;lexicon
+communication;indice;dictionary
+communication;indice;lexicon
+communication;glosario;dictionary
+communication;glosario;lexicon
+time;diciembre;December
+time;diciembre;Dec
+number;diecinueve;nineteen
+number;diecinueve;19
+number;diecinueve;xix
+number;dieciocho;eighteen
+number;dieciocho;18
+number;dieciocho;xviii
+number;diecisiete;seventeen
+number;diecisiete;17
+number;diecisiete;xvii
+number;dieciseis;sixteen
+number;dieciseis;16
+number;dieciseis;xvi
+anatomy;diente;tooth
+adjective;dietetico;light
+adjective;dietetico;lite
+adjective;dietetico;low-cal
+adjective;dietetico;calorie-free
+number;diez;ten
+number;diez;10
+number;diez;x
+mathematics;diferencia;difference
+mathematics;desigualdad;difference
+mathematics;divergencia;difference
+mathematics;desemejanza;difference
+adjective;diferente;different
+adjective-basic;diferente;another
+adjective-basic;diferente;some other
+adjective-basic;distinto;another
+adjective-basic;distinto;some other
+adjective;diferente;different
+adjective;distinto;different
+adjective;diferente;different
+adjective;diferente;unlike
+adjective;diferente;dissimilar
+adjective;distinto;different
+adjective;distinto;unlike
+adjective;distinto;dissimilar
+business;dificultad;difficulty
+business;obstaculo;difficulty
+business;problema;difficulty
+business;dificultad;problem
+business;dificultad;job
+business;problema;problem
+business;problema;job
+adjective-basic;dificil;difficult
+adjective-basic;dificil;hard
+adjective-basic;duro;difficult
+adjective-basic;duro;hard
+adjective-basic;espinoso;difficult
+adjective-basic;espinoso;hard
+adjective;diminuto;minute
+adjective;diminuto;infinitesimal
+business;dinero;money
+business;plata;money
+business;pelas;money
+business;pasta;money
+business;suelto;money
+business;direccion;management
+business;direccion;direction
+house;direccion;address
+house;ubicacion;address
+adverb;directamente;directly
+adverb;directamente;straight
+adverb;directamente;direct
+business;director;director
+business;director;manager
+business;director;managing director
+verb;discurrir;think
+verb;discurrir;cogitate
+verb;discurrir;cerebrate
+verb;pensar;think
+verb;pensar;cogitate
+verb;pensar;cerebrate
+communication;discusion;argument
+communication;discusion;controversy
+communication;discusion;contention
+communication;discusion;contestation
+communication;discusion;disputation
+communication;discusion;disceptation
+communication;discusion;tilt
+communication;discusion;arguing
+communication;disputa;argument
+communication;disputa;controversy
+communication;disputa;contention
+communication;disputa;contestation
+communication;disputa;disputation
+communication;disputa;disceptation
+communication;disputa;tilt
+communication;disputa;arguing
+communication;pelea;argument
+communication;pelea;controversy
+communication;pelea;contention
+communication;pelea;contestation
+communication;pelea;disputation
+communication;pelea;disceptation
+communication;pelea;tilt
+communication;pelea;arguing
+verb;discutir;discuss
+verb;discutir;hash out
+verb;discutir;talk over
+conversation;disculpame;sorry
+verb;diseñar;design
+verb;diseñar;plan
+art;diseño;design
+art;diseño;designing
+verb;disfrutar;enjoy
+verb;disfrutar;bask
+verb;disfrutar;relish
+verb;disfrutar;savor
+verb;disfrutar;savour
+verb;gustar;enjoy
+verb;gustar;bask
+verb;gustar;relish
+verb;gustar;savor
+verb;gustar;savour
+verb-basic;disparar;fire
+verb-basic;disparar;open fire
+verb;disponer;prepare
+verb;disponer;fix
+verb;disponer;set up
+verb;disponer;ready
+verb;disponer;gear up
+verb;disponer;set
+verb;preparar;prepare
+verb;preparar;fix
+verb;preparar;set up
+verb;preparar;ready
+verb;preparar;gear up
+verb;preparar;set
+verb;coordinar;prepare
+verb;coordinar;fix
+verb;coordinar;set up
+verb;coordinar;ready
+verb;coordinar;gear up
+verb;coordinar;set
+verb;organizar;prepare
+verb;organizar;fix
+verb;organizar;set up
+verb;organizar;ready
+verb;organizar;gear up
+verb;organizar;set
+verb;aprestar;prepare
+verb;aprestar;fix
+verb;aprestar;set up
+verb;aprestar;ready
+verb;aprestar;gear up
+verb;aprestar;set
+adjective;disponible;available
+mathematics;distancia;distance
+adjective;distante;far
+adjective;lejano;far
+adjective;remoto;far
+art;diversidad;diversity
+art;diversidad;diverseness
+art;diversidad;multifariousness
+art;diversidad;variety
+art;diferencia;diversity
+art;diferencia;diverseness
+art;diferencia;multifariousness
+art;diferencia;variety
+art;diversion;entertainment
+art;diversion;amusement
+art;distraccion;entertainment
+art;distraccion;amusement
+art;divertimiento;entertainment
+art;divertimiento;amusement
+adjective;diverso;various
+adjective;diverso;diverse
+adjective;vario;various
+adjective;vario;diverse
+verb;dividir;divide
+verb;dividir;split
+verb;dividir;split up
+verb;dividir;separate
+verb;dividir;dissever
+verb;dividir;carve up
+verb;partir;divide
+verb;partir;split
+verb;partir;split up
+verb;partir;separate
+verb;partir;dissever
+verb;partir;carve up
+verb;repartir;divide
+verb;repartir;split
+verb;repartir;split up
+verb;repartir;separate
+verb;repartir;dissever
+verb;repartir;carve up
+verb;separar;divide
+verb;separar;split
+verb;separar;split up
+verb;separar;separate
+verb;separar;dissever
+verb;separar;carve up
+business;division;part
+business;division;section
+business;division;division
+business;parte;part
+business;parte;section
+business;parte;division
+business;seccion;part
+business;seccion;section
+business;seccion;division
+mathematics;division;division
+mathematics;division;partition
+mathematics;division;partitioning
+mathematics;division;segmentation
+mathematics;division;sectionalization
+mathematics;division;sectionalisation
+mathematics;particion;division
+mathematics;particion;partition
+mathematics;particion;partitioning
+mathematics;particion;segmentation
+mathematics;particion;sectionalization
+mathematics;particion;sectionalisation
+medicine;doctor;doctor
+medicine;doctor;doc
+medicine;doctor;physician
+medicine;doctor;MD
+medicine;doctor;Dr.
+medicine;doctor;medico
+medicine;medico;doctor
+medicine;medico;doc
+medicine;medico;physician
+medicine;medico;MD
+medicine;medico;Dr.
+medicine;medico;medico
+medicine;dolor;pain
+medicine;dolor;hurting
+abstract;dominacion;dominance
+abstract;dominacion;ascendance
+abstract;dominacion;ascendence
+abstract;dominacion;ascendancy
+abstract;dominacion;ascendency
+abstract;dominacion;control
+abstract;dominio;dominance
+abstract;dominio;ascendance
+abstract;dominio;ascendence
+abstract;dominio;ascendancy
+abstract;dominio;ascendency
+abstract;dominio;control
+abstract;sometimiento;dominance
+abstract;sometimiento;ascendance
+abstract;sometimiento;ascendence
+abstract;sometimiento;ascendancy
+abstract;sometimiento;ascendency
+abstract;sometimiento;control
+abstract;sumision;dominance
+abstract;sumision;ascendance
+abstract;sumision;ascendence
+abstract;sumision;ascendancy
+abstract;sumision;ascendency
+abstract;sumision;control
+time;domingo;Sunday
+time;domingo;Lord's Day
+time;domingo;Dominicus
+time;domingo;Sun
+number;dos;two
+number;dos;2
+number;dos;ii
+house;ducha;shower
+communication;duda;doubt
+communication;duda;uncertainty
+communication;duda;incertitude
+communication;duda;dubiety
+communication;duda;doubtfulness
+communication;duda;dubiousness
+communication;incertidumbre;doubt
+communication;incertidumbre;uncertainty
+communication;incertidumbre;incertitude
+communication;incertidumbre;dubiety
+communication;incertidumbre;doubtfulness
+communication;incertidumbre;dubiousness
+communication;inseguridad;doubt
+communication;inseguridad;uncertainty
+communication;inseguridad;incertitude
+communication;inseguridad;dubiety
+communication;inseguridad;doubtfulness
+communication;inseguridad;dubiousness
+communication;irresolucion;doubt
+communication;irresolucion;uncertainty
+communication;irresolucion;incertitude
+communication;irresolucion;dubiety
+communication;irresolucion;doubtfulness
+communication;irresolucion;dubiousness
+verb;dudar;doubt
+adjective;dulce;sweet
+adjective;pastel;sweet
+food;dulzura;sweet
+food;dulzura;sweetness
+food;dulzura;sugariness
+preposition;durante;during
+verb;durar;survive
+verb;durar;last
+verb;durar;live
+verb;durar;live on
+verb;durar;go
+verb;durar;endure
+verb;durar;hold up
+verb;durar;hold out
+verb;durar;be
+verb;durar;live
+verb;existir;be
+verb;existir;live
+verb;vivir;be
+verb;vivir;live
+adjective-basic;debil;weak
+time;dia;day
+time;dia;twenty-four hours
+time;dia;twenty-four hour period
+time;dia;24-hour interval
+time;dia;solar day
+time;dia;mean solar day
+verb;echar;send
+verb;echar;mail
+verb;echar;post
+verb;enviar;send
+verb;enviar;mail
+verb;enviar;post
+verb;mandar;send
+verb;mandar;mail
+verb;mandar;post
+verb;remitir;send
+verb;remitir;mail
+verb;remitir;post
+environment;ecologia;ecology
+environment;ecologia;bionomics
+environment;ecologia;environmental science
+business;economia;economy
+business;economia;economic system
+adjective;economico;economic
+adjective;economico;economic
+adjective;economico;economical
+time;edad;age
+city;edificio;building
+city;edificio;edifice
+education;educacion;education
+education;educacion;education
+education;educacion;instruction
+education;educacion;teaching
+education;educacion;pedagogy
+education;educacion;didactics
+education;educacion;educational activity
+education;enseñanza;education
+education;enseñanza;instruction
+education;enseñanza;teaching
+education;enseñanza;pedagogy
+education;enseñanza;didactics
+education;enseñanza;educational activity
+education;educacion;education
+education;formacion;education
+education;instruccion;education
+environment;efecto invernadero;greenhouse effect
+environment;efecto invernadero;greenhouse warming
+communication;ejemplar;book
+communication;ejemplar;volume
+communication;libro;book
+communication;libro;volume
+communication;volumen;book
+communication;volumen;volume
+science;ejemplo;example
+science;ejemplo;illustration
+science;ejemplo;instance
+science;ejemplo;representative
+verb-basic;ejercer;do
+verb-basic;ejercer;practice
+verb-basic;ejercer;practise
+verb-basic;ejercer;exercise
+verb;ejercer;serve
+society;ejercito;army
+society;ejercito;regular army
+society;ejercito;ground forces
+society;tropa;army
+society;tropa;regular army
+society;tropa;ground forces
+article;el;the
+society;eleccion;election
+abstract;eleccion;choice
+abstract;eleccion;selection
+abstract;eleccion;option
+abstract;eleccion;pick
+abstract;seleccion;choice
+abstract;seleccion;selection
+abstract;seleccion;option
+abstract;seleccion;pick
+abstract;decision;choice
+abstract;decision;selection
+abstract;decision;option
+abstract;decision;pick
+animal;elefante;elephant
+adjective;elegante;stylish
+adjective;elegante;fashionable
+adjective;elemental;simple
+adjective;elemental;elementary
+adjective;elemental;uncomplicated
+adjective;elemental;unproblematic
+adjective;simple;simple
+adjective;simple;elementary
+adjective;simple;uncomplicated
+adjective;simple;unproblematic
+material;elemento;chemical element
+material;elemento;element
+abstract;elemento;detail
+abstract;elemento;particular
+abstract;elemento;item
+pronoun;ella;she
+pronoun;ellos;they
+adjective;electrico;electric
+adjective;electrico;electrical
+verb;embaucar;trick
+verb;embaucar;flim-flam
+verb;embaucar;play a joke on
+verb;embaucar;play tricks
+verb;embaucar;fob
+verb;embaucar;fox
+verb;embaucar;pull a fast one on
+verb;embaucar;play a trick on
+adjective;empleado;used
+adjective;empleado;secondhand
+verb-basic;emplear;use
+verb-basic;emplear;utilize
+verb-basic;emplear;utilise
+verb-basic;emplear;apply
+verb-basic;emplear;employ
+verb-basic;usar;use
+verb-basic;usar;utilize
+verb-basic;usar;utilise
+verb-basic;usar;apply
+verb-basic;usar;employ
+verb-basic;utilizar;use
+verb-basic;utilizar;utilize
+verb-basic;utilizar;utilise
+verb-basic;utilizar;apply
+verb-basic;utilizar;employ
+abstract;empleo;use
+abstract;empleo;usage
+abstract;empleo;utilization
+abstract;empleo;utilisation
+abstract;empleo;employment
+abstract;empleo;exercise
+abstract;uso;use
+abstract;uso;usage
+abstract;uso;utilization
+abstract;uso;utilisation
+abstract;uso;employment
+abstract;uso;exercise
+abstract;utilizacion;use
+abstract;utilizacion;usage
+abstract;utilizacion;utilization
+abstract;utilizacion;utilisation
+abstract;utilizacion;employment
+abstract;utilizacion;exercise
+profession;empresario;businessman
+profession;empresario;man of affairs
+profession;comerciante;businessman
+profession;comerciante;man of affairs
+adverb;en;in
+adverb;en;inwards
+adverb;en;inward
+preposition;en;into
+adjective;en funcionamiento;on
+adjective;en operacion;on
+adjective;conectado;on
+adjective;enchufado;on
+adjective;encendido;on
+adverb;en lugar de eso;instead
+adverb;en lugar de eso;alternatively
+adverb;en lugar de eso;or else
+adverb;en cambio;instead
+adverb;en cambio;alternatively
+adverb;en cambio;or else
+adverb;en vez;instead
+adverb;en vez;alternatively
+adverb;en vez;or else
+adverb;mas bien;instead
+adverb;mas bien;alternatively
+adverb;mas bien;or else
+preposition;en medio de;among
+preposition;en medio de;amongst
+preposition;en medio de;amid
+preposition;en medio de;amidst
+verb;encargar;order
+verb;encargar;tell
+verb;encargar;enjoin
+verb;encargar;say
+adverb;encima de;above
+adverb;encima de;higher up
+adverb;encima de;in a higher place
+adverb;encima de;to a higher place
+verb-basic;encontrar;meet
+verb-basic;encontrar;run into
+verb-basic;encontrar;encounter
+verb-basic;encontrar;run across
+verb-basic;encontrar;come across
+verb-basic;encontrar;see
+verb-basic;encontrar;find
+verb-basic;encontrar;regain
+verb-basic;recuperar;find
+verb-basic;recuperar;regain
+business;encuentro;meeting
+business;encuentro;coming together
+business;reunion;meeting
+business;reunion;coming together
+physics;energia;energy
+physics;energia;free energy
+abstract;energia;power
+abstract;energia;powerfulness
+time;enero;January
+time;enero;Jan
+medicine;enfermera;nurse
+adjective-people;enfermo;ill
+adjective-people;enfermo;sick
+food;ensalada;salad
+verb;ensayar;test
+verb;ensayar;prove
+verb;ensayar;try
+verb;ensayar;try out
+verb;ensayar;examine
+verb;ensayar;essay
+verb;examinar;test
+verb;examinar;prove
+verb;examinar;try
+verb;examinar;try out
+verb;examinar;examine
+verb;examinar;essay
+verb;probar;test
+verb;probar;prove
+verb;probar;try
+verb;probar;try out
+verb;probar;examine
+verb;probar;essay
+verb;enseñar;train
+verb;enseñar;develop
+verb;enseñar;prepare
+verb;enseñar;educate
+verb;enseñar;teach
+verb;enseñar;learn
+verb;enseñar;instruct
+verb;instruir;teach
+verb;instruir;learn
+verb;instruir;instruct
+adjective;entero;whole
+adverb;entonces;then
+adverb;entonces;so
+adverb;entonces;and so
+adverb;entonces;and then
+environment;entorno;environment
+environment;entorno;environs
+environment;entorno;surroundings
+environment;entorno;surround
+business;entorno;environment
+business;medio;environment
+business;ambiente;environment
+house;entrada;hall
+house;entrada;anteroom
+house;entrada;antechamber
+house;entrada;entrance hall
+house;entrada;foyer
+house;entrada;lobby
+house;entrada;vestibule
+house;recibidor;hall
+house;recibidor;anteroom
+house;recibidor;antechamber
+house;recibidor;entrance hall
+house;recibidor;foyer
+house;recibidor;lobby
+house;recibidor;vestibule
+house;vestibulo;hall
+house;vestibulo;anteroom
+house;vestibulo;antechamber
+house;vestibulo;entrance hall
+house;vestibulo;foyer
+house;vestibulo;lobby
+house;vestibulo;vestibule
+verb;entrar;enter
+verb;entrar;come in
+verb;entrar;get into
+verb;entrar;get in
+verb;entrar;go into
+verb;entrar;go in
+verb;entrar;move into
+verb;penetrar;enter
+verb;penetrar;come in
+verb;penetrar;get into
+verb;penetrar;get in
+verb;penetrar;go into
+verb;penetrar;go in
+verb;penetrar;move into
+adverb;entre;between
+adverb;entre;betwixt
+verb;entregar;deliver
+verb;librar;deliver
+communication;entrevista;interview
+verb;envenenar;poison
+physics;equilibrio;balance
+business;equipo;team
+business;equipo;squad
+business;personal;team
+business;personal;squad
+communication;error;mistake
+communication;error;error
+communication;error;fault
+communication;fallo;mistake
+communication;fallo;error
+communication;fallo;fault
+communication;falta;mistake
+communication;falta;error
+communication;falta;fault
+communication;equivocacion;mistake
+communication;equivocacion;error
+communication;equivocacion;fault
+pronoun;esas;those
+house;escalon;step
+house;escalon;stair
+weather;escarcha;frost
+weather;escarcha;hoar
+weather;escarcha;hoarfrost
+weather;escarcha;rime
+art;escenario;stage
+verb;esconder;hide
+verb;esconder;conceal
+verb;ocultar;hide
+verb;ocultar;conceal
+verb;tapar;hide
+verb;tapar;conceal
+verb-basic;escribir;write
+communication;escritura;writing
+verb-basic;escuchar;listen
+verb-basic;escuchar;hear
+verb-basic;escuchar;take heed
+verb-basic;sentir;listen
+verb-basic;sentir;hear
+verb-basic;sentir;take heed
+pronoun;eso;it
+geography;espacio;space
+geography;espacio;infinite
+abstract;espalda;back
+anatomy;espalda;back
+anatomy;espalda;dorsum
+anatomy;dorso;back
+anatomy;dorso;dorsum
+adjective;especial;special
+adjective;especial;especial
+adjective;especial;exceptional
+adjective;especial;particular
+adjective;excepcional;special
+adjective;excepcional;especial
+adjective;excepcional;exceptional
+adjective;excepcional;particular
+adjective;particular;special
+adjective;particular;especial
+adjective;particular;exceptional
+adjective;particular;particular
+adjective;singular;special
+adjective;singular;especial
+adjective;singular;exceptional
+adjective;singular;particular
+business;espectaculo;show
+business;muestra;show
+adjective;especifico;specific
+physics;espejo;mirror
+feeling;esperanza;promise
+feeling;esperanza;hope
+verb-basic;esperar;hope
+verb-basic;esperar;wait
+verb-basic;esperar;hold off
+verb-basic;esperar;hold back
+adjective;espeso;thick
+family;esposa;wife
+family;esposa;married woman
+family;esposo;husband
+family;esposo;hubby
+family;esposo;married man
+family;hombre;husband
+family;hombre;hubby
+family;hombre;married man
+family;marido;husband
+family;marido;hubby
+family;marido;married man
+pronoun;esta;this
+adverb;esta noche;tonight
+adverb;esta noche;this evening
+adverb;esta noche;this night
+business;establecimiento;shop
+business;establecimiento;store
+business;almacen;shop
+business;almacen;store
+business;tienda;shop
+business;tienda;store
+city;estacion;station
+science;estadio;phase
+science;estadio;stage
+science;etapa;phase
+science;etapa;stage
+science;fase;phase
+science;fase;stage
+abstract;estado;state
+society;estado;state
+society;estado;country
+society;estado;state
+society;estado;land
+society;nacion;country
+society;nacion;state
+society;nacion;land
+society;pais;country
+society;pais;state
+society;pais;land
+society;tierra;country
+society;tierra;state
+society;tierra;land
+abstract;estallido;outburst
+abstract;estallido;burst
+abstract;estallido;flare-up
+abstract;ruptura;outburst
+abstract;ruptura;burst
+abstract;ruptura;flare-up
+furniture;estante;shelf
+geography;este;east
+geography;este;due east
+geography;este;eastward
+geography;este;E
+geography;oriente;east
+geography;oriente;due east
+geography;oriente;eastward
+geography;oriente;E
+geography;levante;east
+geography;levante;due east
+geography;levante;eastward
+geography;levante;E
+art;estilo;style
+art;estilo;manner
+art;estilo;mode
+art;estilo;style
+art;estilo;way
+art;estilo;fashion
+art;forma;manner
+art;forma;mode
+art;forma;style
+art;forma;way
+art;forma;fashion
+art;metodo;manner
+art;metodo;mode
+art;metodo;style
+art;metodo;way
+art;metodo;fashion
+art;sistema;manner
+art;sistema;mode
+art;sistema;style
+art;sistema;way
+art;sistema;fashion
+art;procedimiento;manner
+art;procedimiento;mode
+art;procedimiento;style
+art;procedimiento;way
+art;procedimiento;fashion
+art;estilo;vogue
+art;estilo;trend
+art;estilo;style
+art;tendencia;vogue
+art;tendencia;trend
+art;tendencia;style
+verb;estorbar;prevent
+verb;estorbar;forestall
+verb;estorbar;foreclose
+verb;estorbar;preclude
+verb;estorbar;forbid
+verb;impedir;prevent
+verb;impedir;forestall
+verb;impedir;foreclose
+verb;impedir;preclude
+verb;impedir;forbid
+pronoun;estos;these
+adjective;estrecho;narrow
+geography;estrella;star
+geography;astro;star
+business;estructura;structure
+abstract;estrujamiento;crush
+abstract;estrujamiento;crunch
+abstract;estrujamiento;compaction
+verb;estudiar;study
+abstract;estudio;report
+abstract;estudio;study
+abstract;estudio;written report
+abstract;informe;report
+abstract;informe;study
+abstract;informe;written report
+abstract;memoria;report
+abstract;memoria;study
+abstract;memoria;written report
+science;estudio;research
+science;estudio;inquiry
+science;estudio;enquiry
+science;investigacion;research
+science;investigacion;inquiry
+science;investigacion;enquiry
+adjective;estandar;standard
+anatomy;estomago;stomach
+anatomy;estomago;tummy
+anatomy;estomago;tum
+anatomy;estomago;breadbasket
+adjective-people;estupido;stupid
+adjective-people;imbecil;stupid
+adjective-people;tonto;stupid
+science;evento;event
+science;suceso;event
+science;episodio;event
+science;hecho;event
+science;evidencia;evidence
+science;evidencia;fact
+science;hecho;fact
+verb;evitar;avoid
+verb;excusar;avoid
+verb;prevenir;avoid
+adverb;exactamente;exactly
+adverb;exactamente;precisely
+adverb;exactamente;just
+education;examen;examination
+education;examen;exam
+education;examen;test
+education;test;examination
+education;test;exam
+education;test;test
+adjective;excelente;excellent
+adjective;excelente;first-class
+adjective;excelente;fantabulous
+adjective;excelente;splendid
+adjective;magnifico;excellent
+adjective;magnifico;first-class
+adjective;magnifico;fantabulous
+adjective;magnifico;splendid
+adjective;excepcional;unusual
+adjective;extraordinario;unusual
+adjective;insolito;unusual
+verb;exhibir;show
+verb;exhibir;demo
+verb;exhibir;exhibit
+verb;exhibir;present
+verb;exhibir;demonstrate
+verb;mostrar;show
+verb;mostrar;demo
+verb;mostrar;exhibit
+verb;mostrar;present
+verb;mostrar;demonstrate
+verb;indicar;show
+verb;indicar;demo
+verb;indicar;exhibit
+verb;indicar;present
+verb;indicar;demonstrate
+family;existencia;life
+family;vida;life
+nature;existencia;life
+nature;vida;life
+society;existencia;existence
+society;existencia;being
+society;existencia;beingness
+society;vida;existence
+society;vida;being
+society;vida;beingness
+society;vivencia;existence
+society;vivencia;being
+society;vivencia;beingness
+society;presencia;existence
+society;presencia;being
+society;presencia;beingness
+adjective-basic;existente;real
+adjective-basic;existente;existent
+adjective-basic;real;real
+adjective-basic;real;existent
+verb;existir;exist
+verb;existir;be
+verb;haber;exist
+verb;haber;be
+verb;ser;exist
+verb;ser;be
+adjective-people;exitoso;successful
+adjective-people;afortunado;successful
+communication;experiencia;experience
+business;experiencia;experience
+business;destreza;experience
+business;dedicacion;experience
+profession;experto;expert
+verb;expirar;die
+verb;expirar;decease
+verb;expirar;perish
+verb;expirar;go
+verb;expirar;exit
+verb;expirar;pass away
+verb;expirar;expire
+verb;expirar;pass
+verb;expirar;kick the bucket
+verb;expirar;cash in one's chips
+verb;expirar;buy the farm
+verb;expirar;conk
+verb;expirar;give-up the ghost
+verb;expirar;drop dead
+verb;expirar;pop off
+verb;expirar;choke
+verb;expirar;croak
+verb;expirar;snuff it
+verb;fallecer;die
+verb;fallecer;decease
+verb;fallecer;perish
+verb;fallecer;go
+verb;fallecer;exit
+verb;fallecer;pass away
+verb;fallecer;expire
+verb;fallecer;pass
+verb;fallecer;kick the bucket
+verb;fallecer;cash in one's chips
+verb;fallecer;buy the farm
+verb;fallecer;conk
+verb;fallecer;give-up the ghost
+verb;fallecer;drop dead
+verb;fallecer;pop off
+verb;fallecer;choke
+verb;fallecer;croak
+verb;fallecer;snuff it
+verb;sucumbir;die
+verb;sucumbir;decease
+verb;sucumbir;perish
+verb;sucumbir;go
+verb;sucumbir;exit
+verb;sucumbir;pass away
+verb;sucumbir;expire
+verb;sucumbir;pass
+verb;sucumbir;kick the bucket
+verb;sucumbir;cash in one's chips
+verb;sucumbir;buy the farm
+verb;sucumbir;conk
+verb;sucumbir;give-up the ghost
+verb;sucumbir;drop dead
+verb;sucumbir;pop off
+verb;sucumbir;choke
+verb;sucumbir;croak
+verb;sucumbir;snuff it
+verb;explicar;explain
+verb;explicar;explicate
+verb;contar;explain
+verb;contar;explicate
+verb;desarrollar;explain
+verb;desarrollar;explicate
+verb;comentar;explain
+verb;comentar;explicate
+verb;expresar;express
+verb;expresar;state
+verb;indicar;express
+verb;indicar;state
+transport;expreso;express
+transport;expreso;limited
+adjective-basic;extenso;long
+adjective-basic;largo;long
+mathematics;exterior;outside
+mathematics;exterior;exterior
+adjective;extranjero;foreign
+adjective;extranjero;strange
+adjective;extraño;foreign
+adjective;extraño;strange
+adjective;forastero;foreign
+adjective;forastero;strange
+verb;facilitar;supply
+verb;facilitar;provide
+verb;facilitar;render
+verb;facilitar;furnish
+verb;proporcionar;supply
+verb;proporcionar;provide
+verb;proporcionar;render
+verb;proporcionar;furnish
+verb;suministrar;supply
+verb;suministrar;provide
+verb;suministrar;render
+verb;suministrar;furnish
+verb;proveer;supply
+verb;proveer;provide
+verb;proveer;render
+verb;proveer;furnish
+business;factura;invoice
+business;factura;bill
+business;factura;account
+business;recibo;invoice
+business;recibo;bill
+business;recibo;account
+business;cuenta;invoice
+business;cuenta;bill
+business;cuenta;account
+clothes;falda;skirt
+clothes;pollera;skirt
+verb;fallar;miss
+adjective;falso;false
+family;familia;family
+family;familia;family unit
+society;fe;religion
+society;fe;faith
+society;fe;religious belief
+society;religion;religion
+society;religion;faith
+society;religion;religious belief
+society;seguridad;religion
+society;seguridad;faith
+society;seguridad;religious belief
+time;febrero;February
+time;febrero;Feb
+time;fecha;date
+time;fecha;day of the month
+adjective-people;femenino;female
+transport;ferrocarril;train
+transport;ferrocarril;railroad train
+transport;tren;train
+transport;tren;railroad train
+relations;fiesta;party
+art;figura;shape
+art;figura;form
+art;figura;cast
+adjective;fijo;fixed
+time;fin de semana;weekend
+adjective;final;final
+adjective;final;last
+adjective;final;concluding
+adjective;final;terminal
+adjective;ultimo;final
+adjective;ultimo;last
+adjective;ultimo;concluding
+adjective;ultimo;terminal
+adjective;fiscal;financial
+adjective;fiscal;fiscal
+adjective;financiero;financial
+adjective;financiero;fiscal
+nature;flor;flower
+nature;flora;plant
+nature;flora;flora
+nature;flora;plant life
+nature;planta;plant
+nature;planta;flora
+nature;planta;plant life
+education;formacion;training
+education;formacion;preparation
+education;formacion;grooming
+education;preparacion;training
+education;preparacion;preparation
+education;preparacion;grooming
+education;capacitacion;training
+education;capacitacion;preparation
+education;capacitacion;grooming
+education;entrenamiento;training
+education;entrenamiento;preparation
+education;entrenamiento;grooming
+business;formulario;form
+art;foto;picture
+art;foto;image
+art;foto;icon
+art;foto;ikon
+art;fotografia;picture
+art;fotografia;image
+art;fotografia;icon
+art;fotografia;ikon
+art;imagen;picture
+art;imagen;image
+art;imagen;icon
+art;imagen;ikon
+profession;fotografo;photographer
+profession;fotografo;lensman
+fruit;frambuesa;raspberry
+language;frances;French
+language;frances;French
+adverb;frecuentemente;often
+adverb;frecuentemente;frequently
+adverb;frecuentemente;oftentimes
+adverb;frecuentemente;oft
+adverb;frecuentemente;ofttimes
+furniture;fregadero;sink
+furniture;pila;sink
+anatomy;frente;forehead
+anatomy;frente;brow
+fruit;fresa;strawberry
+adjective;fresco;fresh
+adjective;helado;fresh
+adjective;refrescante;fresh
+food;fruto;fruit
+adjective-basic;frio;cold
+adjective-basic;helado;cold
+nature;fuego;fire
+nature;fuego;flame
+nature;fuego;flaming
+nature;llama;fire
+nature;llama;flame
+nature;llama;flaming
+nature;incendio;fire
+nature;incendio;flame
+nature;incendio;flaming
+nature;fuente;spring
+nature;fuente;fountain
+nature;fuente;outflow
+nature;fuente;outpouring
+nature;fuente;natural spring
+adverb;fuera;outside
+adjective;fuerte;loud
+adjective-basic;fuerte;strong
+physics;fuerza;strength
+physics;fuerza;force
+physics;fuerza;forcefulness
+verb;fumar;smoke
+abstract;funcionamiento;operation
+abstract;funcionamiento;functioning
+abstract;funcionamiento;performance
+verb;funcionar;behave
+verb;funcionar;acquit
+verb;funcionar;bear
+verb;funcionar;deport
+verb;funcionar;conduct
+verb;funcionar;comport
+verb;funcionar;carry
+business;funcionario;officer
+business;funcionario;officeholder
+mathematics;funcion;function
+mathematics;funcion;office
+mathematics;funcion;part
+mathematics;funcion;role
+mathematics;oficio;function
+mathematics;oficio;office
+mathematics;oficio;part
+mathematics;oficio;role
+mathematics;papel;function
+mathematics;papel;office
+mathematics;papel;part
+mathematics;papel;role
+mathematics;funcion;purpose
+mathematics;funcion;function
+mathematics;funcion;role
+mathematics;funcion;use
+mathematics;proposito;purpose
+mathematics;proposito;function
+mathematics;proposito;role
+mathematics;proposito;use
+adjective;futuro;future
+time;futuro;future
+time;futuro;hereafter
+time;futuro;futurity
+time;futuro;time to come
+time;porvenir;future
+time;porvenir;hereafter
+time;porvenir;futurity
+time;porvenir;time to come
+city;fabrica;factory
+city;fabrica;mill
+city;fabrica;manufacturing plant
+city;fabrica;manufactory
+city;planta;factory
+city;planta;mill
+city;planta;manufacturing plant
+city;planta;manufactory
+city;taller;factory
+city;taller;mill
+city;taller;manufacturing plant
+city;taller;manufactory
+city;manufactura;factory
+city;manufactura;mill
+city;manufactura;manufacturing plant
+city;manufactura;manufactory
+city;industria;factory
+city;industria;mill
+city;industria;manufacturing plant
+city;industria;manufactory
+city;construccion;factory
+city;construccion;mill
+city;construccion;manufacturing plant
+city;construccion;manufactory
+adjective;facil;easy
+adjective;fisico;physical
+tool;fosforo;match
+tool;fosforo;lucifer
+tool;fosforo;friction match
+sports;futbol;football
+sports;futbol;football game
+business;ganancia;profit
+business;ganancia;net income
+business;ganancia;net
+business;ganancia;net profit
+business;ganancia;lucre
+business;ganancia;profits
+business;ganancia;earnings
+business;utilidades;profit
+business;utilidades;net income
+business;utilidades;net
+business;utilidades;net profit
+business;utilidades;lucre
+business;utilidades;profits
+business;utilidades;earnings
+verb;ganar;win
+verb;triunfar;win
+verb;vencer;win
+tool;gancho;hook
+tool;gancho;claw
+tool;garfio;hook
+tool;garfio;claw
+tool;horquilla;hook
+tool;horquilla;claw
+anatomy;garganta;throat
+anatomy;garganta;pharynx
+animal;gato;cat
+animal;gato;true cat
+anatomy;gen;gene
+anatomy;gen;cistron
+anatomy;gen;factor
+adjective;general;general
+profession;general;general
+profession;general;full general
+adverb;generalmente;mostly
+adverb;generalmente;by and large
+adverb;generalmente;generally
+adverb;generalmente;more often than not
+society;gente;people
+verb;girar;turn
+verb;rotar;turn
+geography;globo;Earth
+geography;globo;earth
+geography;globo;world
+geography;globo;globe
+geography;mundo;Earth
+geography;mundo;earth
+geography;mundo;world
+geography;mundo;globe
+geography;tierra;Earth
+geography;tierra;earth
+geography;tierra;world
+geography;tierra;globe
+adjective;glutinoso;sticky
+adjective;glutinoso;gluey
+adjective;glutinoso;glutinous
+adjective;glutinoso;gummy
+adjective;glutinoso;mucilaginous
+adjective;glutinoso;pasty
+adjective;glutinoso;viscid
+adjective;glutinoso;viscous
+verb;gobernar;rule
+verb;gobernar;govern
+verb;regir;rule
+verb;regir;govern
+sports;gol;goal
+sports;golf;golf
+sports;golf;golf game
+abstract;golpe;hit
+abstract;golpe;hitting
+abstract;golpe;striking
+abstract;golpe;blow
+abstract;impacto;blow
+adjective;gordo;fat
+adjective;gordo;fat
+adjective;gordo;fatty
+abstract;gota;drop
+abstract;gota;drib
+abstract;gota;driblet
+verb;grabar;record
+verb;grabar;tape
+verb;registrar;record
+verb;registrar;tape
+mathematics;grado;degree
+mathematics;grado;degree
+mathematics;grado;grade
+mathematics;grado;level
+mathematics;nivel;degree
+mathematics;nivel;grade
+mathematics;nivel;level
+adjective-basic;gran;big
+adjective-basic;gran;large
+adjective-basic;grande;big
+adjective-basic;grande;large
+adjective-basic;voluminoso;big
+adjective-basic;voluminoso;large
+adjective-basic;grande;great
+adjective-basic;vasto;great
+material;grano;grain
+material;grasa;fat
+adjective;gratuito;free
+adjective;gratuito;complimentary
+adjective;gratuito;costless
+adjective;gratuito;gratis
+adjective;gratuito;gratuitous
+abstract;grieta;crack
+abstract;grieta;cleft
+abstract;grieta;crevice
+abstract;grieta;fissure
+abstract;grieta;scissure
+color;gris;gray
+color;gris;grey
+color;gris;greyish
+color;gris;grayish
+adjective;gris;boring
+adjective;gris;deadening
+adjective;gris;dull
+adjective;gris;ho-hum
+adjective;gris;irksome
+adjective;gris;slow
+adjective;gris;tedious
+adjective;gris;tiresome
+adjective;gris;wearisome
+adjective;aburridor;boring
+adjective;aburridor;deadening
+adjective;aburridor;dull
+adjective;aburridor;ho-hum
+adjective;aburridor;irksome
+adjective;aburridor;slow
+adjective;aburridor;tedious
+adjective;aburridor;tiresome
+adjective;aburridor;wearisome
+verb;gritar;shout
+verb;gritar;shout out
+verb;gritar;cry
+verb;gritar;call
+verb;gritar;yell
+verb;gritar;scream
+verb;gritar;holler
+verb;gritar;hollo
+verb;gritar;squall
+verb;llamar;shout
+verb;llamar;shout out
+verb;llamar;cry
+verb;llamar;call
+verb;llamar;yell
+verb;llamar;scream
+verb;llamar;holler
+verb;llamar;hollo
+verb;llamar;squall
+communication;grito;cry
+communication;grito;outcry
+communication;grito;call
+communication;grito;yell
+communication;grito;shout
+communication;grito;vociferation
+communication;protesta;cry
+communication;protesta;outcry
+communication;protesta;call
+communication;protesta;yell
+communication;protesta;shout
+communication;protesta;vociferation
+communication;alarido;cry
+communication;alarido;outcry
+communication;alarido;call
+communication;alarido;yell
+communication;alarido;shout
+communication;alarido;vociferation
+society;guardia;police
+society;guardia;police force
+society;guardia;constabulary
+society;guardia;law
+society;policia;police
+society;policia;police force
+society;policia;constabulary
+society;policia;law
+society;guerra;war
+society;guerra;state of war
+abstract;gusto;taste
+abstract;gusto;gustation
+abstract;gusto;sense of taste
+abstract;gusto;gustatory modality
+time;h;hour
+time;h;hr
+time;h;60 minutes
+time;hora;hour
+time;hora;hr
+time;hora;60 minutes
+adjective;habitual;frequent
+communication;habla;speech
+communication;habla;speech communication
+communication;habla;spoken communication
+communication;habla;spoken language
+communication;habla;language
+communication;habla;voice communication
+communication;habla;oral communication
+communication;lenguaje;speech
+communication;lenguaje;speech communication
+communication;lenguaje;spoken communication
+communication;lenguaje;spoken language
+communication;lenguaje;language
+communication;lenguaje;voice communication
+communication;lenguaje;oral communication
+communication;decir;speech
+communication;decir;speech communication
+communication;decir;spoken communication
+communication;decir;spoken language
+communication;decir;language
+communication;decir;voice communication
+communication;decir;oral communication
+conversation;hablas ingles;do you speak English
+adjective;hace;ago
+adjective;hace;agone
+science;hallazgo;discovery
+science;hallazgo;breakthrough
+science;hallazgo;find
+adjective-people;hambriento;hungry
+conjunction;hasta;until
+society;hembra;female
+society;hembra;female person
+verb;herir;injure
+verb;herir;wound
+verb;torturar;injure
+verb;torturar;wound
+family;hermana;sister
+family;hermana;sis
+family;hermano;brother
+family;hermano;blood brother
+family;colega;brother
+family;colega;blood brother
+material;hielo;ice
+material;hielo;water ice
+nature;hierba;grass
+material;hierro;iron
+material;hierro;Fe
+material;hierro;atomic number 26
+family;hija;daughter
+family;hija;girl
+family;hija;child
+family;hija;kid
+family;hijo;child
+family;hijo;kid
+family;hijo;son
+family;hijo;boy
+language;hindi;Hindi
+society;historia;history
+nature;hoja;leaf
+nature;hoja;leafage
+nature;hoja;foliage
+object;hoja;blade
+object;cuchilla;blade
+conversation;hola;hello
+conversation;hola;hullo
+conversation;hola;hi
+conversation;hola;howdy
+conversation;hola;how-do-you-do
+family;hombre;human
+family;hombre;homo
+family;hombre;man
+family;hombre;human being
+family;hombre;man
+family;hombre;adult male
+family;varon;man
+family;varon;adult male
+family;macho;man
+family;macho;adult male
+sports;honor;award
+sports;honor;accolade
+sports;honor;honor
+sports;honor;honour
+sports;honor;laurels
+sports;laurel;award
+sports;laurel;accolade
+sports;laurel;honor
+sports;laurel;honour
+sports;laurel;laurels
+sports;premio;award
+sports;premio;accolade
+sports;premio;honor
+sports;premio;honour
+sports;premio;laurels
+sports;reconocimiento;award
+sports;reconocimiento;accolade
+sports;reconocimiento;honor
+sports;reconocimiento;honour
+sports;reconocimiento;laurels
+verb;honrar;respect
+verb;honrar;honor
+verb;honrar;honour
+verb;honrar;abide by
+verb;honrar;observe
+verb;venerar;respect
+verb;venerar;honor
+verb;venerar;honour
+verb;venerar;abide by
+verb;venerar;observe
+verb;admirar;respect
+verb;admirar;honor
+verb;admirar;honour
+verb;admirar;abide by
+verb;admirar;observe
+animal;hormiga;ant
+animal;hormiga;emmet
+animal;hormiga;pismire
+device;horno;oven
+city;hotel;hotel
+adverb;hoy;today
+time;hoy;today
+anatomy;hueso;bone
+anatomy;hueso;os
+food;huevo;egg
+food;ovulo;egg
+adjective-people;humano;human
+nature;humedad;moisture
+nature;humedad;wet
+physics;humo;steam
+communication;humorismo;humor
+communication;humorismo;humour
+communication;humorismo;sense of humor
+communication;humorismo;sense of humour
+relations;huesped;guest
+relations;huesped;invitee
+relations;invitado;guest
+relations;invitado;invitee
+adjective-people;habil;skilful
+adjective-people;habil;adept
+adjective-people;habil;expert
+adjective-people;habil;good
+adjective-people;habil;practiced
+adjective-people;habil;proficient
+adjective-people;habil;skillful
+adjective;humedo;wet
+communication;idea;idea
+communication;idea;thought
+communication;pensamiento;idea
+communication;pensamiento;thought
+communication;intencion;idea
+communication;intencion;thought
+communication;concepcion;idea
+communication;concepcion;thought
+communication;imagen;idea
+communication;imagen;thought
+verb;identificar;identify
+verb;identificar;place
+city;iglesia;church
+city;iglesia;church building
+society;iglesia;religion
+society;iglesia;faith
+society;iglesia;organized religion
+adjective;igual;equal
+verb;igualar;flush
+verb;igualar;level
+verb;igualar;even out
+verb;igualar;even
+art;imagen;image
+verb;implicar;imply
+verb;implicar;involve
+verb;suponer;imply
+verb;suponer;involve
+adjective-basic;importante;important
+adjective-basic;importante;significant
+verb;importar;care
+verb;concernirse;care
+verb;interesarse;care
+verb;ser compasivo;care
+verb;imprimir;print
+verb;imprimir;impress
+verb;moldear;print
+verb;moldear;impress
+verb;sellar;print
+verb;sellar;impress
+verb;incluir;include
+adverb;incluso;even
+adjective-basic;incorrecto;wrong
+adjective-basic;incorrecto;incorrect
+adjective-basic;erroneo;wrong
+adjective-basic;erroneo;incorrect
+abstract;incremento;increase
+abstract;incremento;increment
+abstract;aumento;increase
+abstract;aumento;increment
+abstract;alza;increase
+abstract;alza;increment
+adjective;individual;personal
+adjective;particular;personal
+adjective;personal;personal
+society;individuo;individual
+business;industria;industry
+business;industria;manufacture
+adjective;industrial;industrial
+communication;informacion;information
+communication;informacion;info
+verb;informar;report
+verb;relatar;report
+language;ingles;English
+language;ingles;English language
+business;ingreso;income
+business;ingresos;income
+adverb;inmediatamente;immediately
+adverb;inmediatamente;instantly
+adverb;inmediatamente;straightaway
+adverb;inmediatamente;straight off
+adverb;inmediatamente;directly
+adverb;inmediatamente;now
+adverb;inmediatamente;right away
+adverb;inmediatamente;at once
+adverb;inmediatamente;forthwith
+adverb;inmediatamente;like a shot
+adjective;inmediato;next
+adjective;inmediato;adjacent
+adjective;inmediato;side by side
+animal;insecto;insect
+adjective-basic;insignificante;little
+adjective-basic;insignificante;fiddling
+adjective-basic;insignificante;footling
+adjective-basic;insignificante;lilliputian
+adjective-basic;insignificante;niggling
+adjective-basic;insignificante;piddling
+adjective-basic;insignificante;piffling
+adjective-basic;insignificante;petty
+adjective-basic;insignificante;picayune
+adjective-basic;insignificante;trivial
+adjective-basic;pequeño;little
+adjective-basic;pequeño;fiddling
+adjective-basic;pequeño;footling
+adjective-basic;pequeño;lilliputian
+adjective-basic;pequeño;niggling
+adjective-basic;pequeño;piddling
+adjective-basic;pequeño;piffling
+adjective-basic;pequeño;petty
+adjective-basic;pequeño;picayune
+adjective-basic;pequeño;trivial
+adjective-basic;trivial;little
+adjective-basic;trivial;fiddling
+adjective-basic;trivial;footling
+adjective-basic;trivial;lilliputian
+adjective-basic;trivial;niggling
+adjective-basic;trivial;piddling
+adjective-basic;trivial;piffling
+adjective-basic;trivial;petty
+adjective-basic;trivial;picayune
+adjective-basic;trivial;trivial
+communication;instancia;request
+communication;instancia;asking
+communication;peticion;request
+communication;peticion;asking
+communication;solicitud;request
+communication;solicitud;asking
+time;instante;moment
+time;instante;mo
+time;instante;minute
+time;instante;second
+time;instante;bit
+time;minuto;moment
+time;minuto;mo
+time;minuto;minute
+time;minuto;second
+time;minuto;bit
+time;momento;moment
+time;momento;mo
+time;momento;minute
+time;momento;second
+time;momento;bit
+time;segundo;moment
+time;segundo;mo
+time;segundo;minute
+time;segundo;second
+time;segundo;bit
+time;instante;while
+time;instante;piece
+time;instante;spell
+time;instante;patch
+time;minuto;while
+time;minuto;piece
+time;minuto;spell
+time;minuto;patch
+time;momento;while
+time;momento;piece
+time;momento;spell
+time;momento;patch
+time;segundo;while
+time;segundo;piece
+time;segundo;spell
+time;segundo;patch
+time;instante;moment
+time;instante;minute
+time;instante;second
+time;instante;instant
+time;momento;moment
+time;momento;minute
+time;momento;second
+time;momento;instant
+society;institucion;institution
+society;institucion;establishment
+society;instituto;institution
+society;instituto;establishment
+device;instrumento;instrument
+adjective;insolito;strange
+adjective;insolito;unusual
+adjective-people;inteligente;intelligent
+adjective-people;astuto;intelligent
+adjective-people;agudo;intelligent
+verb;intentar;try
+verb;intentar;seek
+verb;intentar;attempt
+verb;intentar;essay
+verb;intentar;assay
+verb;pretender;try
+verb;pretender;seek
+verb;pretender;attempt
+verb;pretender;essay
+verb;pretender;assay
+abstract;intento;attempt
+abstract;intento;effort
+abstract;intento;endeavor
+abstract;intento;endeavour
+abstract;intento;try
+abstract;tentativa;attempt
+abstract;tentativa;effort
+abstract;tentativa;endeavor
+abstract;tentativa;endeavour
+abstract;tentativa;try
+abstract;prueba;attempt
+abstract;prueba;effort
+abstract;prueba;endeavor
+abstract;prueba;endeavour
+abstract;prueba;try
+abstract;ensayo;attempt
+abstract;ensayo;effort
+abstract;ensayo;endeavor
+abstract;ensayo;endeavour
+abstract;ensayo;try
+abstract;experimento;attempt
+abstract;experimento;effort
+abstract;experimento;endeavor
+abstract;experimento;endeavour
+abstract;experimento;try
+adjective;interesante;interesting
+adjective;internacional;international
+abstract;internet;internet
+abstract;internet;net
+abstract;internet;cyberspace
+medicine;intervencion;operation
+medicine;intervencion;surgery
+medicine;intervencion;surgical operation
+medicine;intervencion;surgical procedure
+medicine;intervencion;surgical process
+medicine;operacion;operation
+medicine;operacion;surgery
+medicine;operacion;surgical operation
+medicine;operacion;surgical procedure
+medicine;operacion;surgical process
+business;interes;interest
+communication;interes;interest
+communication;interes;involvement
+verb;introducir;introduce
+verb;introducir;innovate
+science;investigacion;research
+time;invierno;winter
+time;invierno;wintertime
+verb;ir;travel
+verb;ir;go
+verb;ir;move
+verb;ir;locomote
+geography;isla;island
+language;italiano;Italian
+adjective-basic;izquierdo;left
+material;jabon;soap
+language;japones;Japanese
+house;jardin;garden
+adjective-people;joven;young
+adjective-people;joven;immature
+clothes;joya;jewel
+clothes;joya;gem
+clothes;joya;precious stone
+sports;juego;game
+time;jueves;Thursday
+time;jueves;Th
+profession;juez;judge
+profession;juez;justice
+profession;juez;jurist
+profession;magistrado;judge
+profession;magistrado;justice
+profession;magistrado;jurist
+sports;jugador;player
+sports;jugador;participant
+verb-basic;jugar;play
+verb-basic;tocar;play
+time;julio;July
+time;junio;June
+adverb;juntos;together
+adjective;justo;good
+adjective;justo;just
+adjective;justo;upright
+adjective;recto;good
+adjective;recto;just
+adjective;recto;upright
+adjective-people;justo;just
+adjective-people;recto;just
+society;juzgado;court
+society;juzgado;tribunal
+society;juzgado;judicature
+society;tribunal;court
+society;tribunal;tribunal
+society;tribunal;judicature
+anatomy;labio;lip
+mathematics;lado;side
+house;ladrillo;brick
+geography;lago;lake
+adjective;lamentable;sad
+adjective;lamentable;deplorable
+adjective;lamentable;distressing
+adjective;lamentable;lamentable
+adjective;lamentable;pitiful
+adjective;lamentable;sorry
+adjective;penoso;sad
+adjective;penoso;deplorable
+adjective;penoso;distressing
+adjective;penoso;lamentable
+adjective;penoso;pitiful
+adjective;penoso;sorry
+adjective;triste;sad
+adjective;triste;deplorable
+adjective;triste;distressing
+adjective;triste;lamentable
+adjective;triste;pitiful
+adjective;triste;sorry
+material;lana;wool
+sports;lanzamiento;throw
+verb;lanzar;throw
+verb;echar;throw
+verb;tirar;throw
+verb;arrojar;throw
+verb;lavar;wash
+verb;lavar;launder
+abstract;lazo;knot
+abstract;nudo;knot
+drink;leche;milk
+verb-basic;leer;read
+adjective;legal;legal
+adjective;oficial;legal
+communication;lengua;language
+communication;lengua;natural language
+communication;lengua;tongue
+anatomy;lengua;tongue
+anatomy;lengua;lingua
+anatomy;lengua;glossa
+anatomy;lengua;clapper
+communication;lenguaje;language
+communication;lenguaje;linguistic communication
+adverb;lentamente;slowly
+adverb;lentamente;slow
+adverb;lentamente;easy
+adverb;lentamente;tardily
+adjective-basic;lento;slow
+business;ley;law
+business;derecho;law
+animal;leon;lion
+animal;leon;king of beasts
+animal;leon;Panthera leo
+verb;liberar;free
+verb;liberar;liberate
+verb;liberar;release
+verb;liberar;unloose
+verb;liberar;unloosen
+verb;liberar;loose
+verb;eximir;free
+verb;eximir;liberate
+verb;eximir;release
+verb;eximir;unloose
+verb;eximir;unloosen
+verb;eximir;loose
+verb;franquear;free
+verb;franquear;liberate
+verb;franquear;release
+verb;franquear;unloose
+verb;franquear;unloosen
+verb;franquear;loose
+verb;exonerar;free
+verb;exonerar;liberate
+verb;exonerar;release
+verb;exonerar;unloose
+verb;exonerar;unloosen
+verb;exonerar;loose
+verb;perdonar;free
+verb;perdonar;liberate
+verb;perdonar;release
+verb;perdonar;unloose
+verb;perdonar;unloosen
+verb;perdonar;loose
+adjective-people;libre;free
+adjective-people;independiente;free
+adjective-basic;ligero;light
+adjective-basic;agil;light
+adjective-basic;leve;light
+verb;limitar;limit
+verb;limitar;restrict
+verb;limitar;restrain
+verb;limitar;trammel
+verb;limitar;bound
+verb;limitar;confine
+verb;limitar;throttle
+verb;limpiar;clean
+verb;limpiar;make clean
+verb;pulir;clean
+verb;pulir;make clean
+adjective-basic;limpio;clean
+adjective-basic;nitido;clean
+adjective-basic;pobre;clean
+fruit;limon;lemon
+adjective;liso;flat
+adjective;liso;level
+adjective;liso;plane
+adjective;llano;flat
+adjective;llano;level
+adjective;llano;plane
+adjective;plano;flat
+adjective;plano;level
+adjective;plano;plane
+adjective;liso;smooth
+adjective;llano;smooth
+adjective;suave;smooth
+abstract;lista;list
+abstract;lista;listing
+abstract;repertorio;list
+abstract;repertorio;listing
+adjective;listo;ready
+communication;llamada;call
+communication;llamada;phone call
+communication;llamada;telephone call
+verb;llamar;name
+verb;llamar;call
+verb;llamar;call
+verb;llamar;telephone
+verb;llamar;call up
+verb;llamar;phone
+verb;llamar;ring
+verb;telefonear;call
+verb;telefonear;telephone
+verb;telefonear;call up
+verb;telefonear;phone
+verb;telefonear;ring
+tool;llave;key
+verb;llegar;arrive
+verb;llegar;make it
+verb;llegar;get in
+verb;llegar;go far
+verb;arribar;arrive
+verb;arribar;make it
+verb;arribar;get in
+verb;arribar;go far
+verb-basic;llegar;come
+verb-basic;llegar;come up
+verb-basic;venir;come
+verb-basic;venir;come up
+verb;llenar;fill
+verb;llenar;fill up
+verb;llenar;make full
+verb;abarrotar;fill
+verb;abarrotar;fill up
+verb;abarrotar;make full
+adjective;lleno;full
+verb;llevar;bear
+verb;traer;bear
+verb;llevar;wear
+verb;llevar;have on
+verb;vestir;wear
+verb;vestir;have on
+verb;llorar;cry
+verb;llorar;weep
+weather;lluvia;rain
+weather;lluvia;rainfall
+environment;lluvia acida;acid rain
+environment;lluvia acida;acid precipitation
+adjective;local;local
+pronoun;los;them
+verb;luchar;fight
+verb;luchar;contend
+verb;luchar;struggle
+verb;pelear;fight
+verb;pelear;contend
+verb;pelear;struggle
+verb;combatir;fight
+verb;combatir;contend
+verb;combatir;struggle
+verb;batallar;fight
+verb;batallar;contend
+verb;batallar;struggle
+verb;contender;fight
+verb;contender;contend
+verb;contender;struggle
+verb;resistir;fight
+verb;resistir;contend
+verb;resistir;struggle
+abstract;lugar;position
+abstract;lugar;place
+abstract;puesto;position
+abstract;puesto;place
+abstract;sitio;position
+abstract;sitio;place
+abstract;lugar;place
+abstract;lugar;topographic point
+abstract;lugar;spot
+abstract;sitio;place
+abstract;sitio;topographic point
+abstract;sitio;spot
+geography;luna;Moon
+geography;luna;moon
+time;lunes;Monday
+time;lunes;Mon
+physics;luz;light
+physics;luz;visible light
+physics;luz;visible radiation
+art;lapiz;pencil
+mathematics;limite;limit
+mathematics;limite;bound
+mathematics;limite;boundary
+mathematics;raya;limit
+mathematics;raya;bound
+mathematics;raya;boundary
+art;linea;line
+art;linea;line
+adjective;liquido;liquid
+material;liquido;liquid
+material;licor;liquid
+adjective-people;macho;male
+society;macho;male
+society;macho;male person
+tool;macillo;hammer
+material;madera;wood
+family;madre;mother
+family;madre;female parent
+family;madre;parent
+clothes;maleta;suitcase
+clothes;maleta;bag
+clothes;maleta;traveling bag
+clothes;maleta;travelling bag
+clothes;maleta;grip
+adjective-basic;malo;bad
+verb;manejar;manage
+verb;manejar;deal
+verb;manejar;care
+verb;manejar;handle
+verb;tratar;manage
+verb;tratar;deal
+verb;tratar;care
+verb;tratar;handle
+anatomy;mano;hand
+anatomy;mano;manus
+anatomy;mano;mitt
+anatomy;mano;paw
+food;mantequilla;butter
+fruit;manzana;apple
+geography;mapa;map
+geography;plano;map
+geography;carta;map
+geography;mar;sea
+geography;oceano;sea
+business;marca;brand
+business;marca;make
+sports;marca;record
+business;marca;marker
+business;marca;marking
+business;marca;mark
+business;señal;marker
+business;señal;marking
+business;señal;mark
+object;marco;frame
+geography;margen;bank
+geography;orilla;bank
+geography;vera;bank
+profession;marinero;sailor
+profession;marinero;crewman
+animal;marrano;pig
+animal;marrano;hog
+animal;marrano;grunter
+animal;marrano;squealer
+animal;marrano;Sus scrofa
+color;marron;brown
+color;marron;brownish
+color;marron;chocolate-brown
+color;marron;dark-brown
+time;martes;Tuesday
+time;martes;Tues
+physics;masa;mass
+physics;masa;mass
+physics;masa;bulk
+physics;masa;volume
+physics;volumen;mass
+physics;volumen;bulk
+physics;volumen;volume
+physics;multitud;mass
+physics;multitud;bulk
+physics;multitud;volume
+adjective-people;masculino;male
+adjective-people;masculino;manful
+adjective-people;masculino;manlike
+adjective-people;masculino;manly
+adjective-people;masculino;virile
+verb;matar;kill
+business;materia;material
+business;materia;stuff
+material;materia;matter
+material;sustancia;matter
+family;matrimonio;marriage
+family;matrimonio;matrimony
+family;matrimonio;union
+family;matrimonio;spousal relationship
+family;matrimonio;wedlock
+family;union;marriage
+family;union;matrimony
+family;union;union
+family;union;spousal relationship
+family;union;wedlock
+time;mayo;May
+abstract;mayoria;majority
+abstract;mayoria;bulk
+object;mazo;club
+object;garrote;club
+object;maza;club
+time;mañana;morning
+time;mañana;morn
+time;mañana;morning time
+time;mañana;forenoon
+adverb;mañana;tomorrow
+time;mañana;tomorrow
+pronoun;me;me
+conversation;me llamo;my name is
+business;media;mean
+business;media;mean value
+time;medianoche;midnight
+physics;medicion;measurement
+physics;medicion;measuring
+physics;medicion;measure
+physics;medicion;mensuration
+physics;medida;size
+physics;tamaño;size
+verb;medir;measure
+verb;medir;mensurate
+verb;medir;measure out
+adjective-basic;mejor;best
+adjective-basic;mejor;better
+fruit;melocoton;peach
+communication;memoria;memory
+communication;memoria;memory
+communication;memoria;retention
+communication;memoria;retentiveness
+communication;memoria;retentivity
+verb-basic;mentir;lie
+adjective;menudo;small
+adjective;menudo;little
+adjective;pequeño;small
+adjective;pequeño;little
+adjective;chico;small
+adjective;chico;little
+adjective;breve;small
+adjective;breve;little
+adjective;escaso;small
+adjective;escaso;little
+adjective;poco;small
+adjective;poco;little
+business;mercado;market
+business;mercado;marketplace
+business;mercado;market place
+time;mes;month
+time;mes;calendar month
+medicine;mes;menstruation
+medicine;mes;menses
+medicine;mes;menstruum
+medicine;mes;catamenia
+medicine;mes;period
+medicine;mes;flow
+medicine;regla;menstruation
+medicine;regla;menses
+medicine;regla;menstruum
+medicine;regla;catamenia
+medicine;regla;period
+medicine;regla;flow
+furniture;mesa;table
+furniture;mesa;desk
+furniture;escritorio;desk
+material;metal;metallic element
+material;metal;metal
+verb-basic;meter;make
+verb-basic;meter;do
+city;metro;subway
+city;metro;metro
+city;metro;tube
+city;metro;underground
+city;metro;subway system
+city;metropolitano;subway
+city;metropolitano;metro
+city;metropolitano;tube
+city;metropolitano;underground
+city;metropolitano;subway system
+adjective;metalico;metal
+adjective;metalico;metallic
+adjective-people;mezquino;mean
+adjective-people;mezquino;hateful
+pronoun;mi;my
+feeling;miedo;fear
+feeling;miedo;fearfulness
+feeling;miedo;fright
+feeling;terror;fear
+feeling;terror;fearfulness
+feeling;terror;fright
+feeling;inseguridad;fear
+feeling;inseguridad;fearfulness
+feeling;inseguridad;fright
+feeling;aprension;fear
+feeling;aprension;fearfulness
+feeling;aprension;fright
+feeling;susto;fear
+feeling;susto;fearfulness
+feeling;susto;fright
+society;miembro;member
+society;miembro;fellow member
+number;mil;thousand
+number;mil;one thousand
+number;mil;1000
+number;mil;M
+number;mil;K
+number;mil;chiliad
+number;mil;G
+number;mil;grand
+number;mil;thou
+number;mil;yard
+number;millar;thousand
+number;millar;one thousand
+number;millar;1000
+number;millar;M
+number;millar;K
+number;millar;chiliad
+number;millar;G
+number;millar;grand
+number;millar;thou
+number;millar;yard
+number;mil;thousand
+number;mil;one thousand
+number;mil;1000
+number;mil;m
+number;mil;k
+number;millar;thousand
+number;millar;one thousand
+number;millar;1000
+number;millar;m
+number;millar;k
+adjective;militar;military
+number;millon;million
+number;millon;1000000
+number;millon;one thousand thousand
+number;millon;meg
+environment;mina;mine
+profession;ministro;minister
+profession;ministro;government minister
+time;minuto;minute
+time;minuto;min
+adjective;miserable;poor
+adjective;miserable;hapless
+adjective;miserable;miserable
+adjective;miserable;misfortunate
+adjective;miserable;pathetic
+adjective;miserable;piteous
+adjective;miserable;pitiable
+adjective;miserable;pitiful
+adjective;miserable;wretched
+adjective;pobre;poor
+adjective;pobre;hapless
+adjective;pobre;miserable
+adjective;pobre;misfortunate
+adjective;pobre;pathetic
+adjective;pobre;piteous
+adjective;pobre;pitiable
+adjective;pobre;pitiful
+adjective;pobre;wretched
+adjective;triste;poor
+adjective;triste;hapless
+adjective;triste;miserable
+adjective;triste;misfortunate
+adjective;triste;pathetic
+adjective;triste;piteous
+adjective;triste;pitiable
+adjective;triste;pitiful
+adjective;triste;wretched
+adjective;indefenso;poor
+adjective;indefenso;hapless
+adjective;indefenso;miserable
+adjective;indefenso;misfortunate
+adjective;indefenso;pathetic
+adjective;indefenso;piteous
+adjective;indefenso;pitiable
+adjective;indefenso;pitiful
+adjective;indefenso;wretched
+pronoun;mismo;itself
+adjective;mismo;same
+mathematics;mitad;half
+mathematics;mitad;one-half
+time;miercoles;Wednesday
+time;miercoles;Midweek
+time;miercoles;Wed
+science;modelo;model
+adjective;moderno;modern
+society;monarca;king
+society;monarca;male monarch
+society;monarca;Rex
+society;rey;king
+society;rey;male monarch
+society;rey;Rex
+mathematics;monto;total
+mathematics;monto;sum
+mathematics;monto;amount
+mathematics;suma;total
+mathematics;suma;sum
+mathematics;suma;amount
+mathematics;total;total
+mathematics;total;sum
+mathematics;total;amount
+fruit;mora;blackberry
+color;morado;violet
+color;morado;purple
+color;morado;purplish
+color;violeta;violet
+color;violeta;purple
+color;violeta;purplish
+verb;morder;bite
+verb;morder;seize with teeth
+family;mortal;person
+family;mortal;individual
+family;mortal;someone
+family;mortal;somebody
+family;mortal;mortal
+family;mortal;soul
+animal;mosca;fly
+verb;mostrar;prove
+verb;mostrar;testify
+verb;mostrar;bear witness
+verb;mostrar;evidence
+verb;mostrar;show
+device;motor;engine
+physics;movimiento;movement
+physics;movimiento;motion
+conversation;muchas gracias;many thanks
+conversation;muchas gracias;thank you very much
+adjective;mucho;much
+adjective;muchos;many
+furniture;mueble;furniture
+furniture;mueble;piece of furniture
+furniture;mueble;article of furniture
+furniture;decoracion;furniture
+furniture;decoracion;piece of furniture
+furniture;decoracion;article of furniture
+tool;muelle;spring
+family;muerte;death
+adjective-people;muerto;dead
+adjective-people;difunto;dead
+family;mujer;woman
+family;mujer;adult female
+business;mujer de negocios;businesswoman
+business;mujer empresaria;businesswoman
+society;mundo;public
+society;mundo;populace
+society;mundo;world
+society;pueblo;public
+society;pueblo;populace
+society;pueblo;world
+house;muro;wall
+house;pared;wall
+house;tabique;wall
+art;museo;museum
+adverb;muy;very
+adverb;muy;really
+adverb;muy;real
+adverb;muy;rattling
+device;maquina;machine
+conjunction;mas;and
+adjective;mas;further
+adjective;mas;farther
+adjective;mas;more
+adjective;mas;more than
+adverb;mas;more
+adverb;mas;to a greater extent
+adverb;otra vez;more
+adverb;otra vez;to a greater extent
+adverb;mas bien;preferably
+adverb;mas bien;sooner
+adverb;mas bien;rather
+adjective-people;medico;medical
+science;metodo;method
+device;movil;cellphone
+device;movil;cellular telephone
+device;movil;cellular phone
+device;movil;cell
+device;movil;mobile phone
+device;celular;cellphone
+device;celular;cellular telephone
+device;celular;cellular phone
+device;celular;cell
+device;celular;mobile phone
+anatomy;musculo;muscle
+anatomy;musculo;musculus
+art;musica;music
+profession;musico;musician
+profession;musico;instrumentalist
+profession;musico;player
+family;nacimiento;birth
+family;nacimiento;nativity
+family;nacimiento;nascency
+family;nacimiento;nascence
+adjective;nacional;national
+society;nacion;nation
+society;nacion;land
+society;nacion;country
+verb-basic;nadar;swim
+fruit;naranja;orange
+color;naranja;orange
+color;naranja;orangish
+anatomy;nariz;nose
+anatomy;nariz;olfactory organ
+adjective;natural;natural
+nature;naturaleza;nature
+adjective;necesario;necessary
+business;necesidad;demand
+business;necesidad;need
+verb-basic;necesitar;need
+verb-basic;necesitar;necessitate
+verb-basic;necesitar;ask
+verb-basic;necesitar;postulate
+verb-basic;necesitar;require
+verb-basic;necesitar;take
+verb-basic;necesitar;involve
+verb-basic;necesitar;call for
+verb-basic;necesitar;demand
+verb-basic;precisar;need
+verb-basic;precisar;necessitate
+verb-basic;precisar;ask
+verb-basic;precisar;postulate
+verb-basic;precisar;require
+verb-basic;precisar;take
+verb-basic;precisar;involve
+verb-basic;precisar;call for
+verb-basic;precisar;demand
+business;negocio;business
+business;negocio;concern
+business;negocio;business concern
+business;negocio;business organization
+business;negocio;business organisation
+color;negro;black
+anatomy;nervio;nerve
+anatomy;nervio;nervus
+weather;niebla;fog
+environment;niebla mezclada con humo;smog
+environment;niebla mezclada con humo;smogginess
+weather;nieve;snow
+adjective;ningun;no
+adjective;nivelado;even
+adjective;nivelado;fifty-fifty
+conversation;no;no
+adverb;no;not
+adverb;no;non
+conversation;no entiendo;I don't understand
+conversation;no se;I don't know
+time;noche;night
+time;noche;nighttime
+time;noche;dark
+communication;nombre;name
+communication;apodo;name
+mathematics;norma;rule
+mathematics;norma;regulation
+mathematics;regla;rule
+mathematics;regla;regulation
+mathematics;regulacion;rule
+mathematics;regulacion;regulation
+adverb;normalmente;usually
+adverb;normalmente;normally
+adverb;normalmente;unremarkably
+adverb;normalmente;commonly
+adverb;normalmente;ordinarily
+geography;norte;north
+geography;norte;due north
+geography;norte;northward
+geography;norte;N
+pronoun;nos;us
+pronoun;nosotros;we
+art;nota;note
+art;nota;musical note
+art;nota;tone
+art;tono;note
+art;tono;musical note
+art;tono;tone
+communication;notacion;note
+communication;notacion;annotation
+communication;notacion;notation
+communication;angel;note
+communication;angel;annotation
+communication;angel;notation
+society;noticias;news
+society;noticias;intelligence
+society;noticias;tidings
+society;noticias;word
+number;noventa;ninety
+number;noventa;90
+number;noventa;xc
+time;noviembre;November
+time;noviembre;Nov
+weather;nube;cloud
+pronoun;nuestro;our
+number;nueve;nine
+number;nueve;9
+number;nueve;ix
+adjective-basic;nuevo;new
+fruit;nuez;nut
+adverb;nunca;never
+communication;numero;number
+conjunction;o;or
+abstract;ocasion;chance
+abstract;ocasion;opportunity
+abstract;oportunidad;chance
+abstract;oportunidad;opportunity
+number;ochenta;eighty
+number;ochenta;80
+number;ochenta;lxxx
+number;ochenta;fourscore
+number;ocho;eight
+number;ocho;8
+number;ocho;viii
+time;octubre;October
+time;octubre;Oct
+adjective;oculto;secret
+adjective;oculto;clandestine
+adjective;oculto;cloak-and-dagger
+adjective;oculto;hole-and-corner
+adjective;oculto;hugger-mugger
+adjective;oculto;hush-hush
+adjective;oculto;surreptitious
+adjective;oculto;undercover
+adjective;oculto;underground
+adjective;secreto;secret
+adjective;secreto;clandestine
+adjective;secreto;cloak-and-dagger
+adjective;secreto;hole-and-corner
+adjective;secreto;hugger-mugger
+adjective;secreto;hush-hush
+adjective;secreto;surreptitious
+adjective;secreto;undercover
+adjective;secreto;underground
+business;ocupacion;occupation
+business;ocupacion;business
+business;ocupacion;job
+business;ocupacion;line of work
+business;ocupacion;line
+verb;ocurrir;happen
+verb;ocurrir;hap
+verb;ocurrir;go on
+verb;ocurrir;pass off
+verb;ocurrir;occur
+verb;ocurrir;pass
+verb;ocurrir;fall out
+verb;ocurrir;come about
+verb;ocurrir;take place
+verb;pasar;happen
+verb;pasar;hap
+verb;pasar;go on
+verb;pasar;pass off
+verb;pasar;occur
+verb;pasar;pass
+verb;pasar;fall out
+verb;pasar;come about
+verb;pasar;take place
+verb;suceder;happen
+verb;suceder;hap
+verb;suceder;go on
+verb;suceder;pass off
+verb;suceder;occur
+verb;suceder;pass
+verb;suceder;fall out
+verb;suceder;come about
+verb;suceder;take place
+verb;suceso;happen
+verb;suceso;hap
+verb;suceso;go on
+verb;suceso;pass off
+verb;suceso;occur
+verb;suceso;pass
+verb;suceso;fall out
+verb;suceso;come about
+verb;suceso;take place
+feeling;odio;hate
+feeling;odio;hatred
+geography;oeste;west
+geography;oeste;due west
+geography;oeste;westward
+geography;oeste;W
+business;oferta;offer
+business;oferta;offering
+business;ganga;offer
+business;ganga;offering
+business;saldo;offer
+business;saldo;offering
+business;liquidacion;offer
+business;liquidacion;offering
+business;oficina;office
+business;oficina;business office
+verb-basic;ofrecer;offer
+anatomy;ojo;eye
+anatomy;ojo;oculus
+anatomy;ojo;optic
+nature;ola;wave
+nature;ola;moving ridge
+verb;oler;smell
+verb;oler;smell
+verb;oler;smell
+verb;olfatear;smell
+verb;aspirar;smell
+nature;olor;smell
+nature;olor;olfactory property
+nature;olor;aroma
+nature;olor;odor
+nature;olor;odour
+nature;olor;scent
+nature;hedor;smell
+nature;hedor;olfactory property
+nature;hedor;aroma
+nature;hedor;odor
+nature;hedor;odour
+nature;hedor;scent
+verb-basic;olvidar;forget
+verb-basic;ignorar;forget
+verb-basic;omitir;forget
+number;once;eleven
+number;once;11
+number;once;xi
+business;operacion;operation
+business;accionamiento;operation
+communication;oracion;sentence
+communication;frase;sentence
+mathematics;orden;order
+society;orden;order
+device;ordenador;computer
+device;ordenador;computing machine
+device;ordenador;computing device
+device;ordenador;data processor
+device;ordenador;electronic computer
+device;ordenador;information processing system
+society;organizacion;organization
+society;organizacion;organisation
+adjective;original;original
+material;oro;gold
+material;oro;Au
+material;oro;atomic number 79
+art;orquesta;orchestra
+communication;ortografia;spelling
+adjective-basic;oscuro;dark
+adjective-basic;sombrio;dark
+adjective-basic;misterioso;dark
+animal;oso;bear
+time;otoño;autumn
+time;otoño;fall
+adverb;otra vez;again
+adverb;otra vez;once again
+adverb;otra vez;once more
+adverb;otra vez;over again
+adjective;otro;other
+animal;oveja;sheep
+environment;ozono;ozone
+anatomy;oido;ear
+anatomy;oreja;ear
+verb-basic;oir;hear
+adjective-people;paciente;patient
+medicine;paciente;patient
+business;pacto;bargain
+business;pacto;deal
+business;trato;bargain
+business;trato;deal
+family;padre;father
+family;padre;male parent
+family;padre;begetter
+family;papa;father
+family;papa;male parent
+family;papa;begetter
+family;papa;father
+family;papa;male parent
+family;papa;begetter
+family;viejo;father
+family;viejo;male parent
+family;viejo;begetter
+business;pago;payment
+business;pago;wages
+business;pago;reward
+business;pago;payoff
+business;recompensa;wages
+business;recompensa;reward
+business;recompensa;payoff
+communication;palabra;word
+communication;oferta;word
+object;palo;stick
+object;vara;stick
+object;baston;stick
+verb-basic;palpar;feel
+verb-basic;palpar;sense
+food;pan;bread
+food;pan;breadstuff
+food;pan;staff of life
+object;pantalla;cover
+object;pantalla;screen
+object;pantalla;covert
+object;pantalla;concealment
+art;papel;paper
+adjective;par;even
+number;par;couple
+number;par;pair
+number;par;twosome
+number;par;twain
+number;par;brace
+number;par;span
+number;par;yoke
+number;par;couplet
+number;par;distich
+number;par;duo
+number;par;duet
+number;par;dyad
+number;par;duad
+number;pareja;couple
+number;pareja;pair
+number;pareja;twosome
+number;pareja;twain
+number;pareja;brace
+number;pareja;span
+number;pareja;yoke
+number;pareja;couplet
+number;pareja;distich
+number;pareja;duo
+number;pareja;duet
+number;pareja;dyad
+number;pareja;duad
+preposition;para;for
+abstract;parada;stop
+abstract;parada;halt
+adjective-people;parado;unemployed
+adjective;paralelo;parallel
+verb;parecer;look
+verb;parecer;appear
+verb;parecer;seem
+adjective-basic;parecido;similar
+adjective-basic;semejante;similar
+adjective-basic;similar;similar
+city;parque;park
+city;parque;commons
+city;parque;common
+city;parque;green
+abstract;parte;part
+abstract;parte;share
+abstract;parte;portion
+abstract;parte;percentage
+abstract;porcentaje;part
+abstract;porcentaje;share
+abstract;porcentaje;portion
+abstract;porcentaje;percentage
+geography;parte;region
+geography;parte;part
+geography;region;region
+geography;region;part
+adjective;particular;particular
+sports;partido;match
+sports;equipo;match
+verb-basic;partir;break
+verb-basic;quebrar;break
+verb-basic;romper;break
+verb-basic;destrozar;break
+adjective;pasado;past
+time;pasado;past
+time;pasado;past times
+time;pasado;yesteryear
+transport;pasajero;passenger
+transport;pasajero;rider
+transport;pasajera;passenger
+transport;pasajera;rider
+society;pasaporte;passport
+verb;pasar;spend
+verb;pasar;pass
+society;pase;pass
+society;pase;laissez passer
+abstract;paso;step
+abstract;paso;footstep
+abstract;paso;pace
+abstract;paso;stride
+abstract;desplazamiento;step
+abstract;desplazamiento;footstep
+abstract;desplazamiento;pace
+abstract;desplazamiento;stride
+food;pastel;cake
+vegetable;pastinaca sativa;parsnip
+vegetable;pastinaca sativa;Pastinaca sativa
+verb;patada;kick
+abstract;patada;kick
+abstract;patada;boot
+abstract;patada;kicking
+vegetable;patata;potato
+vegetable;patata;white potato
+vegetable;patata;Irish potato
+vegetable;patata;murphy
+vegetable;patata;spud
+vegetable;patata;tater
+transport;patinazo;skid
+transport;patinazo;slip
+transport;patinazo;sideslip
+time;pausa;pause
+time;pausa;intermission
+time;pausa;break
+time;pausa;interruption
+time;pausa;suspension
+time;suspension;pause
+time;suspension;intermission
+time;suspension;break
+time;suspension;interruption
+time;suspension;suspension
+society;paz;peace
+clothes;paño;cloth
+clothes;paño;fabric
+clothes;paño;material
+clothes;paño;textile
+clothes;tejido;cloth
+clothes;tejido;fabric
+clothes;tejido;material
+clothes;tejido;textile
+clothes;tela;cloth
+clothes;tela;fabric
+clothes;tela;material
+clothes;tela;textile
+clothes;trapo;cloth
+clothes;trapo;fabric
+clothes;trapo;material
+clothes;trapo;textile
+clothes;red;cloth
+clothes;red;fabric
+clothes;red;material
+clothes;red;textile
+anatomy;pecho;chest
+anatomy;pecho;breast
+abstract;pedazo;piece
+abstract;trozo;piece
+verb;pedir;request
+verb;pedir;bespeak
+verb;pedir;call for
+verb;pedir;quest
+verb;solicitar;request
+verb;solicitar;bespeak
+verb;solicitar;call for
+verb;solicitar;quest
+verb;demandar;request
+verb;demandar;bespeak
+verb;demandar;call for
+verb;demandar;quest
+verb;pelar;peel
+verb;pelar;skin
+verb;pelar;pare
+verb;mondar;peel
+verb;mondar;skin
+verb;mondar;pare
+abstract;peligro;danger
+abstract;riesgo;danger
+abstract;peligro;risk
+abstract;peligro;hazard
+abstract;peligro;jeopardy
+abstract;peligro;peril
+abstract;peligro;endangerment
+abstract;riesgo;risk
+abstract;riesgo;hazard
+abstract;riesgo;jeopardy
+abstract;riesgo;peril
+abstract;riesgo;endangerment
+abstract;azar;risk
+abstract;azar;hazard
+abstract;azar;jeopardy
+abstract;azar;peril
+abstract;azar;endangerment
+adjective;peligroso;dangerous
+adjective;peligroso;unsafe
+anatomy;pelo;hair
+anatomy;pelo;hair
+anatomy;pelo;pilus
+anatomy;cabello;hair
+anatomy;cabello;pilus
+art;pelicula;movie
+art;pelicula;film
+art;pelicula;picture
+art;pelicula;moving picture
+art;pelicula;moving-picture show
+art;pelicula;motion picture
+art;pelicula;motion-picture show
+art;pelicula;picture show
+art;pelicula;pic
+art;pelicula;flick
+art;produccion;movie
+art;produccion;film
+art;produccion;picture
+art;produccion;moving picture
+art;produccion;moving-picture show
+art;produccion;motion picture
+art;produccion;motion-picture show
+art;produccion;picture show
+art;produccion;pic
+art;produccion;flick
+verb;pensar;mean
+verb;pensar;intend
+verb;pensar;think
+verb;fraguar;mean
+verb;fraguar;intend
+verb;fraguar;think
+vegetable;pepino;cucumber
+vegetable;pepino;cuke
+object;pepita;seed
+object;semilla;seed
+fruit;pera;pear
+verb;perder;lose
+verb-basic;perder;lose
+verb;perder;miss
+verb;perdonar;forgive
+verb;excusar;forgive
+profession;periodista;journalist
+profession;corresponsal;journalist
+profession;cronista;journalist
+profession;editor;journalist
+verb;permanecer;stay
+verb;permanecer;remain
+verb;permanecer;rest
+verb;mantener;stay
+verb;mantener;remain
+verb;mantener;rest
+verb;esperar;stay
+verb;esperar;remain
+verb;esperar;rest
+animal;perro;dog
+animal;perro;domestic dog
+animal;perro;Canis familiaris
+business;personal;staff
+adjective;personal;private
+adjective;particular;private
+abstract;personalidad;personality
+business;pertenencia;property
+business;pertenencia;belongings
+business;pertenencia;holding
+business;propiedad;property
+business;propiedad;belongings
+business;propiedad;holding
+time;periodo;period
+time;periodo;time period
+time;periodo;period of time
+time;ciclo;period
+time;ciclo;time period
+time;ciclo;period of time
+adjective-basic;pesado;heavy
+verb;pesar;weigh
+physics;peso;weight
+material;petroleo;oil
+material;petroleo;petroleum
+material;petroleo;crude oil
+material;petroleo;crude
+material;petroleo;rock oil
+material;petroleo;fossil oil
+animal;pez;fish
+anatomy;pico;beak
+anatomy;pico;bill
+anatomy;pico;neb
+anatomy;pico;nib
+anatomy;pico;pecker
+anatomy;pie;foot
+anatomy;pie;human foot
+anatomy;pie;pes
+object;piedra;stone
+object;piedra;rock
+object;roca;stone
+object;roca;rock
+anatomy;piel;skin
+anatomy;piel;tegument
+anatomy;piel;cutis
+anatomy;pierna;leg
+profession;piloto;pilot
+profession;piloto;airplane pilot
+art;pintura;paint
+art;pintura;pigment
+house;piso;floor
+house;piso;level
+house;piso;storey
+house;piso;story
+house;planta;floor
+house;planta;level
+house;planta;storey
+house;planta;story
+house;piso;floor
+house;piso;flooring
+house;suelo;floor
+house;suelo;flooring
+house;pavimento;floor
+house;pavimento;flooring
+tool;pistola;gun
+feeling;placer;pleasure
+feeling;placer;pleasance
+feeling;gusto;pleasure
+feeling;gusto;pleasance
+business;plan;plan
+business;plan;program
+business;plan;programme
+business;programa;plan
+business;programa;program
+business;programa;programme
+business;plano;plan
+business;plano;program
+business;plano;programme
+business;llano;plan
+business;llano;program
+business;llano;programme
+business;proyecto;plan
+business;proyecto;program
+business;proyecto;programme
+nature;planeta;world
+verb;planificar;plan
+material;plata;silver
+material;plata;Ag
+material;plata;atomic number 47
+adjective;plata;silver
+adjective;argento;silver
+adjective;color plateado;silver
+container;plato;plate
+geography;playa;beach
+material;plomo;lead
+material;plomo;Pb
+material;plomo;atomic number 82
+object;pluma;feather
+object;pluma;plume
+object;pluma;plumage
+art;pluma;pen
+fruit;platano;banana
+society;poblacion;population
+city;poblacion;town
+city;villa;town
+city;ciudad;town
+adjective-people;pobre;poor
+adverb;poco;little
+adjective;pocos;few
+art;poema;poem
+art;poema;verse form
+art;poesia;poem
+art;poesia;verse form
+art;verso;poem
+art;verso;verse form
+art;poesia;poetry
+art;poesia;poesy
+art;poesia;verse
+art;verso;poetry
+art;verso;poesy
+art;verso;verse
+material;polvo;dust
+material;polvo;powder
+material;polvo;pulverization
+material;polvo;pulverisation
+society;politica;policy
+adjective;politico;political
+profession;politico;politician
+profession;politico;politico
+profession;politico;pol
+profession;politico;political leader
+verb-basic;poner;put
+verb-basic;poner;set
+verb-basic;poner;place
+verb-basic;poner;pose
+verb-basic;poner;position
+verb-basic;poner;lay
+adjective;popular;popular
+adjective;popular;pop
+adverb;por;by
+adverb;por;past
+preposition;por;to
+adverb;por favor;please
+adverb;por lo menos;least
+adverb;por lo menos;to the lowest degree
+adverb;como minimo;least
+adverb;como minimo;to the lowest degree
+adverb;por que;why
+mathematics;porcentaje;percent
+mathematics;porcentaje;percentage
+mathematics;porcentaje;per centum
+mathematics;porcentaje;pct
+conjunction;porque;because
+object;porte;stamp
+object;porte;postage
+object;porte;postage stamp
+verb;poseer;own
+verb;poseer;have
+verb;poseer;possess
+verb;tener;own
+verb;tener;have
+verb;tener;possess
+adjective;posible;probable
+adjective;posible;likely
+adjective;probable;probable
+adjective;probable;likely
+adjective;eventual;probable
+adjective;eventual;likely
+adjective;posible;possible
+adjective;realizable;possible
+house;pozo;well
+verb;preguntar;ask
+verb;preguntar;inquire
+verb;preguntar;enquire
+verb;solicitar;ask
+verb;solicitar;inquire
+verb;solicitar;enquire
+verb;interrogar;ask
+verb;interrogar;inquire
+verb;interrogar;enquire
+verb;averiguar;ask
+verb;averiguar;inquire
+verb;averiguar;enquire
+verb;preparar;cook
+verb;cocer;cook
+verb;presentar;introduce
+verb;presentar;present
+verb;presentar;acquaint
+profession;presidente;president
+physics;presion;pressure
+physics;presion;pressure level
+physics;presion;force per unit area
+time;primavera;spring
+time;primavera;springtime
+adjective;primero;first
+adverb;primero;first
+adverb;primero;firstly
+adverb;primero;foremost
+adverb;primero;first of all
+adverb;primero;first off
+number;primero;first
+number;primero;1st
+number;primeramente;first
+number;primeramente;1st
+number;primer;first
+number;primer;1st
+adjective;primordial;main
+adjective;primordial;chief
+adjective;primordial;primary
+adjective;primordial;principal
+adjective;primordial;master
+adjective;principal;main
+adjective;principal;chief
+adjective;principal;primary
+adjective;principal;principal
+adjective;principal;master
+adjective;mayor;main
+adjective;mayor;chief
+adjective;mayor;primary
+adjective;mayor;principal
+adjective;mayor;master
+adjective;principal;major
+city;prision;prison
+city;prision;prison house
+adverb;probablemente;probably
+adverb;probablemente;likely
+adverb;probablemente;in all likelihood
+adverb;probablemente;in all probability
+adverb;probablemente;belike
+verb;probar;taste
+verb;probar;savor
+verb;probar;savour
+science;problema;issue
+science;problema;trouble
+science;problema;problem
+science;procedimiento;procedure
+science;procedimiento;process
+science;proceso;procedure
+science;proceso;process
+science;metodo;procedure
+science;metodo;process
+verb;procesar;process
+verb;procesar;treat
+verb;tratar;process
+verb;tratar;treat
+physics;proceso;process
+physics;proceso;physical process
+science;produccion;production
+science;creacion;production
+science;elaboracion;production
+business;produccion;product
+business;produccion;production
+business;producto;product
+business;producto;production
+adjective;profesional;professional
+profession;profesional;professional
+profession;profesional;professional person
+education;profesor;teacher
+education;profesor;instructor
+education;maestro;teacher
+education;maestro;instructor
+education;educador;teacher
+education;educador;instructor
+adjective-basic;profundo;deep
+adjective-basic;ahuecado;deep
+adjective-basic;grave;deep
+adjective-basic;hondo;deep
+adjective-basic;abstruso;deep
+adjective-basic;intenso;deep
+science;programa;program
+science;programa;programme
+science;programa;computer program
+science;programa;computer programme
+adverb;pronto;early
+adverb;pronto;early on
+adverb;pronto;soon
+adverb;pronto;shortly
+adverb;pronto;presently
+adverb;pronto;before long
+communication;pronunciacion;pronunciation
+abstract;propiedad;property
+adjective;propio;own
+adjective;propio;ain
+verb;proponer;suggest
+verb;proponer;propose
+verb;proponer;advise
+verb;sugerir;suggest
+verb;sugerir;propose
+verb;sugerir;advise
+verb;aconsejar;suggest
+verb;aconsejar;propose
+verb;aconsejar;advise
+verb;inspirar;suggest
+verb;inspirar;propose
+verb;inspirar;advise
+verb;apuntar;suggest
+verb;apuntar;propose
+verb;apuntar;advise
+communication;proposicion;proposal
+communication;proposicion;suggestion
+communication;proposicion;proposition
+communication;proposicion;proffer
+communication;propuesta;suggestion
+communication;propuesta;proposition
+communication;propuesta;proffer
+communication;sugerencia;suggestion
+communication;sugerencia;proposition
+communication;sugerencia;proffer
+communication;protesta;protest
+communication;protesta;protestation
+verb;protestar;protest
+verb;reclamar;protest
+verb;amenazar;protest
+verb;luchar;protest
+science;proyecto;project
+science;proyecto;projection
+abstract;proyecto;project
+abstract;proyecto;undertaking
+abstract;proyecto;task
+abstract;proyecto;labor
+abstract;tarea;project
+abstract;tarea;undertaking
+abstract;tarea;task
+abstract;tarea;labor
+abstract;contrata;project
+abstract;contrata;undertaking
+abstract;contrata;task
+abstract;contrata;labor
+abstract;practica;practice
+verb;publicar;publish
+verb;publicar;bring out
+verb;publicar;put out
+verb;publicar;issue
+verb;publicar;release
+verb;sacar;publish
+verb;sacar;bring out
+verb;sacar;put out
+verb;sacar;issue
+verb;sacar;release
+city;pueblo;village
+city;pueblo;small town
+city;pueblo;settlement
+city;puente;bridge
+city;puente;span
+house;puerta;door
+house;hoja;door
+anatomy;pulgar;thumb
+anatomy;pulgar;pollex
+medicine;punto;stitch
+communication;punto;point
+communication;punto;dot
+communication;puntillo;point
+communication;puntillo;dot
+communication;pagina;page
+communication;hoja;page
+business;perdida;loss
+adjective;publico;public
+conjunction;que;than
+pronoun;que;what
+food;queso;cheese
+adjective;quisquilloso;dainty
+adjective;quisquilloso;nice
+adjective;quisquilloso;overnice
+adjective;quisquilloso;prissy
+adjective;quisquilloso;squeamish
+verb;quitar;remove
+verb;quitar;take
+verb;quitar;take away
+verb;quitar;withdraw
+verb;sacar;remove
+verb;sacar;take
+verb;sacar;take away
+verb;sacar;withdraw
+adverb;quizas;possibly
+adverb;quizas;perchance
+adverb;quizas;perhaps
+adverb;quizas;maybe
+adverb;quizas;mayhap
+adverb;quizas;peradventure
+pronoun;quien;who
+pronoun;quien;whom
+science;quimica;chemistry
+science;quimica;chemical science
+adjective;quimico;chemical
+adjective;quimico;chemic
+nature;rama;branch
+weather;rayo;lightning
+communication;razon;reason
+communication;razon;ground
+communication;motivo;reason
+communication;motivo;ground
+mathematics;raiz;root
+nature;raiz;root
+communication;reaccion;reaction
+adjective-people;real;royal
+adjective-people;real;imperial
+adjective-people;real;majestic
+adjective-people;real;purple
+adjective-people;real;regal
+adverb;realmente;really
+adverb;realmente;truly
+adverb;realmente;genuinely
+verb;rechazar;refuse
+verb;rechazar;reject
+verb;rechazar;pass up
+verb;rechazar;turn down
+verb;rechazar;decline
+verb;declinar;refuse
+verb;declinar;reject
+verb;declinar;pass up
+verb;declinar;turn down
+verb;declinar;decline
+verb;desairar;refuse
+verb;desairar;reject
+verb;desairar;pass up
+verb;desairar;turn down
+verb;desairar;decline
+verb;desterrar;refuse
+verb;desterrar;reject
+verb;desterrar;pass up
+verb;desterrar;turn down
+verb;desterrar;decline
+verb;excluir;refuse
+verb;excluir;reject
+verb;excluir;pass up
+verb;excluir;turn down
+verb;excluir;decline
+verb;rehusar;refuse
+verb;rehusar;reject
+verb;rehusar;pass up
+verb;rehusar;turn down
+verb;rehusar;decline
+verb;recibir;receive
+verb;recibir;have
+environment;reciclaje;recycling
+adjective;reciente;recent
+time;recientemente;now
+adverb;recientemente;recently
+adverb;recientemente;late
+adverb;recientemente;lately
+adverb;recientemente;of late
+adverb;recientemente;latterly
+verb-basic;recordar;remember
+verb-basic;recordar;retrieve
+verb-basic;recordar;recall
+verb-basic;recordar;call back
+verb-basic;recordar;call up
+verb-basic;recordar;recollect
+verb-basic;recordar;think
+verb-basic;avisar;remember
+verb-basic;avisar;retrieve
+verb-basic;avisar;recall
+verb-basic;avisar;call back
+verb-basic;avisar;call up
+verb-basic;avisar;recollect
+verb-basic;avisar;think
+verb-basic;recuperar;remember
+verb-basic;recuperar;retrieve
+verb-basic;recuperar;recall
+verb-basic;recuperar;call back
+verb-basic;recuperar;call up
+verb-basic;recuperar;recollect
+verb-basic;recuperar;think
+adjective;recto;straight
+adjective;derecho;straight
+adjective;vertical;straight
+adjective;perpendicular;straight
+adjective;directo;straight
+mathematics;red;net
+mathematics;red;network
+mathematics;red;mesh
+mathematics;red;meshing
+mathematics;red;meshwork
+mathematics;malla;net
+mathematics;malla;network
+mathematics;malla;mesh
+mathematics;malla;meshing
+mathematics;malla;meshwork
+verb;redondear;round off
+verb;redondear;round down
+verb;redondear;round out
+verb;redondear;round
+adjective;redondo;round
+adjective;redondo;circular
+verb;reemplazar;replace
+verb;reemplazar;supplant
+verb;reemplazar;supersede
+verb;reemplazar;supervene upon
+verb;reemplazar;supercede
+verb;reflejar;reflect
+verb;reflejar;reverberate
+object;regalo;present
+object;presente;present
+abstract;regreso;return
+abstract;regreso;homecoming
+abstract;vuelta;return
+abstract;vuelta;homecoming
+abstract;retorno;return
+abstract;retorno;homecoming
+adjective;regular;regular
+communication;relacion;relation
+family;relacion;relationship
+family;relacion;human relationship
+device;reloj;clock
+device;reloj;watch
+device;reloj;ticker
+adjective;repentino;sudden
+vegetable;repollo;cabbage
+vegetable;repollo;chou
+verb;reposar;rest
+profession;representante;representative
+verb;representar;mean
+verb;significar;mean
+medicine;resfriado;cold
+medicine;resfriado;common cold
+verb;responder;reply
+verb;responder;answer
+verb;responder;respond
+abstract;responsabilidad;responsibility
+abstract;responsabilidad;responsibleness
+abstract;deber;responsibility
+abstract;deber;responsibleness
+adjective;responsable;responsible
+communication;respuesta;answer
+communication;respuesta;reply
+communication;respuesta;response
+business;restante;rest
+business;restante;remainder
+business;restante;balance
+business;restante;residual
+business;restante;residue
+business;restante;residuum
+business;resto;rest
+business;resto;remainder
+business;resto;balance
+business;resto;residual
+business;resto;residue
+business;resto;residuum
+business;residuo;rest
+business;residuo;remainder
+business;residuo;balance
+business;residuo;residual
+business;residuo;residue
+business;residuo;residuum
+business;escombro;rest
+business;escombro;remainder
+business;escombro;balance
+business;escombro;residual
+business;escombro;residue
+business;escombro;residuum
+city;restaurante;restaurant
+city;restaurante;eating house
+city;restaurante;eating place
+city;restaurante;eatery
+communication;revista;magazine
+communication;revista;mag
+verb-basic;reir;laugh
+verb-basic;reir;express joy
+verb-basic;reir;express mirth
+adjective-people;rico;rich
+art;ritmo;rhythm
+art;ritmo;beat
+art;ritmo;musical rhythm
+art;compas;rhythm
+art;compas;beat
+art;compas;musical rhythm
+weather;rocio;dew
+anatomy;rodilla;knee
+anatomy;rodilla;knee joint
+anatomy;rodilla;human knee
+anatomy;rodilla;articulatio genus
+anatomy;rodilla;genu
+color;rojizo;red
+color;rojizo;reddish
+color;rojizo;ruddy
+color;rojizo;blood-red
+color;rojizo;carmine
+color;rojizo;cerise
+color;rojizo;cherry
+color;rojizo;cherry-red
+color;rojizo;crimson
+color;rojizo;ruby
+color;rojizo;ruby-red
+color;rojizo;scarlet
+color;rojo;red
+color;rojo;reddish
+color;rojo;ruddy
+color;rojo;blood-red
+color;rojo;carmine
+color;rojo;cerise
+color;rojo;cherry
+color;rojo;cherry-red
+color;rojo;crimson
+color;rojo;ruby
+color;rojo;ruby-red
+color;rojo;scarlet
+object;rollo;coil
+object;rollo;whorl
+object;rollo;roll
+object;rollo;curl
+object;rollo;curlicue
+object;rollo;ringlet
+object;rollo;gyre
+object;rollo;scroll
+color;rosa;pink
+color;rosa;pinkish
+color;rosado;pink
+color;rosado;pinkish
+adjective;roto;broken
+object;rueda;wheel
+society;ruido;noise
+society;ruido;dissonance
+society;ruido;racket
+language;ruso;Russian
+vegetable;rabano;radish
+adverb;rapidamente;quickly
+adverb;rapidamente;rapidly
+adverb;rapidamente;speedily
+adverb;rapidamente;chop-chop
+adverb;rapidamente;apace
+adverb;a prisa;quickly
+adverb;a prisa;rapidly
+adverb;a prisa;speedily
+adverb;a prisa;chop-chop
+adverb;a prisa;apace
+adverb;al trote;quickly
+adverb;al trote;rapidly
+adverb;al trote;speedily
+adverb;al trote;chop-chop
+adverb;al trote;apace
+adverb;apresuradamente;quickly
+adverb;apresuradamente;rapidly
+adverb;apresuradamente;speedily
+adverb;apresuradamente;chop-chop
+adverb;apresuradamente;apace
+adverb;aprisa;quickly
+adverb;aprisa;rapidly
+adverb;aprisa;speedily
+adverb;aprisa;chop-chop
+adverb;aprisa;apace
+adverb;con prontitud;quickly
+adverb;con prontitud;rapidly
+adverb;con prontitud;speedily
+adverb;con prontitud;chop-chop
+adverb;con prontitud;apace
+adverb;de prisa;quickly
+adverb;de prisa;rapidly
+adverb;de prisa;speedily
+adverb;de prisa;chop-chop
+adverb;de prisa;apace
+adverb;ejecutivamente;quickly
+adverb;ejecutivamente;rapidly
+adverb;ejecutivamente;speedily
+adverb;ejecutivamente;chop-chop
+adverb;ejecutivamente;apace
+adverb;ligero;quickly
+adverb;ligero;rapidly
+adverb;ligero;speedily
+adverb;ligero;chop-chop
+adverb;ligero;apace
+adverb;prestamente;quickly
+adverb;prestamente;rapidly
+adverb;prestamente;speedily
+adverb;prestamente;chop-chop
+adverb;prestamente;apace
+adverb;presto;quickly
+adverb;presto;rapidly
+adverb;presto;speedily
+adverb;presto;chop-chop
+adverb;presto;apace
+adverb;presurosamente;quickly
+adverb;presurosamente;rapidly
+adverb;presurosamente;speedily
+adverb;presurosamente;chop-chop
+adverb;presurosamente;apace
+adverb;prontamente;quickly
+adverb;prontamente;rapidly
+adverb;prontamente;speedily
+adverb;prontamente;chop-chop
+adverb;prontamente;apace
+adverb;raudamente;quickly
+adverb;raudamente;rapidly
+adverb;raudamente;speedily
+adverb;raudamente;chop-chop
+adverb;raudamente;apace
+adverb;velozmente;quickly
+adverb;velozmente;rapidly
+adverb;velozmente;speedily
+adverb;velozmente;chop-chop
+adverb;velozmente;apace
+adjective-basic;rapido;fast
+adjective-basic;veloz;fast
+adjective;rigido;rigid
+adjective;rigido;stiff
+adjective;tieso;rigid
+adjective;tieso;stiff
+geography;rio;river
+time;s;second
+time;s;sec
+time;s;s
+time;segundo;second
+time;segundo;sec
+time;segundo;s
+adjective-people;sabio;wise
+adjective-people;serio;wise
+adjective-people;formal;wise
+food;sal;salt
+food;sal;table salt
+food;sal;common salt
+food;salsa;sauce
+verb-basic;saltar;jump
+verb-basic;saltar;leap
+verb-basic;saltar;bound
+verb-basic;saltar;spring
+verb-basic;brincar;jump
+verb-basic;brincar;leap
+verb-basic;brincar;bound
+verb-basic;brincar;spring
+abstract;salto;jump
+abstract;salto;leap
+abstract;salto;saltation
+conversation;salud;cheers
+medicine;salud;health
+medicine;salud;wellness
+verb;salvar;save
+verb;salvar;salvage
+verb;salvar;salve
+verb;salvar;relieve
+verb;sacar;save
+verb;sacar;salvage
+verb;sacar;salve
+verb;sacar;relieve
+verb;librar;save
+verb;librar;salvage
+verb;librar;salve
+verb;librar;relieve
+anatomy;sangre;blood
+adjective-people;sano;healthy
+adjective-basic;sano;healthy
+adjective-basic;sano;salubrious
+adjective-basic;sano;good for you
+pronoun;se;herself
+adjective;seco;dry
+profession;secretario;secretary
+profession;secretario;secretarial assistant
+communication;secreto;secret
+material;seda;silk
+adjective-people;sediento;thirsty
+verb-basic;seguir;follow
+verb-basic;continuar;follow
+verb-basic;proseguir;follow
+adjective;segundo;second
+adjective;segundo;2nd
+adjective;segundo;2d
+business;seguro;insurance
+adjective;seguro;safe
+adjective;seguro;certain
+adjective;seguro;sure
+adjective;cierto;certain
+adjective;cierto;sure
+number;seis;six
+number;seis;6
+number;seis;vi
+number;seis;half dozen
+number;seis;half-dozen
+tool;sello;stamp
+tool;cajetin;stamp
+tool;timbre;stamp
+time;semana;week
+time;semana;calendar week
+verb-basic;sentar;sit
+verb-basic;sentar;sit down
+communication;sentimiento;feeling
+adjective;separado;separate
+time;septiembre;September
+time;septiembre;Sep
+time;septiembre;Sept
+verb-basic;ser;be
+abstract;serenidad;quiet
+abstract;serenidad;repose
+abstract;serenidad;placidity
+abstract;serenidad;serenity
+abstract;serenidad;tranquillity
+abstract;serenidad;tranquility
+abstract;sosiego;quiet
+abstract;sosiego;repose
+abstract;sosiego;placidity
+abstract;sosiego;serenity
+abstract;sosiego;tranquillity
+abstract;sosiego;tranquility
+abstract;tranquilidad;quiet
+abstract;tranquilidad;repose
+abstract;tranquilidad;placidity
+abstract;tranquilidad;serenity
+abstract;tranquilidad;tranquillity
+abstract;tranquilidad;tranquility
+abstract;calma;quiet
+abstract;calma;repose
+abstract;calma;placidity
+abstract;calma;serenity
+abstract;calma;tranquillity
+abstract;calma;tranquility
+abstract;dulzura;quiet
+abstract;dulzura;repose
+abstract;dulzura;placidity
+abstract;dulzura;serenity
+abstract;dulzura;tranquillity
+abstract;dulzura;tranquility
+abstract;serie;serial
+abstract;serie;series
+adjective;serio;serious
+animal;serpiente;snake
+animal;serpiente;serpent
+animal;serpiente;ophidian
+business;servicio;service
+number;sesenta;sixty
+number;sesenta;60
+number;sesenta;lx
+number;sesenta;threescore
+number;setenta;seventy
+number;setenta;70
+number;setenta;lxx
+nature;sexo;sex
+relations;sexo;sex
+relations;sexo;sexual activity
+relations;sexo;sexual practice
+relations;sexo;sex activity
+conjunction;si;if
+adverb;siempre;always
+adverb;siempre;ever
+adverb;siempre;e'er
+number;siete;seven
+number;siete;7
+number;siete;vii
+time;siglo;century
+communication;signo;sign
+adjective;siguiente;following
+adjective;siguiente;next
+adjective;proximo;following
+adjective;proximo;next
+abstract;silencio;silence
+abstract;silencio;quiet
+abstract;discrecion;silence
+abstract;discrecion;quiet
+abstract;mordaza;silence
+abstract;mordaza;quiet
+abstract;reserva;silence
+abstract;reserva;quiet
+adjective;silencioso;quiet
+adjective;silencioso;silent
+adjective;silencioso;soundless
+adjective;silencioso;still
+adjective;callado;silent
+adjective;callado;soundless
+adjective;callado;still
+furniture;silla;chair
+animal;simio;monkey
+animal;mono;monkey
+verb-basic;simpatizar;like
+verb-basic;considerar;like
+verb-basic;estimar;like
+verb-basic;apreciar;like
+preposition;sin;without
+adjective-people;sincero;sincere
+adjective-people;franco;sincere
+adjective-people;leal;sincere
+science;sistema;system
+science;sistema;scheme
+abstract;situacion;situation
+abstract;situacion;state of affairs
+container;sobre;envelope
+preposition;sobre;on
+preposition;sobre;on
+adjective;social;social
+science;sociedad;society
+geography;sol;sun
+geography;sol;Sun
+adverb;solamente;simply
+adverb;solamente;merely
+adverb;solamente;just
+adverb;solamente;only
+adverb;solamente;but
+profession;soldado;soldier
+adjective-people;solitario;alone
+adjective-people;solitario;lone
+adjective-people;solitario;lonely
+adjective-people;solitario;solitary
+adverb;solitario;entirely
+adverb;solitario;exclusively
+adverb;solitario;solely
+adverb;solitario;alone
+adverb;solitario;only
+adjective;solo;single
+adjective-people;soltero;single
+adjective-people;soltero;unmarried
+clothes;sombrero;hat
+clothes;sombrero;chapeau
+clothes;sombrero;lid
+physics;sonido;sound
+verb-basic;sonreir;smile
+relations;sonrisa;smile
+relations;sonrisa;smiling
+relations;sonrisa;grin
+relations;sonrisa;grinning
+food;sopa;soup
+food;caldo;soup
+verb;soportar;suffer
+verb;soportar;endure
+verb;sufrir;suffer
+verb;sufrir;endure
+verb;sorprender;surprise
+pronoun;su;her
+pronoun;su;his
+pronoun;su;their
+pronoun;su;your
+adjective-basic;sucio;dirty
+adjective-basic;sucio;soiled
+adjective-basic;sucio;unclean
+adjective-basic;asqueroso;dirty
+adjective-basic;asqueroso;soiled
+adjective-basic;asqueroso;unclean
+nature;sueño;sleep
+nature;sueño;slumber
+mathematics;suma;addition
+mathematics;suma;summation
+mathematics;suma;plus
+verb;sumar;add
+verb;sumar;add together
+verb;superar;exceed
+verb;superar;transcend
+verb;superar;overstep
+verb;superar;pass
+verb;superar;go past
+verb;superar;top
+mathematics;superficie;surface
+business;superioridad;advantage
+business;superioridad;vantage
+business;ventaja;advantage
+business;ventaja;vantage
+city;supermercado;supermarket
+verb;suponer;suppose
+verb;suponer;say
+geography;sur;south
+geography;sur;due south
+geography;sur;southward
+geography;sur;S
+material;sustancia quimica;chemical
+material;sustancia quimica;chemical substance
+mathematics;sustitucion;substitution
+mathematics;sustitucion;exchange
+mathematics;sustitucion;commutation
+time;sabado;Saturday
+time;sabado;Sabbatum
+time;sabado;Sat
+pronoun;si;himself
+conversation;si;yes
+adjective;solido;solid
+business;tabla;table
+business;tabla;tabular array
+object;tabla;board
+object;tablero;board
+adverb;tal;such
+nature;tallo;stem
+nature;tallo;stalk
+nature;pedunculo;stem
+nature;pedunculo;stalk
+business;talon;check
+business;talon;bank check
+business;talon;cheque
+business;cheque;check
+business;cheque;bank check
+business;cheque;cheque
+adverb;tambien;too
+adverb;tambien;besides
+adverb;tambien;also
+adverb;tambien;likewise
+adverb;tambien;as well
+time;tarde;afternoon
+adverb;tarde;late
+adverb;tarde;belatedly
+adverb;tarde;tardily
+adjective;tardio;late
+adjective;pausado;late
+adjective;lento;late
+business;tarifa;rate
+business;tarifa;charge per unit
+business;tipo;rate
+business;tipo;charge per unit
+business;tasa;rate
+business;tasa;charge per unit
+container;taza;cup
+pronoun;te;yourself
+city;teatro;theater
+city;teatro;theatre
+city;teatro;house
+house;techo;roof
+science;tecnologia;technology
+science;tecnologia;engineering
+device;tele;television
+device;tele;tv set
+device;tele;television receiver
+device;tele;television set
+device;tele;tv
+device;tele;idiot box
+device;tele;boob tube
+device;tele;telly
+device;tele;goggle box
+device;television;television
+device;television;tv set
+device;television;television receiver
+device;television;television set
+device;television;tv
+device;television;idiot box
+device;television;boob tube
+device;television;telly
+device;television;goggle box
+device;televisor;television
+device;televisor;tv set
+device;televisor;television receiver
+device;televisor;television set
+device;televisor;tv
+device;televisor;idiot box
+device;televisor;boob tube
+device;televisor;telly
+device;televisor;goggle box
+abstract;temblor;shake
+abstract;temblor;tremble
+abstract;temblor;shiver
+abstract;escalofrios;shake
+abstract;escalofrios;tremble
+abstract;escalofrios;shiver
+time;temporada;season
+adjective;temprano;early
+science;tendencia;trend
+science;tendencia;tendency
+kitchen;tenedor;fork
+verb-basic;tener;have
+verb-basic;tener;have got
+verb-basic;tener;hold
+sports;tenis;tennis
+sports;tenis;lawn tennis
+science;teoria;theory
+number;tercero;third
+number;tercero;3rd
+number;tercero;tertiary
+society;testamento;will
+society;testamento;testament
+physics;tiempo;time
+physics;tiempo;fourth dimension
+nature;tiempo;weather
+nature;tiempo;weather condition
+nature;tiempo;conditions
+nature;tiempo;atmospheric condition
+nature;clima;weather
+nature;clima;weather condition
+nature;clima;conditions
+nature;clima;atmospheric condition
+material;tierra;earth
+material;tierra;ground
+geography;tierra;land
+geography;tierra;dry land
+geography;tierra;earth
+geography;tierra;ground
+geography;tierra;solid ground
+geography;tierra;terra firma
+tool;tijeras;scissors
+tool;tijeras;pair of scissors
+art;tinta;ink
+abstract;tipo;type
+adverb;todavia;still
+adjective;todo;all
+pronoun;todo;everything
+abstract;todo;whole
+abstract;totalidad;whole
+pronoun;todos;everybody
+pronoun;todos;everyone
+vegetable;tomate;tomato
+adjective-people;tonto;silly
+adjective-people;tonto;airheaded
+adjective-people;tonto;dizzy
+adjective-people;tonto;empty-headed
+adjective-people;tonto;featherbrained
+adjective-people;tonto;giddy
+adjective-people;tonto;light-headed
+adjective-people;tonto;lightheaded
+abstract;toque;touch
+abstract;toque;touching
+weather;tormenta;storm
+weather;tormenta;violent storm
+medicine;tos;cough
+medicine;tos;coughing
+verb;toser;cough
+business;trabajador;worker
+business;trabajo;work
+abstract;trampa;trick
+transport;transporte;transport
+transport;transporte;shipping
+transport;transporte;transportation
+adverb;tras;beyond
+adverb;detras de;beyond
+abstract;tratamiento;treatment
+abstract;tratamiento;handling
+abstract;trato;treatment
+abstract;trato;handling
+number;trece;thirteen
+number;trece;13
+number;trece;xiii
+number;treinta;thirty
+number;treinta;30
+number;treinta;xxx
+number;tres;three
+number;tres;3
+number;tres;iii
+adjective-people;triste;sad
+sports;triunfo;win
+anatomy;tronco;body
+anatomy;tronco;torso
+anatomy;tronco;trunk
+abstract;trozo;slice
+abstract;trozo;piece
+weather;trueno;thunder
+object;tuberia;pipe
+object;tuberia;pipage
+object;tuberia;piping
+object;conducto;pipe
+object;conducto;pipage
+object;conducto;piping
+object;tuerca;nut
+drink;te;tea
+society;titulo;title
+anatomy;torax;chest
+anatomy;torax;thorax
+anatomy;torax;pectus
+material;toxico;poison
+material;toxico;toxicant
+material;toxico;poisonous substance
+article;un;a
+article;un;an
+physics;unidad;unit
+physics;unidad;unit of measurement
+adjective-people;unipersonal;private
+adjective-people;unipersonal;individual
+city;universidad;university
+society;union;union
+number;uno;one
+number;uno;1
+number;uno;i
+number;uno;ane
+number;a;one
+number;a;1
+number;a;i
+number;a;ane
+science;usuario;user
+anatomy;uña;nail
+animal;vaca;cow
+animal;vaca;moo-cow
+business;vacaciones;holiday
+business;vacaciones;vacation
+business;feriado;holiday
+business;feriado;vacation
+environment;vaciadero;dump
+environment;vaciadero;garbage dump
+environment;vaciadero;trash dump
+environment;vaciadero;rubbish dump
+environment;vaciadero;wasteyard
+environment;vaciadero;waste-yard
+environment;vaciadero;dumpsite
+business;valor;value
+nature;vapor;smoke
+nature;vapor;fume
+adjective;varios;several
+container;vaso;glass
+container;vaso;drinking glass
+container;copa;glass
+container;copa;drinking glass
+family;vecina;neighbor
+family;vecina;neighbour
+family;vecino;neighbor
+family;vecino;neighbour
+family;cercano;neighbor
+family;cercano;neighbour
+number;veinte;twenty
+number;veinte;20
+number;veinte;xx
+object;vela;sail
+object;vela;canvas
+object;vela;canvass
+object;vela;sheet
+verb;vencer;beat
+verb;vencer;beat out
+verb;vencer;crush
+verb;vencer;shell
+verb;vencer;trounce
+verb;vencer;vanquish
+verb-basic;vender;sell
+business;venta;sale
+house;ventana;window
+verb;ver;see
+verb;ver;watch
+verb;ver;see
+verb;ver;view
+verb;ver;catch
+verb;ver;take in
+verb;ver;visit
+verb;ver;see
+verb;visitar;visit
+verb;visitar;see
+time;verano;summer
+time;verano;summertime
+adverb;verdaderamente;indeed
+adverb;verdaderamente;so
+adverb;verdaderamente;really
+adverb;verdaderamente;actually
+adjective;verdadero;true
+color;verde;green
+color;verde;greenish
+color;verde;light-green
+color;verde;dark-green
+house;verja;gate
+house;reja;gate
+house;valla;gate
+clothes;vestido;clothing
+clothes;vestido;article of clothing
+clothes;vestido;vesture
+clothes;vestido;wear
+clothes;vestido;wearable
+clothes;vestido;habiliment
+clothes;prenda;clothing
+clothes;prenda;article of clothing
+clothes;prenda;vesture
+clothes;prenda;wear
+clothes;prenda;wearable
+clothes;prenda;habiliment
+clothes;ropa;clothing
+clothes;ropa;article of clothing
+clothes;ropa;vesture
+clothes;ropa;wear
+clothes;ropa;wearable
+clothes;ropa;habiliment
+adverb;vez;once
+adverb;vez;one time
+adverb;vez;in one case
+transport;viaje;journey
+transport;viaje;journeying
+material;vidrio;glass
+adjective-people;viejo;old
+adjective-people;veterano;old
+time;viernes;Friday
+time;viernes;Fri
+adjective;vigente;current
+drink;vino;wine
+drink;vino;vino
+adjective-people;violento;violent
+relations;visita;visit
+adverb;visto;obviously
+adverb;visto;evidently
+adverb;visto;manifestly
+adverb;visto;patently
+adverb;visto;apparently
+adverb;visto;plainly
+adverb;visto;plain
+adjective-people;vivo;alive
+adjective-people;vivo;live
+verb-basic;volar;fly
+verb-basic;volar;wing
+society;voluntad;will
+abstract;voluntad;will
+abstract;voluntad;volition
+communication;voz;voice
+communication;voz;vocalization
+communication;voz;vocalisation
+communication;voz;vocalism
+communication;voz;phonation
+communication;voz;vox
+transport;vuelo;flight
+transport;vuelo;flying
+adverb;ya;already
+conjunction;ya que;for
+verb-basic;yacer;lie
+vegetable;zanahoria;carrot
+vegetable;zanahoria;cultivated carrot
+vegetable;zanahoria;Daucus carota sativa
+clothes;zapato;shoe
+conversation;¿como;sorry
+conversation;¿es;how are you
+adjective;acido;acid
+material;acido;acid
+material;agrio;acid
+science;ambito;discipline
+science;ambito;subject
+science;ambito;subject area
+science;ambito;subject field
+science;ambito;field
+science;ambito;field of study
+science;ambito;study
+science;ambito;bailiwick
+science;area;discipline
+science;area;subject
+science;area;subject area
+science;area;subject field
+science;area;field
+science;area;field of study
+science;area;study
+science;area;bailiwick
+science;campo;discipline
+science;campo;subject
+science;campo;subject area
+science;campo;subject field
+science;campo;field
+science;campo;field of study
+science;campo;study
+science;campo;bailiwick
+science;disciplina;discipline
+science;disciplina;subject
+science;disciplina;subject area
+science;disciplina;subject field
+science;disciplina;field
+science;disciplina;field of study
+science;disciplina;study
+science;disciplina;bailiwick
+mathematics;angulo;angle
+nature;arbol;tree
+mathematics;area;area
+mathematics;area;expanse
+mathematics;area;surface area
+mathematics;superficie;area
+mathematics;superficie;expanse
+mathematics;superficie;surface area
+adjective;aspero;rough
+adjective;aspero;unsmooth
+abstract;atomo;bit
+abstract;atomo;chip
+abstract;atomo;flake
+abstract;atomo;fleck
+abstract;atomo;scrap
+abstract;pedazo;bit
+abstract;pedazo;chip
+abstract;pedazo;flake
+abstract;pedazo;fleck
+abstract;pedazo;scrap
+abstract;pizca;bit
+abstract;pizca;chip
+abstract;pizca;flake
+abstract;pizca;fleck
+abstract;pizca;scrap
+abstract;viruta;bit
+abstract;viruta;chip
+abstract;viruta;flake
+abstract;viruta;fleck
+abstract;viruta;scrap
+pronoun;el;he
+pronoun;el;him
+art;exito;hit
+art;exito;smash
+art;exito;smasher
+art;exito;strike
+art;exito;bang
+business;exito;success
+adverb;ultimo;finally
+adverb;ultimo;last
+adverb;ultimo;lastly
+adverb;ultimo;in conclusion
+adjective;ultimo;last
+adjective;util;useful
+adjective;util;utile
+adjective;aprovechable;useful
+adjective;aprovechable;utile
+adjective;conveniente;useful
+adjective;conveniente;utile
+adjective;de provecho;useful
+adjective;de provecho;utile
+adjective;practico;useful
+adjective;practico;utile
+adjective;provechoso;useful
+adjective;provechoso;utile
+adjective;usable;useful
+adjective;usable;utile

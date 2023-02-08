@@ -1,0 +1,262 @@
+.TH "Palabra" 3 "Domingo, 7 de Noviembre de 2021" "Práctica 2: Palabras y Sinónimos" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+Palabra
+.SH SYNOPSIS
+.br
+.PP
+.SS "Métodos públicos"
+
+.in +1c
+.ti -1c
+.RI "\fBPalabra\fP ()"
+.br
+.RI "Constructor por defecto de la clase\&. "
+.ti -1c
+.RI "\fBPalabra\fP (const string &t, const string &w)"
+.br
+.RI "Constructor de la clase\&. "
+.ti -1c
+.RI "string \fBgetTipo\fP () const"
+.br
+.RI "Obtiene el tipo de una palabra\&. Ej: adjetivo, proposicion ,etc\&. "
+.ti -1c
+.RI "string \fBgetPalabra\fP () const"
+.br
+.RI "Obtiene la palabra\&. "
+.ti -1c
+.RI "string \fBgetSinonimo\fP (int i) const"
+.br
+.RI "Obtiene el i-th sinonimo\&. "
+.ti -1c
+.RI "void \fBinsertSinonimo\fP (const string &s)"
+.br
+.RI "Inserta un nuevo sinonimo de forma ordenada\&. "
+.ti -1c
+.RI "void \fBeraseSinonimo\fP (const string &s)"
+.br
+.RI "Elimina el sinonimo s\&. "
+.ti -1c
+.RI "void \fBsetPalabra\fP (const string &w)"
+.br
+.RI "Modifica la palabra\&. "
+.ti -1c
+.RI "void \fBsetTipo\fP (const string &t)"
+.br
+.RI "Modifica el tipo de palabra\&. "
+.ti -1c
+.RI "void \fBsetSinonimo\fP (int i, const string &s)"
+.br
+.RI "Modifica el i-th sinonimo con s\&. "
+.ti -1c
+.RI "bool \fBisSinonimo\fP (string w) const"
+.br
+.RI "Devuelve si es sinonimo w a la palabra\&. "
+.ti -1c
+.RI "int \fBnumSinonimos\fP () const"
+.br
+.RI "Devuelve el numero de sinonimos\&. "
+.in -1c
+.SS "Amigas"
+
+.in +1c
+.ti -1c
+.RI "istream & \fBoperator>>\fP (istream &is, \fBPalabra\fP &P)"
+.br
+.RI "Operador de entrada de una palabra\&. "
+.ti -1c
+.RI "ostream & \fBoperator<<\fP (ostream &os, const \fBPalabra\fP &P)"
+.br
+.RI "Operador de salida\&. "
+.in -1c
+.SH "Documentación del constructor y destructor"
+.PP 
+.SS "Palabra::Palabra (const string & t, const string & w)\fC [inline]\fP"
+
+.PP
+Constructor de la clase\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIt\fP tipo de la palabra a construir 
+.br
+\fIw\fP la palabra a construir 
+.RE
+.PP
+\fBDevuelve\fP
+.RS 4
+Crea una palabra con su tipo 
+.RE
+.PP
+
+.SH "Documentación de las funciones miembro"
+.PP 
+.SS "void Palabra::eraseSinonimo (const string & s)"
+
+.PP
+Elimina el sinonimo s\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIs\fP sinonimo a eliminar 
+.RE
+.PP
+\fBPrecondición\fP
+.RS 4
+el sinonimo que queremos eliminar debe estar en la lista de sinonimos ya existentes 
+.RE
+.PP
+
+.SS "string Palabra::getPalabra () const\fC [inline]\fP"
+
+.PP
+Obtiene la palabra\&. 
+.PP
+\fBDevuelve\fP
+.RS 4
+una palabra 
+.RE
+.PP
+
+.PP
+Referenciado por \fBPalabras::insert()\fP\&.
+.SS "string Palabra::getSinonimo (int i) const"
+
+.PP
+Obtiene el i-th sinonimo\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIi\fP posicion de sinonimo que obtener 
+.RE
+.PP
+\fBDevuelve\fP
+.RS 4
+una palabra(sinonimo en posicion i) 
+.RE
+.PP
+
+.SS "string Palabra::getTipo () const\fC [inline]\fP"
+
+.PP
+Obtiene el tipo de una palabra\&. Ej: adjetivo, proposicion ,etc\&. 
+.PP
+\fBDevuelve\fP
+.RS 4
+tipo de una palabra 
+.RE
+.PP
+
+.PP
+Referenciado por \fBPalabras::insert()\fP\&.
+.SS "void Palabra::insertSinonimo (const string & s)"
+
+.PP
+Inserta un nuevo sinonimo de forma ordenada\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIs\fP sinonimo a insertar 
+.RE
+.PP
+\fBPrecondición\fP
+.RS 4
+el sinonimo que queremos insertar no este en la lista de sinonimos ya existentes 
+.RE
+.PP
+
+.SS "bool Palabra::isSinonimo (string w) const"
+
+.PP
+Devuelve si es sinonimo w a la palabra\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIw\fP la palabra que queremos saber si es sinomino 
+.RE
+.PP
+\fBDevuelve\fP
+.RS 4
+Devolver true si es sinonimo, false no es sinonimo 
+.RE
+.PP
+
+.SS "int Palabra::numSinonimos () const"
+
+.PP
+Devuelve el numero de sinonimos\&. 
+.PP
+\fBDevuelve\fP
+.RS 4
+el tamaño del sinonimos 
+.RE
+.PP
+
+.SS "void Palabra::setPalabra (const string & w)"
+
+.PP
+Modifica la palabra\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIw\fP palabra queremos ahora 
+.RE
+.PP
+
+.SS "void Palabra::setSinonimo (int i, const string & s)"
+
+.PP
+Modifica el i-th sinonimo con s\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIs\fP sinonimo que queremos ahora 
+.br
+\fIi\fP posicion de sinonimo que desamos modificar 
+.RE
+.PP
+
+.SS "void Palabra::setTipo (const string & t)"
+
+.PP
+Modifica el tipo de palabra\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIt\fP el tipo de palabra queremos ahora 
+.RE
+.PP
+
+.SH "Documentación de las funciones relacionadas y clases amigas"
+.PP 
+.SS "ostream & operator<< (ostream & os, const \fBPalabra\fP & P)\fC [friend]\fP"
+
+.PP
+Operador de salida\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIos\fP stream de salida 
+.br
+\fIP\fP Parabra a escribir 
+.RE
+.PP
+
+.SS "istream & operator>> (istream & is, \fBPalabra\fP & P)\fC [friend]\fP"
+
+.PP
+Operador de entrada de una palabra\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIis\fP stream de entrada 
+.br
+\fIP\fP palabra 
+.RE
+.PP
+
+
+.SH "Autor"
+.PP 
+Generado automáticamente por Doxygen para Práctica 2: Palabras y Sinónimos del código fuente\&.

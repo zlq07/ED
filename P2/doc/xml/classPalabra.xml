@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.2" xml:lang="es">
+  <compounddef id="classPalabra" kind="class" language="C++" prot="public">
+    <compoundname>Palabra</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classPalabra_1af19fdc4c663daec7fbd9789cbe0737d9" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Palabra::tipo</definition>
+        <argsstring></argsstring>
+        <name>tipo</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>tipo de la palabra </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="17" column="10" bodyfile="include/palabra.h" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classPalabra_1a1d86fc66f5de7262f5df4b2bb3ab90b5" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Palabra::word</definition>
+        <argsstring></argsstring>
+        <name>word</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>la palabra </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="18" column="10" bodyfile="include/palabra.h" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classPalabra_1a7b966af4f8bfe9d5cb6c039a7d4ce46a" prot="private" static="no" mutable="no">
+        <type><ref refid="classVD" kindref="compound">VD</ref>&lt; string &gt;</type>
+        <definition>VD&lt;string&gt; Palabra::sinonimos</definition>
+        <argsstring></argsstring>
+        <name>sinonimos</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>los sinonimos a la palabra. Se almacenan ordenados </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="19" column="6" bodyfile="include/palabra.h" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classPalabra_1a461ca03ba34ff7b02a2340c7cc184470" prot="private" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Palabra::Esta</definition>
+        <argsstring>(const string &amp;s, int &amp;pos) const</argsstring>
+        <name>Esta</name>
+        <param>
+          <type>const string &amp;</type>
+          <declname>s</declname>
+        </param>
+        <param>
+          <type>int &amp;</type>
+          <declname>pos</declname>
+        </param>
+        <briefdescription>
+<para>nos dice si s esta entre los sinonimos. Si esta pos indica la posicion donde esta en sinonimos. En caso contrario pos indica donde deberia insertarse </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>s</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>siniminos que queremos buscar </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pos</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>posicion de sinonimo </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>true si encontramos el sinomo y false si no lo encontramos </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="28" column="8" bodyfile="src/palabra.cpp" bodystart="3" bodyend="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classPalabra_1a8e74f02e148cdcb5bb91bc2ae193183e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Palabra::Palabra</definition>
+        <argsstring>()</argsstring>
+        <name>Palabra</name>
+        <briefdescription>
+<para>Constructor por defecto de la clase. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="34" column="3" bodyfile="include/palabra.h" bodystart="34" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1aa2c38d2ebf84044b5fade1089f502fbc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Palabra::Palabra</definition>
+        <argsstring>(const string &amp;t, const string &amp;w)</argsstring>
+        <name>Palabra</name>
+        <param>
+          <type>const string &amp;</type>
+          <declname>t</declname>
+        </param>
+        <param>
+          <type>const string &amp;</type>
+          <declname>w</declname>
+        </param>
+        <briefdescription>
+<para>Constructor de la clase. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>t</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>tipo de la palabra a construir </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>w</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>la palabra a construir </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Crea una palabra con su tipo </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="42" column="3" bodyfile="include/palabra.h" bodystart="42" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1ac37f9a48f571a2c856d087023b6ea265" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string Palabra::getTipo</definition>
+        <argsstring>() const</argsstring>
+        <name>getTipo</name>
+        <briefdescription>
+<para>Obtiene el tipo de una palabra. Ej: adjetivo, proposicion ,etc. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>tipo de una palabra </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="48" column="10" bodyfile="include/palabra.h" bodystart="48" bodyend="48"/>
+        <referencedby refid="classPalabras_1ae3f43329c7f4e18608e141ca842b4acd" compoundref="palabras_8cpp" startline="46" endline="53">Palabras::insert</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1a094c2428e5f94ecbef0df56977c214fd" prot="public" static="no" const="yes" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string Palabra::getPalabra</definition>
+        <argsstring>() const</argsstring>
+        <name>getPalabra</name>
+        <briefdescription>
+<para>Obtiene la palabra. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>una palabra </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="54" column="10" bodyfile="include/palabra.h" bodystart="54" bodyend="54"/>
+        <referencedby refid="classPalabras_1ae3f43329c7f4e18608e141ca842b4acd" compoundref="palabras_8cpp" startline="46" endline="53">Palabras::insert</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1aa0fb15d816bc8d5365df925e7b0a48bb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>string Palabra::getSinonimo</definition>
+        <argsstring>(int i) const</argsstring>
+        <name>getSinonimo</name>
+        <param>
+          <type>int</type>
+          <declname>i</declname>
+        </param>
+        <briefdescription>
+<para>Obtiene el i-th sinonimo. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>i</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>posicion de sinonimo que obtener </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>una palabra(sinonimo en posicion i) </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="61" column="10" bodyfile="src/palabra.cpp" bodystart="28" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1a303259ade9bf901554b4220103ded7de" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Palabra::insertSinonimo</definition>
+        <argsstring>(const string &amp;s)</argsstring>
+        <name>insertSinonimo</name>
+        <param>
+          <type>const string &amp;</type>
+          <declname>s</declname>
+        </param>
+        <briefdescription>
+<para>Inserta un nuevo sinonimo de forma ordenada. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>s</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>sinonimo a insertar </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="pre"><para>el sinonimo que queremos insertar no este en la lista de sinonimos ya existentes </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="68" column="8" bodyfile="src/palabra.cpp" bodystart="34" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1aa3f4ad46e6fe70ed83e78582a52be1a5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Palabra::eraseSinonimo</definition>
+        <argsstring>(const string &amp;s)</argsstring>
+        <name>eraseSinonimo</name>
+        <param>
+          <type>const string &amp;</type>
+          <declname>s</declname>
+        </param>
+        <briefdescription>
+<para>Elimina el sinonimo s. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>s</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>sinonimo a eliminar </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="pre"><para>el sinonimo que queremos eliminar debe estar en la lista de sinonimos ya existentes </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="75" column="8" bodyfile="src/palabra.cpp" bodystart="43" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1a4c46a6070cd91937cc437001081ad18d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Palabra::setPalabra</definition>
+        <argsstring>(const string &amp;w)</argsstring>
+        <name>setPalabra</name>
+        <param>
+          <type>const string &amp;</type>
+          <declname>w</declname>
+        </param>
+        <briefdescription>
+<para>Modifica la palabra. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>w</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>palabra queremos ahora </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="81" column="8" bodyfile="src/palabra.cpp" bodystart="52" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1aba73a40d1da695a36edfe9cdc9ef03d3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Palabra::setTipo</definition>
+        <argsstring>(const string &amp;t)</argsstring>
+        <name>setTipo</name>
+        <param>
+          <type>const string &amp;</type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+<para>Modifica el tipo de palabra. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>t</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>el tipo de palabra queremos ahora </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="87" column="8" bodyfile="src/palabra.cpp" bodystart="57" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1ae7577beaa6f7e65b7cf2ba4a18aebc45" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Palabra::setSinonimo</definition>
+        <argsstring>(int i, const string &amp;s)</argsstring>
+        <name>setSinonimo</name>
+        <param>
+          <type>int</type>
+          <declname>i</declname>
+        </param>
+        <param>
+          <type>const string &amp;</type>
+          <declname>s</declname>
+        </param>
+        <briefdescription>
+<para>Modifica el i-th sinonimo con s. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>s</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>sinonimo que queremos ahora </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>i</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>posicion de sinonimo que desamos modificar </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="94" column="8" bodyfile="src/palabra.cpp" bodystart="61" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1a225946f9d0b8862c668c918091a0fd68" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Palabra::isSinonimo</definition>
+        <argsstring>(string w) const</argsstring>
+        <name>isSinonimo</name>
+        <param>
+          <type>string</type>
+          <declname>w</declname>
+        </param>
+        <briefdescription>
+<para>Devuelve si es sinonimo w a la palabra. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>w</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>la palabra que queremos saber si es sinomino </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Devolver true si es sinonimo, false no es sinonimo </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="101" column="8" bodyfile="src/palabra.cpp" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="classPalabra_1a56b52ef125b0dceee005873875e0bb49" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int Palabra::numSinonimos</definition>
+        <argsstring>() const</argsstring>
+        <name>numSinonimos</name>
+        <briefdescription>
+<para>Devuelve el numero de sinonimos. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>el tamaño del sinonimos </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="107" column="7" bodyfile="src/palabra.cpp" bodystart="76" bodyend="78"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="friend">
+      <memberdef kind="friend" id="classPalabra_1ad8bbe51acd22ef10d59ed3ee528361f2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>istream &amp;</type>
+        <definition>istream &amp; operator&gt;&gt;</definition>
+        <argsstring>(istream &amp;is, Palabra &amp;P)</argsstring>
+        <name>operator&gt;&gt;</name>
+        <param>
+          <type>istream &amp;</type>
+          <declname>is</declname>
+        </param>
+        <param>
+          <type><ref refid="classPalabra" kindref="compound">Palabra</ref> &amp;</type>
+          <declname>P</declname>
+        </param>
+        <briefdescription>
+<para>Operador de entrada de una palabra. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>is</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>stream de entrada </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>P</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>palabra </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="114" column="18" bodyfile="src/palabra.cpp" bodystart="80" bodyend="100"/>
+      </memberdef>
+      <memberdef kind="friend" id="classPalabra_1a6f2cedc5fb3232ffe614f7047bb67f34" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>ostream &amp;</type>
+        <definition>ostream &amp; operator&lt;&lt;</definition>
+        <argsstring>(ostream &amp;os, const Palabra &amp;P)</argsstring>
+        <name>operator&lt;&lt;</name>
+        <param>
+          <type>ostream &amp;</type>
+          <declname>os</declname>
+        </param>
+        <param>
+          <type>const <ref refid="classPalabra" kindref="compound">Palabra</ref> &amp;</type>
+          <declname>P</declname>
+        </param>
+        <briefdescription>
+<para>Operador de salida. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>os</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>stream de salida </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>P</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Parabra a escribir </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/palabra.h" line="121" column="10" bodyfile="src/palabra.cpp" bodystart="102" bodyend="105"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="include/palabra.h" line="14" column="1" bodyfile="include/palabra.h" bodystart="15" bodyend="122"/>
+    <listofallmembers>
+      <member refid="classPalabra_1aa3f4ad46e6fe70ed83e78582a52be1a5" prot="public" virt="non-virtual"><scope>Palabra</scope><name>eraseSinonimo</name></member>
+      <member refid="classPalabra_1a461ca03ba34ff7b02a2340c7cc184470" prot="private" virt="non-virtual"><scope>Palabra</scope><name>Esta</name></member>
+      <member refid="classPalabra_1a094c2428e5f94ecbef0df56977c214fd" prot="public" virt="non-virtual"><scope>Palabra</scope><name>getPalabra</name></member>
+      <member refid="classPalabra_1aa0fb15d816bc8d5365df925e7b0a48bb" prot="public" virt="non-virtual"><scope>Palabra</scope><name>getSinonimo</name></member>
+      <member refid="classPalabra_1ac37f9a48f571a2c856d087023b6ea265" prot="public" virt="non-virtual"><scope>Palabra</scope><name>getTipo</name></member>
+      <member refid="classPalabra_1a303259ade9bf901554b4220103ded7de" prot="public" virt="non-virtual"><scope>Palabra</scope><name>insertSinonimo</name></member>
+      <member refid="classPalabra_1a225946f9d0b8862c668c918091a0fd68" prot="public" virt="non-virtual"><scope>Palabra</scope><name>isSinonimo</name></member>
+      <member refid="classPalabra_1a56b52ef125b0dceee005873875e0bb49" prot="public" virt="non-virtual"><scope>Palabra</scope><name>numSinonimos</name></member>
+      <member refid="classPalabra_1a6f2cedc5fb3232ffe614f7047bb67f34" prot="public" virt="non-virtual"><scope>Palabra</scope><name>operator&lt;&lt;</name></member>
+      <member refid="classPalabra_1ad8bbe51acd22ef10d59ed3ee528361f2" prot="public" virt="non-virtual"><scope>Palabra</scope><name>operator&gt;&gt;</name></member>
+      <member refid="classPalabra_1a8e74f02e148cdcb5bb91bc2ae193183e" prot="public" virt="non-virtual"><scope>Palabra</scope><name>Palabra</name></member>
+      <member refid="classPalabra_1aa2c38d2ebf84044b5fade1089f502fbc" prot="public" virt="non-virtual"><scope>Palabra</scope><name>Palabra</name></member>
+      <member refid="classPalabra_1a4c46a6070cd91937cc437001081ad18d" prot="public" virt="non-virtual"><scope>Palabra</scope><name>setPalabra</name></member>
+      <member refid="classPalabra_1ae7577beaa6f7e65b7cf2ba4a18aebc45" prot="public" virt="non-virtual"><scope>Palabra</scope><name>setSinonimo</name></member>
+      <member refid="classPalabra_1aba73a40d1da695a36edfe9cdc9ef03d3" prot="public" virt="non-virtual"><scope>Palabra</scope><name>setTipo</name></member>
+      <member refid="classPalabra_1a7b966af4f8bfe9d5cb6c039a7d4ce46a" prot="private" virt="non-virtual"><scope>Palabra</scope><name>sinonimos</name></member>
+      <member refid="classPalabra_1af19fdc4c663daec7fbd9789cbe0737d9" prot="private" virt="non-virtual"><scope>Palabra</scope><name>tipo</name></member>
+      <member refid="classPalabra_1a1d86fc66f5de7262f5df4b2bb3ab90b5" prot="private" virt="non-virtual"><scope>Palabra</scope><name>word</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

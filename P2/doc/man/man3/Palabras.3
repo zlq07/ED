@@ -1,0 +1,233 @@
+.TH "Palabras" 3 "Domingo, 7 de Noviembre de 2021" "Práctica 2: Palabras y Sinónimos" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+Palabras
+.SH SYNOPSIS
+.br
+.PP
+.SS "Métodos públicos"
+
+.in +1c
+.ti -1c
+.RI "\fBPalabras\fP ()"
+.br
+.RI "Constructor por defecto de la clase\&. "
+.ti -1c
+.RI "\fBPalabra\fP & \fBoperator[]\fP (int i)"
+.br
+.RI "Devuelve una referencoa al objeto i-th\&. "
+.ti -1c
+.RI "const \fBPalabra\fP & \fBoperator[]\fP (int i) const"
+.br
+.ti -1c
+.RI "void \fBinsert\fP (const \fBPalabra\fP &P)"
+.br
+.RI "se inserta una nueva palabra "
+.ti -1c
+.RI "void \fBerase\fP (const string &a, const string &tipo)"
+.br
+.RI "se borra la palabra con valor a y tipo "
+.ti -1c
+.RI "int \fBsize\fP () const"
+.br
+.RI "obterner tamaño de palabras insertadas "
+.ti -1c
+.RI "\fBPalabras\fP \fBgetOrdenadasTipo\fP () const"
+.br
+.RI "Obtiene un nuevo conjunto de palabras ordenadas por tipo y a igualdad ordenadas por valor de palabra\&. "
+.ti -1c
+.RI "\fBVD\fP< string > \fBgetDiferentTipos\fP () const"
+.br
+.RI "obtiene lso tipos didferentes en el conjunto\&. Ordenados de mayor a menor tipo\&. "
+.ti -1c
+.RI "\fBPalabras\fP \fBgetPalabrasTipo\fP (string tipo) const"
+.br
+.RI "obtiene todas las palabras de un determinado tipo "
+.ti -1c
+.RI "\fBVD\fP< string > \fBgetTipoPalabra\fP (const string &a)"
+.br
+.RI "obtenemos tipo(s) de una palabra "
+.ti -1c
+.RI "bool \fBareSinonimos\fP (const string &s1, const string &s2, const string &tipo) const"
+.br
+.RI "omprueba si dos palabras de un determinado tipo son sinonimas\&. "
+.ti -1c
+.RI "void \fBclear\fP ()"
+.br
+.RI "limpia los datos "
+.in -1c
+.SS "Amigas"
+
+.in +1c
+.ti -1c
+.RI "istream & \fBoperator>>\fP (istream &is, \fBPalabras\fP &P)"
+.br
+.RI "Operador de entrada de una palabra\&. "
+.ti -1c
+.RI "ostream & \fBoperator<<\fP (ostream &os, const \fBPalabras\fP &P)"
+.br
+.RI "Operador de salida\&. "
+.in -1c
+.SH "Documentación de las funciones miembro"
+.PP 
+.SS "bool Palabras::areSinonimos (const string & s1, const string & s2, const string & tipo) const"
+
+.PP
+omprueba si dos palabras de un determinado tipo son sinonimas\&. 
+.PP
+\fBDevuelve\fP
+.RS 4
+
+.RE
+.PP
+
+.SS "void Palabras::erase (const string & a, const string & tipo)"
+
+.PP
+se borra la palabra con valor a y tipo 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIa\fP valor de la palabra 
+.br
+\fItipo\fP tipo de la palabra 
+.RE
+.PP
+\fBPrecondición\fP
+.RS 4
+la palabra que queremos eliminar debe existir 
+.RE
+.PP
+
+.SS "\fBVD\fP< string > Palabras::getDiferentTipos () const"
+
+.PP
+obtiene lso tipos didferentes en el conjunto\&. Ordenados de mayor a menor tipo\&. 
+.PP
+\fBDevuelve\fP
+.RS 4
+tipos didferentes en el conjunto 
+.RE
+.PP
+
+.PP
+Hace referencia a \fBVD< T >::insert()\fP y \fBVD< T >::size()\fP\&.
+.SS "\fBPalabras\fP Palabras::getOrdenadasTipo () const"
+
+.PP
+Obtiene un nuevo conjunto de palabras ordenadas por tipo y a igualdad ordenadas por valor de palabra\&. 
+.PP
+\fBDevuelve\fP
+.RS 4
+nuevo conjunto de palabras ordenadas 
+.RE
+.PP
+
+.PP
+Hace referencia a \fBinsert()\fP\&.
+.SS "\fBPalabras\fP Palabras::getPalabrasTipo (string tipo) const"
+
+.PP
+obtiene todas las palabras de un determinado tipo 
+.PP
+\fBDevuelve\fP
+.RS 4
+todas las palabras de un determinado tipo 
+.RE
+.PP
+
+.PP
+Hace referencia a \fBinsert()\fP\&.
+.SS "\fBVD\fP< string > Palabras::getTipoPalabra (const string & a)"
+
+.PP
+obtenemos tipo(s) de una palabra 
+.PP
+\fBDevuelve\fP
+.RS 4
+tipo(s) de una palabra 
+.RE
+.PP
+
+.PP
+Hace referencia a \fBVD< T >::insert()\fP\&.
+.SS "void Palabras::insert (const \fBPalabra\fP & P)"
+
+.PP
+se inserta una nueva palabra 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIP\fP palabra a insertar 
+.RE
+.PP
+
+.PP
+Hace referencia a \fBPalabra::getPalabra()\fP y \fBPalabra::getTipo()\fP\&.
+.PP
+Referenciado por \fBgetOrdenadasTipo()\fP y \fBgetPalabrasTipo()\fP\&.
+.SS "\fBPalabra\fP & Palabras::operator[] (int i)"
+
+.PP
+Devuelve una referencoa al objeto i-th\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIi\fP indice del elemento a devolver 
+.RE
+.PP
+\fBDevuelve\fP
+.RS 4
+una referencia al objeto i-th 
+.RE
+.PP
+\fBPrecondición\fP
+.RS 4
+i>=0 y i<datos\&.size() 
+.RE
+.PP
+
+.SS "int Palabras::size () const"
+
+.PP
+obterner tamaño de palabras insertadas 
+.PP
+\fBDevuelve\fP
+.RS 4
+numero de palabras insertadas 
+.RE
+.PP
+
+.SH "Documentación de las funciones relacionadas y clases amigas"
+.PP 
+.SS "ostream & operator<< (ostream & os, const \fBPalabras\fP & P)\fC [friend]\fP"
+
+.PP
+Operador de salida\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIos\fP stream de salida 
+.br
+\fIP\fP Parabra a escribir 
+.RE
+.PP
+
+.SS "istream & operator>> (istream & is, \fBPalabras\fP & P)\fC [friend]\fP"
+
+.PP
+Operador de entrada de una palabra\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIis\fP stream de entrada 
+.br
+\fIP\fP palabra 
+.RE
+.PP
+
+
+.SH "Autor"
+.PP 
+Generado automáticamente por Doxygen para Práctica 2: Palabras y Sinónimos del código fuente\&.

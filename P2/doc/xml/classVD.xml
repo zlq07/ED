@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.2" xml:lang="es">
+  <compounddef id="classVD" kind="class" language="C++" prot="public">
+    <compoundname>VD</compoundname>
+    <includes refid="vd_8h" local="no">vd.h</includes>
+    <templateparamlist>
+      <param>
+        <type>class T</type>
+      </param>
+    </templateparamlist>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classVD_1affc5ceba10ca993ec60d3398857e24d0" prot="private" static="no" mutable="no">
+        <type>T *</type>
+        <definition>T* VD&lt; T &gt;::datos</definition>
+        <argsstring></argsstring>
+        <name>datos</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>zona de memoria del array </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="37" column="5" bodyfile="include/vd.h" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classVD_1ab9a2fccaf77055a96deb6395e522116e" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int VD&lt; T &gt;::reservados</definition>
+        <argsstring></argsstring>
+        <name>reservados</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>espacio reservado en datos </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="38" column="7" bodyfile="include/vd.h" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classVD_1a6dea9ce4fefcaae027de3c11b016245e" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int VD&lt; T &gt;::n</definition>
+        <argsstring></argsstring>
+        <name>n</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>elementos almacenados </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="39" column="7" bodyfile="include/vd.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classVD_1a1a25a3ff5fe53e4e3a4f0b0c66ebbda9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void VD&lt; T &gt;::resize</definition>
+        <argsstring>(int tam)</argsstring>
+        <name>resize</name>
+        <param>
+          <type>int</type>
+          <declname>tam</declname>
+        </param>
+        <briefdescription>
+<para>Cambio del tamaño del vector dinamico. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>tam</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>tamaño del vector dinamico </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Crea el <ref refid="classVD" kindref="compound">VD</ref> de con espacio reservado de tamaño tam </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="45" column="8" bodyfile="src/vd.cpp" bodystart="5" bodyend="15"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1a73ae5537ee43cbe6c6304214a21684be" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void VD&lt; T &gt;::copiar</definition>
+        <argsstring>(const VD&lt; T &gt; &amp;v)</argsstring>
+        <name>copiar</name>
+        <param>
+          <type>const <ref refid="classVD" kindref="compound">VD</ref>&lt; T &gt; &amp;</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+<para>copias de la clase </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>v.reservados</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>espacio reservado en datos a construir </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>v.n</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>lementos almacenados a construir </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="52" column="8" bodyfile="src/vd.cpp" bodystart="19" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1ac542cf16236fc0b4c42c16cee6aef19d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void VD&lt; T &gt;::liberar</definition>
+        <argsstring>()</argsstring>
+        <name>liberar</name>
+        <briefdescription>
+<para>liberar la clase, eliminando los elementos </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="57" column="8" bodyfile="src/vd.cpp" bodystart="30" bodyend="34"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classVD_1a895111f70f396d7399a4f55b2961940c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>VD&lt; T &gt;::VD</definition>
+        <argsstring>(int tam=1)</argsstring>
+        <name>VD</name>
+        <param>
+          <type>int</type>
+          <declname>tam</declname>
+          <defval>1</defval>
+        </param>
+        <briefdescription>
+<para>Constructor de la clase. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>tam</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>tamaño del vector dinamico </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Crea el <ref refid="classVD" kindref="compound">VD</ref> de con espacio reservado de tamaño mayor que 1 </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="65" column="3" bodyfile="src/vd.cpp" bodystart="38" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1a6e2e4a030414197b386b97b7e9ba8ebe" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>VD&lt; T &gt;::VD</definition>
+        <argsstring>(const VD&lt; T &gt; &amp;v)</argsstring>
+        <name>VD</name>
+        <param>
+          <type>const <ref refid="classVD" kindref="compound">VD</ref>&lt; T &gt; &amp;</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+<para>Constructor de copias de la clase. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>v.reservados</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>espacio reservado en datos a construir </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>v.n</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>lementos almacenados a construir </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="72" column="3" bodyfile="src/vd.cpp" bodystart="50" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1a645b65a6343059cd921f6a2856c97249" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classVD" kindref="compound">VD</ref>&lt; T &gt; &amp;</type>
+        <definition>VD&lt; T &gt; &amp; VD&lt; T &gt;::operator=</definition>
+        <argsstring>(const VD&lt; T &gt; &amp;v)</argsstring>
+        <name>operator=</name>
+        <param>
+          <type>const <ref refid="classVD" kindref="compound">VD</ref>&lt; T &gt; &amp;</type>
+          <declname>v</declname>
+        </param>
+        <briefdescription>
+<para>Asignacion de dos vector dinamico. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>v</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>vector a asignar con el objeto implicito </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="78" column="6" bodyfile="src/vd.cpp" bodystart="57" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1a0533f99aa2fee31fde63edd6c4b8bb2d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>VD&lt; T &gt;::~VD</definition>
+        <argsstring>()</argsstring>
+        <name>~VD</name>
+        <briefdescription>
+<para>Destructor de la clase. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="83" column="3" bodyfile="src/vd.cpp" bodystart="69" bodyend="72"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1a411ad026db1c8e0617d9031f1f1017a5" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int VD&lt; T &gt;::size</definition>
+        <argsstring>() const</argsstring>
+        <name>size</name>
+        <briefdescription>
+<para>Devolver el elemento almacenados n. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="88" column="7" bodyfile="src/vd.cpp" bodystart="75" bodyend="78"/>
+        <referencedby refid="classPalabras_1a06aeab455472d661e591d910f2393566" compoundref="palabras_8cpp" startline="80" endline="128">Palabras::getDiferentTipos</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1a021495b46a5b59c7fd1e25653ab8f824" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>T &amp;</type>
+        <definition>T &amp; VD&lt; T &gt;::operator[]</definition>
+        <argsstring>(int i)</argsstring>
+        <name>operator[]</name>
+        <param>
+          <type>int</type>
+          <declname>i</declname>
+        </param>
+        <briefdescription>
+<para>Devuelve una referencoa al objeto i-th en el vactor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>i</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>indice del elemento a devolver </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>una referencia al objeto i-th </para>
+</simplesect>
+<simplesect kind="pre"><para>i&gt;=0 y i&lt;n </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="96" column="5" bodyfile="src/vd.cpp" bodystart="82" bodyend="86"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1ab0c8adba584dcbb2f07171dedcfc395e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const T &amp;</type>
+        <definition>const T &amp; VD&lt; T &gt;::operator[]</definition>
+        <argsstring>(int i) const</argsstring>
+        <name>operator[]</name>
+        <param>
+          <type>int</type>
+          <declname>i</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="98" column="11" bodyfile="src/vd.cpp" bodystart="89" bodyend="93"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1afb2a22b736a1d35c818eb548a6789819" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void VD&lt; T &gt;::insert</definition>
+        <argsstring>(int pos, const T &amp;d)</argsstring>
+        <name>insert</name>
+        <param>
+          <type>int</type>
+          <declname>pos</declname>
+        </param>
+        <param>
+          <type>const T &amp;</type>
+          <declname>d</declname>
+        </param>
+        <briefdescription>
+<para>Insertar un nuevo elemento en una posicion dada. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pos</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>posicion donde se inserta el elemento </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>d</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>elemento a insertar </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="pre"><para>que la posicion debe estar entre 0 y n </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="105" column="8" bodyfile="src/vd.cpp" bodystart="97" bodyend="106"/>
+        <referencedby refid="classPalabras_1a06aeab455472d661e591d910f2393566" compoundref="palabras_8cpp" startline="80" endline="128">Palabras::getDiferentTipos</referencedby>
+        <referencedby refid="classPalabras_1ac8a7d4ee275cb6752cddde26142d3475" compoundref="palabras_8cpp" startline="143" endline="159">Palabras::getTipoPalabra</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1ad8a09781f052adeff5182d5b14153c6f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void VD&lt; T &gt;::erase</definition>
+        <argsstring>(int pos)</argsstring>
+        <name>erase</name>
+        <param>
+          <type>int</type>
+          <declname>pos</declname>
+        </param>
+        <briefdescription>
+<para>Eliminar un elemento en una posicion dada. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pos</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>posicion donde se elimina el elemento </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="pre"><para>que la posicion debe estar entre 0 y n </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="112" column="8" bodyfile="src/vd.cpp" bodystart="110" bodyend="118"/>
+      </memberdef>
+      <memberdef kind="function" id="classVD_1ac10247aeeddc0ae0a9c17f6e86b6747d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void VD&lt; T &gt;::clear</definition>
+        <argsstring>()</argsstring>
+        <name>clear</name>
+        <briefdescription>
+<para>Inicializa el elementos almacenados a 0. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/vd.h" line="117" column="8" bodyfile="src/vd.cpp" bodystart="121" bodyend="124"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>T.D.A. <ref refid="classVD" kindref="compound">VD</ref>. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Una instancia <emphasis>c</emphasis> del tipo de datos abstracto <computeroutput><ref refid="classVD" kindref="compound">VD</ref></computeroutput> es un array 1d que almacena objetos de un tipo base. Esta especialmente diseñado para hacer accesos a la informacion de forma rapida. El conjunto de datos seria (a0, a1, ..., an).</para>
+<para><simplesect kind="author"><para>Linqi Zhu </para>
+</simplesect>
+<simplesect kind="date"><para>Octubre 2021 </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <location file="include/vd.h" line="22" column="1" bodyfile="include/vd.h" bodystart="23" bodyend="118"/>
+    <listofallmembers>
+      <member refid="classVD_1ac10247aeeddc0ae0a9c17f6e86b6747d" prot="public" virt="non-virtual"><scope>VD</scope><name>clear</name></member>
+      <member refid="classVD_1a73ae5537ee43cbe6c6304214a21684be" prot="private" virt="non-virtual"><scope>VD</scope><name>copiar</name></member>
+      <member refid="classVD_1affc5ceba10ca993ec60d3398857e24d0" prot="private" virt="non-virtual"><scope>VD</scope><name>datos</name></member>
+      <member refid="classVD_1ad8a09781f052adeff5182d5b14153c6f" prot="public" virt="non-virtual"><scope>VD</scope><name>erase</name></member>
+      <member refid="classVD_1afb2a22b736a1d35c818eb548a6789819" prot="public" virt="non-virtual"><scope>VD</scope><name>insert</name></member>
+      <member refid="classVD_1ac542cf16236fc0b4c42c16cee6aef19d" prot="private" virt="non-virtual"><scope>VD</scope><name>liberar</name></member>
+      <member refid="classVD_1a6dea9ce4fefcaae027de3c11b016245e" prot="private" virt="non-virtual"><scope>VD</scope><name>n</name></member>
+      <member refid="classVD_1a645b65a6343059cd921f6a2856c97249" prot="public" virt="non-virtual"><scope>VD</scope><name>operator=</name></member>
+      <member refid="classVD_1a021495b46a5b59c7fd1e25653ab8f824" prot="public" virt="non-virtual"><scope>VD</scope><name>operator[]</name></member>
+      <member refid="classVD_1ab0c8adba584dcbb2f07171dedcfc395e" prot="public" virt="non-virtual"><scope>VD</scope><name>operator[]</name></member>
+      <member refid="classVD_1ab9a2fccaf77055a96deb6395e522116e" prot="private" virt="non-virtual"><scope>VD</scope><name>reservados</name></member>
+      <member refid="classVD_1a1a25a3ff5fe53e4e3a4f0b0c66ebbda9" prot="private" virt="non-virtual"><scope>VD</scope><name>resize</name></member>
+      <member refid="classVD_1a411ad026db1c8e0617d9031f1f1017a5" prot="public" virt="non-virtual"><scope>VD</scope><name>size</name></member>
+      <member refid="classVD_1a895111f70f396d7399a4f55b2961940c" prot="public" virt="non-virtual"><scope>VD</scope><name>VD</name></member>
+      <member refid="classVD_1a6e2e4a030414197b386b97b7e9ba8ebe" prot="public" virt="non-virtual"><scope>VD</scope><name>VD</name></member>
+      <member refid="classVD_1a0533f99aa2fee31fde63edd6c4b8bb2d" prot="public" virt="non-virtual"><scope>VD</scope><name>~VD</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

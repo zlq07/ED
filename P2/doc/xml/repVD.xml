@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.2" xml:lang="es">
+  <compounddef id="repVD" kind="page">
+    <compoundname>repVD</compoundname>
+    <title>Rep del TDA VD</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<sect1 id="repVD_1invVD">
+<title>Invariante de la representacion</title>
+<para>El invariante es <emphasis>rep.n&gt;=0</emphasis> y rep.dato tiene un espacio de rep.reservado</para>
+</sect1>
+<sect1 id="repVD_1faVD">
+<title>Función de abstraccion</title>
+<para>Un objeto valido <emphasis>rep</emphasis> del TDA <ref refid="classVD" kindref="compound">VD</ref> representa a un array con los objetos (rep.dato[0], rep.dato[1], ..., rep.dato[n-1]) </para>
+</sect1>
+    </detaileddescription>
+    <location file="include/vd.h"/>
+  </compounddef>
+</doxygen>

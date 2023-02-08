@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.2"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Práctica 2: Palabras y Sinónimos: Fichero Fuente include/palabra.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Práctica 2: Palabras y Sinónimos
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generado por Doxygen 1.9.2 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',false,false,'search.php','Buscar');
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a class="el" href="dir_d44c64559bbebec7f509842c48db8b23.html">include</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div class="header">
+  <div class="headertitle"><div class="title">palabra.h</div></div>
+</div><!--header-->
+<div class="contents">
+<a href="palabra_8h.html">Ir a la documentación de este archivo.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span> </div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#ifndef PALABRA__H</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#define PALABRA__H</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &lt;cassert&gt;</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &lt;string&gt;</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &lt;sstream&gt;</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#include &lt;iostream&gt;</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#include &quot;<a class="code" href="vd_8h.html">vd.h</a>&quot;</span></div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="keyword">using namespace </span>std;</div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span> </div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno"><a class="line" href="classPalabra.html">   14</a></span><span class="keyword">class </span><a class="code hl_class" href="classPalabra.html">Palabra</a></div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>{</div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span><span class="keyword">private</span>:</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>  <span class="keywordtype">string</span> tipo;          </div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>  <span class="keywordtype">string</span> word;          </div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>  <a class="code hl_class" href="classVD.html">VD&lt;string&gt;</a> sinonimos; </div>
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>  <span class="keywordtype">bool</span> Esta(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;s, <span class="keywordtype">int</span> &amp;pos) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span> </div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno"><a class="line" href="classPalabra.html#a8e74f02e148cdcb5bb91bc2ae193183e">   34</a></span>  <a class="code hl_function" href="classPalabra.html#a8e74f02e148cdcb5bb91bc2ae193183e">Palabra</a>(){}</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno"><a class="line" href="classPalabra.html#aa2c38d2ebf84044b5fade1089f502fbc">   42</a></span>  <a class="code hl_function" href="classPalabra.html#aa2c38d2ebf84044b5fade1089f502fbc">Palabra</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;t, <span class="keyword">const</span> <span class="keywordtype">string</span> &amp;w) : tipo(t), word(w) {}</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span> </div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno"><a class="line" href="classPalabra.html#ac37f9a48f571a2c856d087023b6ea265">   48</a></span>  <span class="keywordtype">string</span> <a class="code hl_function" href="classPalabra.html#ac37f9a48f571a2c856d087023b6ea265">getTipo</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> tipo; }</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span> </div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno"><a class="line" href="classPalabra.html#a094c2428e5f94ecbef0df56977c214fd">   54</a></span>  <span class="keywordtype">string</span> <a class="code hl_function" href="classPalabra.html#a094c2428e5f94ecbef0df56977c214fd">getPalabra</a>()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> word; }</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>  <span class="keywordtype">string</span> <a class="code hl_function" href="classPalabra.html#aa0fb15d816bc8d5365df925e7b0a48bb">getSinonimo</a>(<span class="keywordtype">int</span> i) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span> </div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>  <span class="keywordtype">void</span> <a class="code hl_function" href="classPalabra.html#a303259ade9bf901554b4220103ded7de">insertSinonimo</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;s);</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span> </div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>  <span class="keywordtype">void</span> <a class="code hl_function" href="classPalabra.html#aa3f4ad46e6fe70ed83e78582a52be1a5">eraseSinonimo</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;s);</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span> </div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>  <span class="keywordtype">void</span> <a class="code hl_function" href="classPalabra.html#a4c46a6070cd91937cc437001081ad18d">setPalabra</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;w);</div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span> </div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>  <span class="keywordtype">void</span> <a class="code hl_function" href="classPalabra.html#aba73a40d1da695a36edfe9cdc9ef03d3">setTipo</a>(<span class="keyword">const</span> <span class="keywordtype">string</span> &amp;t);</div>
+<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span> </div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>  <span class="keywordtype">void</span> <a class="code hl_function" href="classPalabra.html#ae7577beaa6f7e65b7cf2ba4a18aebc45">setSinonimo</a>(<span class="keywordtype">int</span> i, <span class="keyword">const</span> <span class="keywordtype">string</span> &amp;s);</div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span> </div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>  <span class="keywordtype">bool</span> <a class="code hl_function" href="classPalabra.html#a225946f9d0b8862c668c918091a0fd68">isSinonimo</a>(<span class="keywordtype">string</span> w) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span> </div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>  <span class="keywordtype">int</span> <a class="code hl_function" href="classPalabra.html#a56b52ef125b0dceee005873875e0bb49">numSinonimos</a>() <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span> </div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>  <span class="keyword">friend</span> istream &amp;<a class="code hl_friend" href="classPalabra.html#ad8bbe51acd22ef10d59ed3ee528361f2">operator&gt;&gt;</a>(istream &amp;is, <a class="code hl_class" href="classPalabra.html">Palabra</a> &amp;P);</div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span> </div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>  <span class="keyword">friend</span> ostream &amp;<a class="code hl_friend" href="classPalabra.html#a6f2cedc5fb3232ffe614f7047bb67f34">operator&lt;&lt;</a>(ostream &amp;os, <span class="keyword">const</span> <a class="code hl_class" href="classPalabra.html">Palabra</a> &amp;P);</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>};</div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span><span class="preprocessor">#endif </span><span class="comment">// PALABRA__H</span></div>
+<div class="ttc" id="aclassPalabra_html"><div class="ttname"><a href="classPalabra.html">Palabra</a></div><div class="ttdef"><b>Definition:</b> palabra.h:15</div></div>
+<div class="ttc" id="aclassPalabra_html_a094c2428e5f94ecbef0df56977c214fd"><div class="ttname"><a href="classPalabra.html#a094c2428e5f94ecbef0df56977c214fd">Palabra::getPalabra</a></div><div class="ttdeci">string getPalabra() const</div><div class="ttdoc">Obtiene la palabra.</div><div class="ttdef"><b>Definition:</b> palabra.h:54</div></div>
+<div class="ttc" id="aclassPalabra_html_a225946f9d0b8862c668c918091a0fd68"><div class="ttname"><a href="classPalabra.html#a225946f9d0b8862c668c918091a0fd68">Palabra::isSinonimo</a></div><div class="ttdeci">bool isSinonimo(string w) const</div><div class="ttdoc">Devuelve si es sinonimo w a la palabra.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:71</div></div>
+<div class="ttc" id="aclassPalabra_html_a303259ade9bf901554b4220103ded7de"><div class="ttname"><a href="classPalabra.html#a303259ade9bf901554b4220103ded7de">Palabra::insertSinonimo</a></div><div class="ttdeci">void insertSinonimo(const string &amp;s)</div><div class="ttdoc">Inserta un nuevo sinonimo de forma ordenada.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:34</div></div>
+<div class="ttc" id="aclassPalabra_html_a4c46a6070cd91937cc437001081ad18d"><div class="ttname"><a href="classPalabra.html#a4c46a6070cd91937cc437001081ad18d">Palabra::setPalabra</a></div><div class="ttdeci">void setPalabra(const string &amp;w)</div><div class="ttdoc">Modifica la palabra.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:52</div></div>
+<div class="ttc" id="aclassPalabra_html_a56b52ef125b0dceee005873875e0bb49"><div class="ttname"><a href="classPalabra.html#a56b52ef125b0dceee005873875e0bb49">Palabra::numSinonimos</a></div><div class="ttdeci">int numSinonimos() const</div><div class="ttdoc">Devuelve el numero de sinonimos.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:76</div></div>
+<div class="ttc" id="aclassPalabra_html_a6f2cedc5fb3232ffe614f7047bb67f34"><div class="ttname"><a href="classPalabra.html#a6f2cedc5fb3232ffe614f7047bb67f34">Palabra::operator&lt;&lt;</a></div><div class="ttdeci">friend ostream &amp; operator&lt;&lt;(ostream &amp;os, const Palabra &amp;P)</div><div class="ttdoc">Operador de salida.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:102</div></div>
+<div class="ttc" id="aclassPalabra_html_a8e74f02e148cdcb5bb91bc2ae193183e"><div class="ttname"><a href="classPalabra.html#a8e74f02e148cdcb5bb91bc2ae193183e">Palabra::Palabra</a></div><div class="ttdeci">Palabra()</div><div class="ttdoc">Constructor por defecto de la clase.</div><div class="ttdef"><b>Definition:</b> palabra.h:34</div></div>
+<div class="ttc" id="aclassPalabra_html_aa0fb15d816bc8d5365df925e7b0a48bb"><div class="ttname"><a href="classPalabra.html#aa0fb15d816bc8d5365df925e7b0a48bb">Palabra::getSinonimo</a></div><div class="ttdeci">string getSinonimo(int i) const</div><div class="ttdoc">Obtiene el i-th sinonimo.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:28</div></div>
+<div class="ttc" id="aclassPalabra_html_aa2c38d2ebf84044b5fade1089f502fbc"><div class="ttname"><a href="classPalabra.html#aa2c38d2ebf84044b5fade1089f502fbc">Palabra::Palabra</a></div><div class="ttdeci">Palabra(const string &amp;t, const string &amp;w)</div><div class="ttdoc">Constructor de la clase.</div><div class="ttdef"><b>Definition:</b> palabra.h:42</div></div>
+<div class="ttc" id="aclassPalabra_html_aa3f4ad46e6fe70ed83e78582a52be1a5"><div class="ttname"><a href="classPalabra.html#aa3f4ad46e6fe70ed83e78582a52be1a5">Palabra::eraseSinonimo</a></div><div class="ttdeci">void eraseSinonimo(const string &amp;s)</div><div class="ttdoc">Elimina el sinonimo s.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:43</div></div>
+<div class="ttc" id="aclassPalabra_html_aba73a40d1da695a36edfe9cdc9ef03d3"><div class="ttname"><a href="classPalabra.html#aba73a40d1da695a36edfe9cdc9ef03d3">Palabra::setTipo</a></div><div class="ttdeci">void setTipo(const string &amp;t)</div><div class="ttdoc">Modifica el tipo de palabra.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:57</div></div>
+<div class="ttc" id="aclassPalabra_html_ac37f9a48f571a2c856d087023b6ea265"><div class="ttname"><a href="classPalabra.html#ac37f9a48f571a2c856d087023b6ea265">Palabra::getTipo</a></div><div class="ttdeci">string getTipo() const</div><div class="ttdoc">Obtiene el tipo de una palabra. Ej: adjetivo, proposicion ,etc.</div><div class="ttdef"><b>Definition:</b> palabra.h:48</div></div>
+<div class="ttc" id="aclassPalabra_html_ad8bbe51acd22ef10d59ed3ee528361f2"><div class="ttname"><a href="classPalabra.html#ad8bbe51acd22ef10d59ed3ee528361f2">Palabra::operator&gt;&gt;</a></div><div class="ttdeci">friend istream &amp; operator&gt;&gt;(istream &amp;is, Palabra &amp;P)</div><div class="ttdoc">Operador de entrada de una palabra.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:80</div></div>
+<div class="ttc" id="aclassPalabra_html_ae7577beaa6f7e65b7cf2ba4a18aebc45"><div class="ttname"><a href="classPalabra.html#ae7577beaa6f7e65b7cf2ba4a18aebc45">Palabra::setSinonimo</a></div><div class="ttdeci">void setSinonimo(int i, const string &amp;s)</div><div class="ttdoc">Modifica el i-th sinonimo con s.</div><div class="ttdef"><b>Definition:</b> palabra.cpp:61</div></div>
+<div class="ttc" id="aclassVD_html"><div class="ttname"><a href="classVD.html">VD</a></div><div class="ttdoc">T.D.A. VD.</div><div class="ttdef"><b>Definition:</b> vd.h:23</div></div>
+<div class="ttc" id="avd_8h_html"><div class="ttname"><a href="vd_8h.html">vd.h</a></div><div class="ttdoc">Fichero cabecera del TDA Vector Dinamico.</div></div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generado por&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2
+</small></address>
+</body>
+</html>

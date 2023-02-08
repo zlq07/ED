@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.2" xml:lang="es">
+  <compound refid="classPalabra" kind="class"><name>Palabra</name>
+    <member refid="classPalabra_1af19fdc4c663daec7fbd9789cbe0737d9" kind="variable"><name>tipo</name></member>
+    <member refid="classPalabra_1a1d86fc66f5de7262f5df4b2bb3ab90b5" kind="variable"><name>word</name></member>
+    <member refid="classPalabra_1a7b966af4f8bfe9d5cb6c039a7d4ce46a" kind="variable"><name>sinonimos</name></member>
+    <member refid="classPalabra_1a461ca03ba34ff7b02a2340c7cc184470" kind="function"><name>Esta</name></member>
+    <member refid="classPalabra_1a8e74f02e148cdcb5bb91bc2ae193183e" kind="function"><name>Palabra</name></member>
+    <member refid="classPalabra_1aa2c38d2ebf84044b5fade1089f502fbc" kind="function"><name>Palabra</name></member>
+    <member refid="classPalabra_1ac37f9a48f571a2c856d087023b6ea265" kind="function"><name>getTipo</name></member>
+    <member refid="classPalabra_1a094c2428e5f94ecbef0df56977c214fd" kind="function"><name>getPalabra</name></member>
+    <member refid="classPalabra_1aa0fb15d816bc8d5365df925e7b0a48bb" kind="function"><name>getSinonimo</name></member>
+    <member refid="classPalabra_1a303259ade9bf901554b4220103ded7de" kind="function"><name>insertSinonimo</name></member>
+    <member refid="classPalabra_1aa3f4ad46e6fe70ed83e78582a52be1a5" kind="function"><name>eraseSinonimo</name></member>
+    <member refid="classPalabra_1a4c46a6070cd91937cc437001081ad18d" kind="function"><name>setPalabra</name></member>
+    <member refid="classPalabra_1aba73a40d1da695a36edfe9cdc9ef03d3" kind="function"><name>setTipo</name></member>
+    <member refid="classPalabra_1ae7577beaa6f7e65b7cf2ba4a18aebc45" kind="function"><name>setSinonimo</name></member>
+    <member refid="classPalabra_1a225946f9d0b8862c668c918091a0fd68" kind="function"><name>isSinonimo</name></member>
+    <member refid="classPalabra_1a56b52ef125b0dceee005873875e0bb49" kind="function"><name>numSinonimos</name></member>
+    <member refid="classPalabra_1ad8bbe51acd22ef10d59ed3ee528361f2" kind="friend"><name>operator&gt;&gt;</name></member>
+    <member refid="classPalabra_1a6f2cedc5fb3232ffe614f7047bb67f34" kind="friend"><name>operator&lt;&lt;</name></member>
+  </compound>
+  <compound refid="classPalabras" kind="class"><name>Palabras</name>
+    <member refid="classPalabras_1a97ff3ff2640683ec87b3d6d53d630ab2" kind="variable"><name>idioma</name></member>
+    <member refid="classPalabras_1a2b8b58366f256b39e023d881f77023fa" kind="variable"><name>datos</name></member>
+    <member refid="classPalabras_1a1ec72f402f38c87a729cc9f550fe3c72" kind="function"><name>esta</name></member>
+    <member refid="classPalabras_1ab5a3dcf1b13ac84505ba7efb398041e3" kind="function"><name>Palabras</name></member>
+    <member refid="classPalabras_1ad0e01a81ee7f67f9a9effb5c427098fa" kind="function"><name>operator[]</name></member>
+    <member refid="classPalabras_1a078e4471b4d306bd2b827031e53dd901" kind="function"><name>operator[]</name></member>
+    <member refid="classPalabras_1ae3f43329c7f4e18608e141ca842b4acd" kind="function"><name>insert</name></member>
+    <member refid="classPalabras_1a7af096b8fe3fae22585ca65431bbc986" kind="function"><name>erase</name></member>
+    <member refid="classPalabras_1a99e82bae03763905c3c6306b5d093a56" kind="function"><name>size</name></member>
+    <member refid="classPalabras_1a354729766d8e5d6308a5d720a939e794" kind="function"><name>getOrdenadasTipo</name></member>
+    <member refid="classPalabras_1a06aeab455472d661e591d910f2393566" kind="function"><name>getDiferentTipos</name></member>
+    <member refid="classPalabras_1aafbd65e0255fc6950af20f7fe123286a" kind="function"><name>getPalabrasTipo</name></member>
+    <member refid="classPalabras_1ac8a7d4ee275cb6752cddde26142d3475" kind="function"><name>getTipoPalabra</name></member>
+    <member refid="classPalabras_1a644f2bbe4507f944c05ea84a57382e87" kind="function"><name>areSinonimos</name></member>
+    <member refid="classPalabras_1add3d5ef4d012cc49e7bb00c67b7f0f48" kind="function"><name>clear</name></member>
+    <member refid="classPalabras_1a028c7efba1d73451098771bb45391132" kind="friend"><name>operator&gt;&gt;</name></member>
+    <member refid="classPalabras_1ad76a816da3b19e97704dcc5b851d564f" kind="friend"><name>operator&lt;&lt;</name></member>
+  </compound>
+  <compound refid="classVD" kind="class"><name>VD</name>
+    <member refid="classVD_1affc5ceba10ca993ec60d3398857e24d0" kind="variable"><name>datos</name></member>
+    <member refid="classVD_1ab9a2fccaf77055a96deb6395e522116e" kind="variable"><name>reservados</name></member>
+    <member refid="classVD_1a6dea9ce4fefcaae027de3c11b016245e" kind="variable"><name>n</name></member>
+    <member refid="classVD_1a1a25a3ff5fe53e4e3a4f0b0c66ebbda9" kind="function"><name>resize</name></member>
+    <member refid="classVD_1a73ae5537ee43cbe6c6304214a21684be" kind="function"><name>copiar</name></member>
+    <member refid="classVD_1ac542cf16236fc0b4c42c16cee6aef19d" kind="function"><name>liberar</name></member>
+    <member refid="classVD_1a895111f70f396d7399a4f55b2961940c" kind="function"><name>VD</name></member>
+    <member refid="classVD_1a6e2e4a030414197b386b97b7e9ba8ebe" kind="function"><name>VD</name></member>
+    <member refid="classVD_1a645b65a6343059cd921f6a2856c97249" kind="function"><name>operator=</name></member>
+    <member refid="classVD_1a0533f99aa2fee31fde63edd6c4b8bb2d" kind="function"><name>~VD</name></member>
+    <member refid="classVD_1a411ad026db1c8e0617d9031f1f1017a5" kind="function"><name>size</name></member>
+    <member refid="classVD_1a021495b46a5b59c7fd1e25653ab8f824" kind="function"><name>operator[]</name></member>
+    <member refid="classVD_1ab0c8adba584dcbb2f07171dedcfc395e" kind="function"><name>operator[]</name></member>
+    <member refid="classVD_1afb2a22b736a1d35c818eb548a6789819" kind="function"><name>insert</name></member>
+    <member refid="classVD_1ad8a09781f052adeff5182d5b14153c6f" kind="function"><name>erase</name></member>
+    <member refid="classVD_1ac10247aeeddc0ae0a9c17f6e86b6747d" kind="function"><name>clear</name></member>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="palabra_8h" kind="file"><name>palabra.h</name>
+  </compound>
+  <compound refid="palabras_8h" kind="file"><name>palabras.h</name>
+  </compound>
+  <compound refid="vd_8h" kind="file"><name>vd.h</name>
+  </compound>
+  <compound refid="palabra_8cpp" kind="file"><name>palabra.cpp</name>
+    <member refid="palabra_8cpp_1ad8bbe51acd22ef10d59ed3ee528361f2" kind="function"><name>operator&gt;&gt;</name></member>
+    <member refid="palabra_8cpp_1a6f2cedc5fb3232ffe614f7047bb67f34" kind="function"><name>operator&lt;&lt;</name></member>
+  </compound>
+  <compound refid="palabras_8cpp" kind="file"><name>palabras.cpp</name>
+    <member refid="palabras_8cpp_1aaec23898baa6ab341d9211f327c895f8" kind="function"><name>operator==</name></member>
+    <member refid="palabras_8cpp_1a028c7efba1d73451098771bb45391132" kind="function"><name>operator&gt;&gt;</name></member>
+    <member refid="palabras_8cpp_1ad76a816da3b19e97704dcc5b851d564f" kind="function"><name>operator&lt;&lt;</name></member>
+  </compound>
+  <compound refid="test_8cpp" kind="file"><name>test.cpp</name>
+    <member refid="test_8cpp_1a0ddf1224851353fc92bfbff6f499fa97" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="tipo__texto_8cpp" kind="file"><name>tipo_texto.cpp</name>
+    <member refid="tipo__texto_8cpp_1a58c9f113a177510b4de2333ecf2caa27" kind="function"><name>AllLower</name></member>
+    <member refid="tipo__texto_8cpp_1a17cf09c377f2c778777e512b4f5e20f7" kind="function"><name>aparece</name></member>
+    <member refid="tipo__texto_8cpp_1a98ac0e5f7d3fb7f82d92f730557bc51e" kind="function"><name>WhereTipo</name></member>
+    <member refid="tipo__texto_8cpp_1a26c464285b4763bc29464340badd3e82" kind="function"><name>Contabiliza</name></member>
+    <member refid="tipo__texto_8cpp_1a0ddf1224851353fc92bfbff6f499fa97" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="vd_8cpp" kind="file"><name>vd.cpp</name>
+  </compound>
+  <compound refid="repVD" kind="page"><name>repVD</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>include</name>
+  </compound>
+  <compound refid="dir_68267d1309a1af8e8297ef4c3efbcdba" kind="dir"><name>src</name>
+  </compound>
+</doxygenindex>

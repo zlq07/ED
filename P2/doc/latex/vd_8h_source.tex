@@ -1,0 +1,46 @@
+\doxysection{vd.\+h}
+\label{vd_8h_source}\index{include/vd.h@{include/vd.h}}
+\textbf{ Ir a la documentación de este archivo.}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#ifndef VD\_H}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#define VD\_H}}
+\DoxyCodeLine{9 }
+\DoxyCodeLine{21 \textcolor{keyword}{template} <\textcolor{keyword}{class} T>}
+\DoxyCodeLine{22 \textcolor{keyword}{class }VD}
+\DoxyCodeLine{23 \{}
+\DoxyCodeLine{24 \textcolor{keyword}{private}:}
+\DoxyCodeLine{37   T *datos;       }
+\DoxyCodeLine{38   \textcolor{keywordtype}{int} reservados; }
+\DoxyCodeLine{39   \textcolor{keywordtype}{int} n;          }
+\DoxyCodeLine{45   \textcolor{keywordtype}{void} resize(\textcolor{keywordtype}{int} tam);}
+\DoxyCodeLine{46 }
+\DoxyCodeLine{52   \textcolor{keywordtype}{void} copiar(\textcolor{keyword}{const} VD<T> \&v);}
+\DoxyCodeLine{53 }
+\DoxyCodeLine{57   \textcolor{keywordtype}{void} liberar();}
+\DoxyCodeLine{58 }
+\DoxyCodeLine{59 \textcolor{keyword}{public}:}
+\DoxyCodeLine{65   VD(\textcolor{keywordtype}{int} tam = 1);}
+\DoxyCodeLine{66 }
+\DoxyCodeLine{72   VD(\textcolor{keyword}{const} VD<T> \&v);}
+\DoxyCodeLine{73 }
+\DoxyCodeLine{78   VD<T> \&operator=(\textcolor{keyword}{const} VD<T> \&v);}
+\DoxyCodeLine{79 }
+\DoxyCodeLine{83   \string~VD();}
+\DoxyCodeLine{84 }
+\DoxyCodeLine{88   \textcolor{keywordtype}{int} size() \textcolor{keyword}{const};}
+\DoxyCodeLine{89 }
+\DoxyCodeLine{96   T \&operator[](\textcolor{keywordtype}{int} i);}
+\DoxyCodeLine{97 }
+\DoxyCodeLine{98   \textcolor{keyword}{const} T \&operator[](\textcolor{keywordtype}{int} i) \textcolor{keyword}{const};}
+\DoxyCodeLine{105   \textcolor{keywordtype}{void} insert(\textcolor{keywordtype}{int} pos, \textcolor{keyword}{const} T \&d);}
+\DoxyCodeLine{106 }
+\DoxyCodeLine{112   \textcolor{keywordtype}{void} erase(\textcolor{keywordtype}{int} pos);}
+\DoxyCodeLine{113 }
+\DoxyCodeLine{117   \textcolor{keywordtype}{void} clear();}
+\DoxyCodeLine{118 \};}
+\DoxyCodeLine{119 \textcolor{preprocessor}{\#include "{}../src/vd.cpp"{}}}
+\DoxyCodeLine{120 }
+\DoxyCodeLine{121 \textcolor{preprocessor}{\#endif }\textcolor{comment}{// VD\_H}}
+
+\end{DoxyCode}

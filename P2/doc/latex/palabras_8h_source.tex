@@ -1,0 +1,47 @@
+\doxysection{palabras.\+h}
+\label{palabras_8h_source}\index{include/palabras.h@{include/palabras.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#ifndef PALABRAS\_\_H}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#define PALABRAS\_\_H}}
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#include "{}palabra.h"{}}}
+\DoxyCodeLine{4 }
+\DoxyCodeLine{5 \textcolor{keyword}{class }Palabras}
+\DoxyCodeLine{6 \{}
+\DoxyCodeLine{7 \textcolor{keyword}{private}:}
+\DoxyCodeLine{8    \textcolor{keywordtype}{string} idioma;     }
+\DoxyCodeLine{9    VD<Palabra> datos; }
+\DoxyCodeLine{19    \textcolor{keywordtype}{bool} esta(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&a, \textcolor{keyword}{const} \textcolor{keywordtype}{string} \&tipo, \textcolor{keywordtype}{int} \&pos) \textcolor{keyword}{const};}
+\DoxyCodeLine{20 }
+\DoxyCodeLine{21 \textcolor{keyword}{public}:}
+\DoxyCodeLine{25    Palabras()\{\};}
+\DoxyCodeLine{26 }
+\DoxyCodeLine{33    Palabra \&operator[](\textcolor{keywordtype}{int} i);}
+\DoxyCodeLine{34    \textcolor{keyword}{const} Palabra \&operator[](\textcolor{keywordtype}{int} i) \textcolor{keyword}{const};}
+\DoxyCodeLine{35 }
+\DoxyCodeLine{40    \textcolor{keywordtype}{void} insert(\textcolor{keyword}{const} Palabra \&P);}
+\DoxyCodeLine{41 }
+\DoxyCodeLine{48    \textcolor{keywordtype}{void} erase(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&a, \textcolor{keyword}{const} \textcolor{keywordtype}{string} \&tipo);}
+\DoxyCodeLine{49 }
+\DoxyCodeLine{54    \textcolor{keywordtype}{int} size() \textcolor{keyword}{const};}
+\DoxyCodeLine{55 }
+\DoxyCodeLine{60    Palabras getOrdenadasTipo() \textcolor{keyword}{const};}
+\DoxyCodeLine{61 }
+\DoxyCodeLine{66    VD<string> getDiferentTipos() \textcolor{keyword}{const};}
+\DoxyCodeLine{67 }
+\DoxyCodeLine{72    Palabras getPalabrasTipo(\textcolor{keywordtype}{string} tipo) \textcolor{keyword}{const};}
+\DoxyCodeLine{73 }
+\DoxyCodeLine{78    VD<string> getTipoPalabra(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&a);}
+\DoxyCodeLine{79 }
+\DoxyCodeLine{84    \textcolor{keywordtype}{bool} areSinonimos(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&s1, \textcolor{keyword}{const} \textcolor{keywordtype}{string} \&s2, \textcolor{keyword}{const} \textcolor{keywordtype}{string} \&tipo) \textcolor{keyword}{const};}
+\DoxyCodeLine{85 }
+\DoxyCodeLine{89    \textcolor{keywordtype}{void} clear();}
+\DoxyCodeLine{90 }
+\DoxyCodeLine{96    \textcolor{keyword}{friend} istream \&operator>>(istream \&is, Palabras \&P);}
+\DoxyCodeLine{97 }
+\DoxyCodeLine{103    \textcolor{keyword}{friend} ostream \&operator<<(ostream \&os, \textcolor{keyword}{const} Palabras \&P);}
+\DoxyCodeLine{104 \};}
+\DoxyCodeLine{105 }
+\DoxyCodeLine{106 \textcolor{preprocessor}{\#endif }\textcolor{comment}{// PALABRAS\_\_H}}
+
+\end{DoxyCode}

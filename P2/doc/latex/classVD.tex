@@ -1,0 +1,184 @@
+\doxysection{Referencia de la plantilla de la Clase VD\texorpdfstring{$<$}{<} T \texorpdfstring{$>$}{>}}
+\label{classVD}\index{VD$<$ T $>$@{VD$<$ T $>$}}
+
+
+T.\+D.\+A. \doxyref{VD}{p.}{classVD}.  
+
+
+
+
+{\ttfamily \#include $<$vd.\+h$>$}
+
+\doxysubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ VD} (int tam=1)
+\begin{DoxyCompactList}\small\item\em Constructor de la clase. \end{DoxyCompactList}\item 
+\textbf{ VD} (const \textbf{ VD}$<$ T $>$ \&v)
+\begin{DoxyCompactList}\small\item\em Constructor de copias de la clase. \end{DoxyCompactList}\item 
+\textbf{ VD}$<$ T $>$ \& \textbf{ operator=} (const \textbf{ VD}$<$ T $>$ \&v)
+\begin{DoxyCompactList}\small\item\em Asignacion de dos vector dinamico. \end{DoxyCompactList}\item 
+\mbox{\label{classVD_a0533f99aa2fee31fde63edd6c4b8bb2d}} 
+{\bfseries $\sim$\+VD} ()
+\begin{DoxyCompactList}\small\item\em Destructor de la clase. \end{DoxyCompactList}\item 
+\mbox{\label{classVD_a411ad026db1c8e0617d9031f1f1017a5}} 
+int {\bfseries size} () const
+\begin{DoxyCompactList}\small\item\em Devolver el elemento almacenados n. \end{DoxyCompactList}\item 
+T \& \textbf{ operator[$\,$]} (int i)
+\begin{DoxyCompactList}\small\item\em Devuelve una referencoa al objeto i-\/th en el vactor. \end{DoxyCompactList}\item 
+\mbox{\label{classVD_ab0c8adba584dcbb2f07171dedcfc395e}} 
+const T \& {\bfseries operator[$\,$]} (int i) const
+\item 
+void \textbf{ insert} (int pos, const T \&d)
+\begin{DoxyCompactList}\small\item\em Insertar un nuevo elemento en una posicion dada. \end{DoxyCompactList}\item 
+void \textbf{ erase} (int pos)
+\begin{DoxyCompactList}\small\item\em Eliminar un elemento en una posicion dada. \end{DoxyCompactList}\item 
+\mbox{\label{classVD_ac10247aeeddc0ae0a9c17f6e86b6747d}} 
+void {\bfseries clear} ()
+\begin{DoxyCompactList}\small\item\em Inicializa el elementos almacenados a 0. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+\subsubsection*{template$<$class T$>$\newline
+class VD$<$ T $>$}
+T.\+D.\+A. \doxyref{VD}{p.}{classVD}. 
+
+Una instancia {\itshape c} del tipo de datos abstracto {\ttfamily \doxyref{VD}{p.}{classVD}} es un array 1d que almacena objetos de un tipo base. Esta especialmente diseñado para hacer accesos a la informacion de forma rapida. El conjunto de datos seria (a0, a1, ..., an).
+
+\begin{DoxyAuthor}{Autor}
+Linqi Zhu 
+\end{DoxyAuthor}
+\begin{DoxyDate}{Fecha}
+Octubre 2021 
+\end{DoxyDate}
+
+
+\doxysubsection{Documentación del constructor y destructor}
+\mbox{\label{classVD_a895111f70f396d7399a4f55b2961940c}} 
+\index{VD$<$ T $>$@{VD$<$ T $>$}!VD@{VD}}
+\index{VD@{VD}!VD$<$ T $>$@{VD$<$ T $>$}}
+\doxysubsubsection{VD()\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily template$<$class T $>$ \\
+\textbf{ VD}$<$ T $>$\+::\textbf{ VD} (\begin{DoxyParamCaption}\item[{int}]{tam = {\ttfamily 1} }\end{DoxyParamCaption})}
+
+
+
+Constructor de la clase. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em tam} & tamaño del vector dinamico \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+Crea el \doxyref{VD}{p.}{classVD} de con espacio reservado de tamaño mayor que 1 
+\end{DoxyReturn}
+\mbox{\label{classVD_a6e2e4a030414197b386b97b7e9ba8ebe}} 
+\index{VD$<$ T $>$@{VD$<$ T $>$}!VD@{VD}}
+\index{VD@{VD}!VD$<$ T $>$@{VD$<$ T $>$}}
+\doxysubsubsection{VD()\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily template$<$class T $>$ \\
+\textbf{ VD}$<$ T $>$\+::\textbf{ VD} (\begin{DoxyParamCaption}\item[{const \textbf{ VD}$<$ T $>$ \&}]{v }\end{DoxyParamCaption})}
+
+
+
+Constructor de copias de la clase. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em v.\+reservados} & espacio reservado en datos a construir \\
+\hline
+{\em v.\+n} & lementos almacenados a construir \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Documentación de las funciones miembro}
+\mbox{\label{classVD_ad8a09781f052adeff5182d5b14153c6f}} 
+\index{VD$<$ T $>$@{VD$<$ T $>$}!erase@{erase}}
+\index{erase@{erase}!VD$<$ T $>$@{VD$<$ T $>$}}
+\doxysubsubsection{erase()}
+{\footnotesize\ttfamily template$<$class T $>$ \\
+void \textbf{ VD}$<$ T $>$\+::erase (\begin{DoxyParamCaption}\item[{int}]{pos }\end{DoxyParamCaption})}
+
+
+
+Eliminar un elemento en una posicion dada. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em pos} & posicion donde se elimina el elemento \\
+\hline
+\end{DoxyParams}
+\begin{DoxyPrecond}{Precondición}
+que la posicion debe estar entre 0 y n 
+\end{DoxyPrecond}
+\mbox{\label{classVD_afb2a22b736a1d35c818eb548a6789819}} 
+\index{VD$<$ T $>$@{VD$<$ T $>$}!insert@{insert}}
+\index{insert@{insert}!VD$<$ T $>$@{VD$<$ T $>$}}
+\doxysubsubsection{insert()}
+{\footnotesize\ttfamily template$<$class T $>$ \\
+void \textbf{ VD}$<$ T $>$\+::insert (\begin{DoxyParamCaption}\item[{int}]{pos,  }\item[{const T \&}]{d }\end{DoxyParamCaption})}
+
+
+
+Insertar un nuevo elemento en una posicion dada. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em pos} & posicion donde se inserta el elemento \\
+\hline
+{\em d} & elemento a insertar \\
+\hline
+\end{DoxyParams}
+\begin{DoxyPrecond}{Precondición}
+que la posicion debe estar entre 0 y n 
+\end{DoxyPrecond}
+
+
+Referenciado por \textbf{ Palabras\+::get\+Diferent\+Tipos()} y \textbf{ Palabras\+::get\+Tipo\+Palabra()}.
+
+\mbox{\label{classVD_a645b65a6343059cd921f6a2856c97249}} 
+\index{VD$<$ T $>$@{VD$<$ T $>$}!operator=@{operator=}}
+\index{operator=@{operator=}!VD$<$ T $>$@{VD$<$ T $>$}}
+\doxysubsubsection{operator=()}
+{\footnotesize\ttfamily template$<$class T $>$ \\
+\textbf{ VD}$<$ T $>$ \& \textbf{ VD}$<$ T $>$\+::operator= (\begin{DoxyParamCaption}\item[{const \textbf{ VD}$<$ T $>$ \&}]{v }\end{DoxyParamCaption})}
+
+
+
+Asignacion de dos vector dinamico. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em v} & vector a asignar con el objeto implicito \\
+\hline
+\end{DoxyParams}
+\mbox{\label{classVD_a021495b46a5b59c7fd1e25653ab8f824}} 
+\index{VD$<$ T $>$@{VD$<$ T $>$}!operator[]@{operator[]}}
+\index{operator[]@{operator[]}!VD$<$ T $>$@{VD$<$ T $>$}}
+\doxysubsubsection{operator[]()}
+{\footnotesize\ttfamily template$<$class T $>$ \\
+T \& \textbf{ VD}$<$ T $>$\+::operator[$\,$] (\begin{DoxyParamCaption}\item[{int}]{i }\end{DoxyParamCaption})}
+
+
+
+Devuelve una referencoa al objeto i-\/th en el vactor. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em i} & indice del elemento a devolver \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+una referencia al objeto i-\/th 
+\end{DoxyReturn}
+\begin{DoxyPrecond}{Precondición}
+i\texorpdfstring{$>$}{>}=0 y i\texorpdfstring{$<$}{<}n 
+\end{DoxyPrecond}
+
+
+La documentación para esta clase fue generada a partir de los siguientes ficheros\+:\begin{DoxyCompactItemize}
+\item 
+include/\textbf{ vd.\+h}\item 
+src/vd.\+cpp\end{DoxyCompactItemize}

@@ -1,0 +1,54 @@
+\doxysection{palabra.\+h}
+\label{palabra_8h_source}\index{include/palabra.h@{include/palabra.h}}
+\textbf{ Ir a la documentación de este archivo.}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{5 \textcolor{preprocessor}{\#ifndef PALABRA\_\_H}}
+\DoxyCodeLine{6 \textcolor{preprocessor}{\#define PALABRA\_\_H}}
+\DoxyCodeLine{7 \textcolor{preprocessor}{\#include <cassert>}}
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#include <string>}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#include <sstream>}}
+\DoxyCodeLine{10 \textcolor{preprocessor}{\#include <iostream>}}
+\DoxyCodeLine{11 \textcolor{preprocessor}{\#include "{}vd.h"{}}}
+\DoxyCodeLine{12 \textcolor{keyword}{using namespace }std;}
+\DoxyCodeLine{13 }
+\DoxyCodeLine{14 \textcolor{keyword}{class }Palabra}
+\DoxyCodeLine{15 \{}
+\DoxyCodeLine{16 \textcolor{keyword}{private}:}
+\DoxyCodeLine{17   \textcolor{keywordtype}{string} tipo;          }
+\DoxyCodeLine{18   \textcolor{keywordtype}{string} word;          }
+\DoxyCodeLine{19   VD<string> sinonimos; }
+\DoxyCodeLine{28   \textcolor{keywordtype}{bool} Esta(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&s, \textcolor{keywordtype}{int} \&pos) \textcolor{keyword}{const};}
+\DoxyCodeLine{29 }
+\DoxyCodeLine{30 \textcolor{keyword}{public}:}
+\DoxyCodeLine{34   Palabra()\{\}}
+\DoxyCodeLine{35 }
+\DoxyCodeLine{42   Palabra(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&t, \textcolor{keyword}{const} \textcolor{keywordtype}{string} \&w) : tipo(t), word(w) \{\}}
+\DoxyCodeLine{43 }
+\DoxyCodeLine{48   \textcolor{keywordtype}{string} getTipo()\textcolor{keyword}{ const }\{ \textcolor{keywordflow}{return} tipo; \}}
+\DoxyCodeLine{49 }
+\DoxyCodeLine{54   \textcolor{keywordtype}{string} getPalabra()\textcolor{keyword}{ const }\{ \textcolor{keywordflow}{return} word; \}}
+\DoxyCodeLine{55 }
+\DoxyCodeLine{61   \textcolor{keywordtype}{string} getSinonimo(\textcolor{keywordtype}{int} i) \textcolor{keyword}{const};}
+\DoxyCodeLine{62 }
+\DoxyCodeLine{68   \textcolor{keywordtype}{void} insertSinonimo(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&s);}
+\DoxyCodeLine{69 }
+\DoxyCodeLine{75   \textcolor{keywordtype}{void} eraseSinonimo(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&s);}
+\DoxyCodeLine{76 }
+\DoxyCodeLine{81   \textcolor{keywordtype}{void} setPalabra(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&w);}
+\DoxyCodeLine{82 }
+\DoxyCodeLine{87   \textcolor{keywordtype}{void} setTipo(\textcolor{keyword}{const} \textcolor{keywordtype}{string} \&t);}
+\DoxyCodeLine{88 }
+\DoxyCodeLine{94   \textcolor{keywordtype}{void} setSinonimo(\textcolor{keywordtype}{int} i, \textcolor{keyword}{const} \textcolor{keywordtype}{string} \&s);}
+\DoxyCodeLine{95 }
+\DoxyCodeLine{101   \textcolor{keywordtype}{bool} isSinonimo(\textcolor{keywordtype}{string} w) \textcolor{keyword}{const};}
+\DoxyCodeLine{102 }
+\DoxyCodeLine{107   \textcolor{keywordtype}{int} numSinonimos() \textcolor{keyword}{const};}
+\DoxyCodeLine{108 }
+\DoxyCodeLine{114   \textcolor{keyword}{friend} istream \&operator>>(istream \&is, Palabra \&P);}
+\DoxyCodeLine{115 }
+\DoxyCodeLine{121   \textcolor{keyword}{friend} ostream \&operator<<(ostream \&os, \textcolor{keyword}{const} Palabra \&P);}
+\DoxyCodeLine{122 \};}
+\DoxyCodeLine{123 \textcolor{preprocessor}{\#endif }\textcolor{comment}{// PALABRA\_\_H}}
+
+\end{DoxyCode}

@@ -1,0 +1,179 @@
+.TH "VD< T >" 3 "Domingo, 7 de Noviembre de 2021" "Práctica 2: Palabras y Sinónimos" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+VD< T > \- T\&.D\&.A\&. \fBVD\fP\&.  
+
+.SH SYNOPSIS
+.br
+.PP
+.PP
+\fC#include <vd\&.h>\fP
+.SS "Métodos públicos"
+
+.in +1c
+.ti -1c
+.RI "\fBVD\fP (int tam=1)"
+.br
+.RI "Constructor de la clase\&. "
+.ti -1c
+.RI "\fBVD\fP (const \fBVD\fP< T > &v)"
+.br
+.RI "Constructor de copias de la clase\&. "
+.ti -1c
+.RI "\fBVD\fP< T > & \fBoperator=\fP (const \fBVD\fP< T > &v)"
+.br
+.RI "Asignacion de dos vector dinamico\&. "
+.ti -1c
+.RI "\fB~VD\fP ()"
+.br
+.RI "Destructor de la clase\&. "
+.ti -1c
+.RI "int \fBsize\fP () const"
+.br
+.RI "Devolver el elemento almacenados n\&. "
+.ti -1c
+.RI "T & \fBoperator[]\fP (int i)"
+.br
+.RI "Devuelve una referencoa al objeto i-th en el vactor\&. "
+.ti -1c
+.RI "const T & \fBoperator[]\fP (int i) const"
+.br
+.ti -1c
+.RI "void \fBinsert\fP (int pos, const T &d)"
+.br
+.RI "Insertar un nuevo elemento en una posicion dada\&. "
+.ti -1c
+.RI "void \fBerase\fP (int pos)"
+.br
+.RI "Eliminar un elemento en una posicion dada\&. "
+.ti -1c
+.RI "void \fBclear\fP ()"
+.br
+.RI "Inicializa el elementos almacenados a 0\&. "
+.in -1c
+.SH "Descripción detallada"
+.PP 
+
+.SS "template<class T>
+.br
+class VD< T >"T\&.D\&.A\&. \fBVD\fP\&. 
+
+Una instancia \fIc\fP del tipo de datos abstracto \fC\fBVD\fP\fP es un array 1d que almacena objetos de un tipo base\&. Esta especialmente diseñado para hacer accesos a la informacion de forma rapida\&. El conjunto de datos seria (a0, a1, \&.\&.\&., an)\&.
+.PP
+\fBAutor\fP
+.RS 4
+Linqi Zhu 
+.RE
+.PP
+\fBFecha\fP
+.RS 4
+Octubre 2021 
+.RE
+.PP
+
+.SH "Documentación del constructor y destructor"
+.PP 
+.SS "template<class T > \fBVD\fP< T >::\fBVD\fP (int tam = \fC1\fP)"
+
+.PP
+Constructor de la clase\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fItam\fP tamaño del vector dinamico 
+.RE
+.PP
+\fBDevuelve\fP
+.RS 4
+Crea el \fBVD\fP de con espacio reservado de tamaño mayor que 1 
+.RE
+.PP
+
+.SS "template<class T > \fBVD\fP< T >::\fBVD\fP (const \fBVD\fP< T > & v)"
+
+.PP
+Constructor de copias de la clase\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIv\&.reservados\fP espacio reservado en datos a construir 
+.br
+\fIv\&.n\fP lementos almacenados a construir 
+.RE
+.PP
+
+.SH "Documentación de las funciones miembro"
+.PP 
+.SS "template<class T > void \fBVD\fP< T >::erase (int pos)"
+
+.PP
+Eliminar un elemento en una posicion dada\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIpos\fP posicion donde se elimina el elemento 
+.RE
+.PP
+\fBPrecondición\fP
+.RS 4
+que la posicion debe estar entre 0 y n 
+.RE
+.PP
+
+.SS "template<class T > void \fBVD\fP< T >::insert (int pos, const T & d)"
+
+.PP
+Insertar un nuevo elemento en una posicion dada\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIpos\fP posicion donde se inserta el elemento 
+.br
+\fId\fP elemento a insertar 
+.RE
+.PP
+\fBPrecondición\fP
+.RS 4
+que la posicion debe estar entre 0 y n 
+.RE
+.PP
+
+.PP
+Referenciado por \fBPalabras::getDiferentTipos()\fP y \fBPalabras::getTipoPalabra()\fP\&.
+.SS "template<class T > \fBVD\fP< T > & \fBVD\fP< T >::operator= (const \fBVD\fP< T > & v)"
+
+.PP
+Asignacion de dos vector dinamico\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIv\fP vector a asignar con el objeto implicito 
+.RE
+.PP
+
+.SS "template<class T > T & \fBVD\fP< T >::operator[] (int i)"
+
+.PP
+Devuelve una referencoa al objeto i-th en el vactor\&. 
+.PP
+\fBParámetros\fP
+.RS 4
+\fIi\fP indice del elemento a devolver 
+.RE
+.PP
+\fBDevuelve\fP
+.RS 4
+una referencia al objeto i-th 
+.RE
+.PP
+\fBPrecondición\fP
+.RS 4
+i>=0 y i<n 
+.RE
+.PP
+
+
+.SH "Autor"
+.PP 
+Generado automáticamente por Doxygen para Práctica 2: Palabras y Sinónimos del código fuente\&.

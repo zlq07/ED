@@ -1,0 +1,243 @@
+\doxysection{Referencia de la Clase Palabras}
+\label{classPalabras}\index{Palabras@{Palabras}}
+\doxysubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{classPalabras_ab5a3dcf1b13ac84505ba7efb398041e3}} 
+{\bfseries Palabras} ()
+\begin{DoxyCompactList}\small\item\em Constructor por defecto de la clase. \end{DoxyCompactList}\item 
+\textbf{ Palabra} \& \textbf{ operator[$\,$]} (int i)
+\begin{DoxyCompactList}\small\item\em Devuelve una referencoa al objeto i-\/th. \end{DoxyCompactList}\item 
+\mbox{\label{classPalabras_a078e4471b4d306bd2b827031e53dd901}} 
+const \textbf{ Palabra} \& {\bfseries operator[$\,$]} (int i) const
+\item 
+void \textbf{ insert} (const \textbf{ Palabra} \&P)
+\begin{DoxyCompactList}\small\item\em se inserta una nueva palabra \end{DoxyCompactList}\item 
+void \textbf{ erase} (const string \&a, const string \&tipo)
+\begin{DoxyCompactList}\small\item\em se borra la palabra con valor a y tipo \end{DoxyCompactList}\item 
+int \textbf{ size} () const
+\begin{DoxyCompactList}\small\item\em obterner tamaño de palabras insertadas \end{DoxyCompactList}\item 
+\textbf{ Palabras} \textbf{ get\+Ordenadas\+Tipo} () const
+\begin{DoxyCompactList}\small\item\em Obtiene un nuevo conjunto de palabras ordenadas por tipo y a igualdad ordenadas por valor de palabra. \end{DoxyCompactList}\item 
+\textbf{ VD}$<$ string $>$ \textbf{ get\+Diferent\+Tipos} () const
+\begin{DoxyCompactList}\small\item\em obtiene lso tipos didferentes en el conjunto. Ordenados de mayor a menor tipo. \end{DoxyCompactList}\item 
+\textbf{ Palabras} \textbf{ get\+Palabras\+Tipo} (string tipo) const
+\begin{DoxyCompactList}\small\item\em obtiene todas las palabras de un determinado tipo \end{DoxyCompactList}\item 
+\textbf{ VD}$<$ string $>$ \textbf{ get\+Tipo\+Palabra} (const string \&a)
+\begin{DoxyCompactList}\small\item\em obtenemos tipo(s) de una palabra \end{DoxyCompactList}\item 
+bool \textbf{ are\+Sinonimos} (const string \&s1, const string \&s2, const string \&tipo) const
+\begin{DoxyCompactList}\small\item\em omprueba si dos palabras de un determinado tipo son sinonimas. \end{DoxyCompactList}\item 
+\mbox{\label{classPalabras_add3d5ef4d012cc49e7bb00c67b7f0f48}} 
+void {\bfseries clear} ()
+\begin{DoxyCompactList}\small\item\em limpia los datos \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Amigas}
+\begin{DoxyCompactItemize}
+\item 
+istream \& \textbf{ operator$>$$>$} (istream \&is, \textbf{ Palabras} \&P)
+\begin{DoxyCompactList}\small\item\em Operador de entrada de una palabra. \end{DoxyCompactList}\item 
+ostream \& \textbf{ operator$<$$<$} (ostream \&os, const \textbf{ Palabras} \&P)
+\begin{DoxyCompactList}\small\item\em Operador de salida. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Documentación de las funciones miembro}
+\mbox{\label{classPalabras_a644f2bbe4507f944c05ea84a57382e87}} 
+\index{Palabras@{Palabras}!areSinonimos@{areSinonimos}}
+\index{areSinonimos@{areSinonimos}!Palabras@{Palabras}}
+\doxysubsubsection{areSinonimos()}
+{\footnotesize\ttfamily bool Palabras\+::are\+Sinonimos (\begin{DoxyParamCaption}\item[{const string \&}]{s1,  }\item[{const string \&}]{s2,  }\item[{const string \&}]{tipo }\end{DoxyParamCaption}) const}
+
+
+
+omprueba si dos palabras de un determinado tipo son sinonimas. 
+
+\begin{DoxyReturn}{Devuelve}
+
+\end{DoxyReturn}
+\mbox{\label{classPalabras_a7af096b8fe3fae22585ca65431bbc986}} 
+\index{Palabras@{Palabras}!erase@{erase}}
+\index{erase@{erase}!Palabras@{Palabras}}
+\doxysubsubsection{erase()}
+{\footnotesize\ttfamily void Palabras\+::erase (\begin{DoxyParamCaption}\item[{const string \&}]{a,  }\item[{const string \&}]{tipo }\end{DoxyParamCaption})}
+
+
+
+se borra la palabra con valor a y tipo 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em a} & valor de la palabra \\
+\hline
+{\em tipo} & tipo de la palabra \\
+\hline
+\end{DoxyParams}
+\begin{DoxyPrecond}{Precondición}
+la palabra que queremos eliminar debe existir 
+\end{DoxyPrecond}
+\mbox{\label{classPalabras_a06aeab455472d661e591d910f2393566}} 
+\index{Palabras@{Palabras}!getDiferentTipos@{getDiferentTipos}}
+\index{getDiferentTipos@{getDiferentTipos}!Palabras@{Palabras}}
+\doxysubsubsection{getDiferentTipos()}
+{\footnotesize\ttfamily \textbf{ VD}$<$ string $>$ Palabras\+::get\+Diferent\+Tipos (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const}
+
+
+
+obtiene lso tipos didferentes en el conjunto. Ordenados de mayor a menor tipo. 
+
+\begin{DoxyReturn}{Devuelve}
+tipos didferentes en el conjunto 
+\end{DoxyReturn}
+
+
+Hace referencia a \textbf{ VD$<$ T $>$\+::insert()} y \textbf{ VD$<$ T $>$\+::size()}.
+
+\mbox{\label{classPalabras_a354729766d8e5d6308a5d720a939e794}} 
+\index{Palabras@{Palabras}!getOrdenadasTipo@{getOrdenadasTipo}}
+\index{getOrdenadasTipo@{getOrdenadasTipo}!Palabras@{Palabras}}
+\doxysubsubsection{getOrdenadasTipo()}
+{\footnotesize\ttfamily \textbf{ Palabras} Palabras\+::get\+Ordenadas\+Tipo (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const}
+
+
+
+Obtiene un nuevo conjunto de palabras ordenadas por tipo y a igualdad ordenadas por valor de palabra. 
+
+\begin{DoxyReturn}{Devuelve}
+nuevo conjunto de palabras ordenadas 
+\end{DoxyReturn}
+
+
+Hace referencia a \textbf{ insert()}.
+
+\mbox{\label{classPalabras_aafbd65e0255fc6950af20f7fe123286a}} 
+\index{Palabras@{Palabras}!getPalabrasTipo@{getPalabrasTipo}}
+\index{getPalabrasTipo@{getPalabrasTipo}!Palabras@{Palabras}}
+\doxysubsubsection{getPalabrasTipo()}
+{\footnotesize\ttfamily \textbf{ Palabras} Palabras\+::get\+Palabras\+Tipo (\begin{DoxyParamCaption}\item[{string}]{tipo }\end{DoxyParamCaption}) const}
+
+
+
+obtiene todas las palabras de un determinado tipo 
+
+\begin{DoxyReturn}{Devuelve}
+todas las palabras de un determinado tipo 
+\end{DoxyReturn}
+
+
+Hace referencia a \textbf{ insert()}.
+
+\mbox{\label{classPalabras_ac8a7d4ee275cb6752cddde26142d3475}} 
+\index{Palabras@{Palabras}!getTipoPalabra@{getTipoPalabra}}
+\index{getTipoPalabra@{getTipoPalabra}!Palabras@{Palabras}}
+\doxysubsubsection{getTipoPalabra()}
+{\footnotesize\ttfamily \textbf{ VD}$<$ string $>$ Palabras\+::get\+Tipo\+Palabra (\begin{DoxyParamCaption}\item[{const string \&}]{a }\end{DoxyParamCaption})}
+
+
+
+obtenemos tipo(s) de una palabra 
+
+\begin{DoxyReturn}{Devuelve}
+tipo(s) de una palabra 
+\end{DoxyReturn}
+
+
+Hace referencia a \textbf{ VD$<$ T $>$\+::insert()}.
+
+\mbox{\label{classPalabras_ae3f43329c7f4e18608e141ca842b4acd}} 
+\index{Palabras@{Palabras}!insert@{insert}}
+\index{insert@{insert}!Palabras@{Palabras}}
+\doxysubsubsection{insert()}
+{\footnotesize\ttfamily void Palabras\+::insert (\begin{DoxyParamCaption}\item[{const \textbf{ Palabra} \&}]{P }\end{DoxyParamCaption})}
+
+
+
+se inserta una nueva palabra 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em P} & palabra a insertar \\
+\hline
+\end{DoxyParams}
+
+
+Hace referencia a \textbf{ Palabra\+::get\+Palabra()} y \textbf{ Palabra\+::get\+Tipo()}.
+
+
+
+Referenciado por \textbf{ get\+Ordenadas\+Tipo()} y \textbf{ get\+Palabras\+Tipo()}.
+
+\mbox{\label{classPalabras_ad0e01a81ee7f67f9a9effb5c427098fa}} 
+\index{Palabras@{Palabras}!operator[]@{operator[]}}
+\index{operator[]@{operator[]}!Palabras@{Palabras}}
+\doxysubsubsection{operator[]()}
+{\footnotesize\ttfamily \textbf{ Palabra} \& Palabras\+::operator[$\,$] (\begin{DoxyParamCaption}\item[{int}]{i }\end{DoxyParamCaption})}
+
+
+
+Devuelve una referencoa al objeto i-\/th. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em i} & indice del elemento a devolver \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+una referencia al objeto i-\/th 
+\end{DoxyReturn}
+\begin{DoxyPrecond}{Precondición}
+i\texorpdfstring{$>$}{>}=0 y i\texorpdfstring{$<$}{<}datos.\+size() 
+\end{DoxyPrecond}
+\mbox{\label{classPalabras_a99e82bae03763905c3c6306b5d093a56}} 
+\index{Palabras@{Palabras}!size@{size}}
+\index{size@{size}!Palabras@{Palabras}}
+\doxysubsubsection{size()}
+{\footnotesize\ttfamily int Palabras\+::size (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const}
+
+
+
+obterner tamaño de palabras insertadas 
+
+\begin{DoxyReturn}{Devuelve}
+numero de palabras insertadas 
+\end{DoxyReturn}
+
+
+\doxysubsection{Documentación de las funciones relacionadas y clases amigas}
+\mbox{\label{classPalabras_ad76a816da3b19e97704dcc5b851d564f}} 
+\index{Palabras@{Palabras}!operator$<$$<$@{operator$<$$<$}}
+\index{operator$<$$<$@{operator$<$$<$}!Palabras@{Palabras}}
+\doxysubsubsection{operator$<$$<$}
+{\footnotesize\ttfamily ostream \& operator$<$$<$ (\begin{DoxyParamCaption}\item[{ostream \&}]{os,  }\item[{const \textbf{ Palabras} \&}]{P }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [friend]}}
+
+
+
+Operador de salida. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em os} & stream de salida \\
+\hline
+{\em P} & Parabra a escribir \\
+\hline
+\end{DoxyParams}
+\mbox{\label{classPalabras_a028c7efba1d73451098771bb45391132}} 
+\index{Palabras@{Palabras}!operator$>$$>$@{operator$>$$>$}}
+\index{operator$>$$>$@{operator$>$$>$}!Palabras@{Palabras}}
+\doxysubsubsection{operator$>$$>$}
+{\footnotesize\ttfamily istream \& operator$>$$>$ (\begin{DoxyParamCaption}\item[{istream \&}]{is,  }\item[{\textbf{ Palabras} \&}]{P }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [friend]}}
+
+
+
+Operador de entrada de una palabra. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em is} & stream de entrada \\
+\hline
+{\em P} & palabra \\
+\hline
+\end{DoxyParams}
+
+
+La documentación para esta clase fue generada a partir de los siguientes ficheros\+:\begin{DoxyCompactItemize}
+\item 
+include/palabras.\+h\item 
+src/palabras.\+cpp\end{DoxyCompactItemize}

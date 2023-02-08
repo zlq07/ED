@@ -1,0 +1,272 @@
+\doxysection{Referencia de la Clase Palabra}
+\label{classPalabra}\index{Palabra@{Palabra}}
+\doxysubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{classPalabra_a8e74f02e148cdcb5bb91bc2ae193183e}} 
+{\bfseries Palabra} ()
+\begin{DoxyCompactList}\small\item\em Constructor por defecto de la clase. \end{DoxyCompactList}\item 
+\textbf{ Palabra} (const string \&t, const string \&w)
+\begin{DoxyCompactList}\small\item\em Constructor de la clase. \end{DoxyCompactList}\item 
+string \textbf{ get\+Tipo} () const
+\begin{DoxyCompactList}\small\item\em Obtiene el tipo de una palabra. Ej\+: adjetivo, proposicion ,etc. \end{DoxyCompactList}\item 
+string \textbf{ get\+Palabra} () const
+\begin{DoxyCompactList}\small\item\em Obtiene la palabra. \end{DoxyCompactList}\item 
+string \textbf{ get\+Sinonimo} (int i) const
+\begin{DoxyCompactList}\small\item\em Obtiene el i-\/th sinonimo. \end{DoxyCompactList}\item 
+void \textbf{ insert\+Sinonimo} (const string \&s)
+\begin{DoxyCompactList}\small\item\em Inserta un nuevo sinonimo de forma ordenada. \end{DoxyCompactList}\item 
+void \textbf{ erase\+Sinonimo} (const string \&s)
+\begin{DoxyCompactList}\small\item\em Elimina el sinonimo s. \end{DoxyCompactList}\item 
+void \textbf{ set\+Palabra} (const string \&w)
+\begin{DoxyCompactList}\small\item\em Modifica la palabra. \end{DoxyCompactList}\item 
+void \textbf{ set\+Tipo} (const string \&t)
+\begin{DoxyCompactList}\small\item\em Modifica el tipo de palabra. \end{DoxyCompactList}\item 
+void \textbf{ set\+Sinonimo} (int i, const string \&s)
+\begin{DoxyCompactList}\small\item\em Modifica el i-\/th sinonimo con s. \end{DoxyCompactList}\item 
+bool \textbf{ is\+Sinonimo} (string w) const
+\begin{DoxyCompactList}\small\item\em Devuelve si es sinonimo w a la palabra. \end{DoxyCompactList}\item 
+int \textbf{ num\+Sinonimos} () const
+\begin{DoxyCompactList}\small\item\em Devuelve el numero de sinonimos. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Amigas}
+\begin{DoxyCompactItemize}
+\item 
+istream \& \textbf{ operator$>$$>$} (istream \&is, \textbf{ Palabra} \&P)
+\begin{DoxyCompactList}\small\item\em Operador de entrada de una palabra. \end{DoxyCompactList}\item 
+ostream \& \textbf{ operator$<$$<$} (ostream \&os, const \textbf{ Palabra} \&P)
+\begin{DoxyCompactList}\small\item\em Operador de salida. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Documentación del constructor y destructor}
+\mbox{\label{classPalabra_aa2c38d2ebf84044b5fade1089f502fbc}} 
+\index{Palabra@{Palabra}!Palabra@{Palabra}}
+\index{Palabra@{Palabra}!Palabra@{Palabra}}
+\doxysubsubsection{Palabra()}
+{\footnotesize\ttfamily Palabra\+::\+Palabra (\begin{DoxyParamCaption}\item[{const string \&}]{t,  }\item[{const string \&}]{w }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+Constructor de la clase. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em t} & tipo de la palabra a construir \\
+\hline
+{\em w} & la palabra a construir \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+Crea una palabra con su tipo 
+\end{DoxyReturn}
+
+
+\doxysubsection{Documentación de las funciones miembro}
+\mbox{\label{classPalabra_aa3f4ad46e6fe70ed83e78582a52be1a5}} 
+\index{Palabra@{Palabra}!eraseSinonimo@{eraseSinonimo}}
+\index{eraseSinonimo@{eraseSinonimo}!Palabra@{Palabra}}
+\doxysubsubsection{eraseSinonimo()}
+{\footnotesize\ttfamily void Palabra\+::erase\+Sinonimo (\begin{DoxyParamCaption}\item[{const string \&}]{s }\end{DoxyParamCaption})}
+
+
+
+Elimina el sinonimo s. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em s} & sinonimo a eliminar \\
+\hline
+\end{DoxyParams}
+\begin{DoxyPrecond}{Precondición}
+el sinonimo que queremos eliminar debe estar en la lista de sinonimos ya existentes 
+\end{DoxyPrecond}
+\mbox{\label{classPalabra_a094c2428e5f94ecbef0df56977c214fd}} 
+\index{Palabra@{Palabra}!getPalabra@{getPalabra}}
+\index{getPalabra@{getPalabra}!Palabra@{Palabra}}
+\doxysubsubsection{getPalabra()}
+{\footnotesize\ttfamily string Palabra\+::get\+Palabra (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+Obtiene la palabra. 
+
+\begin{DoxyReturn}{Devuelve}
+una palabra 
+\end{DoxyReturn}
+
+
+Referenciado por \textbf{ Palabras\+::insert()}.
+
+\mbox{\label{classPalabra_aa0fb15d816bc8d5365df925e7b0a48bb}} 
+\index{Palabra@{Palabra}!getSinonimo@{getSinonimo}}
+\index{getSinonimo@{getSinonimo}!Palabra@{Palabra}}
+\doxysubsubsection{getSinonimo()}
+{\footnotesize\ttfamily string Palabra\+::get\+Sinonimo (\begin{DoxyParamCaption}\item[{int}]{i }\end{DoxyParamCaption}) const}
+
+
+
+Obtiene el i-\/th sinonimo. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em i} & posicion de sinonimo que obtener \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+una palabra(sinonimo en posicion i) 
+\end{DoxyReturn}
+\mbox{\label{classPalabra_ac37f9a48f571a2c856d087023b6ea265}} 
+\index{Palabra@{Palabra}!getTipo@{getTipo}}
+\index{getTipo@{getTipo}!Palabra@{Palabra}}
+\doxysubsubsection{getTipo()}
+{\footnotesize\ttfamily string Palabra\+::get\+Tipo (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+Obtiene el tipo de una palabra. Ej\+: adjetivo, proposicion ,etc. 
+
+\begin{DoxyReturn}{Devuelve}
+tipo de una palabra 
+\end{DoxyReturn}
+
+
+Referenciado por \textbf{ Palabras\+::insert()}.
+
+\mbox{\label{classPalabra_a303259ade9bf901554b4220103ded7de}} 
+\index{Palabra@{Palabra}!insertSinonimo@{insertSinonimo}}
+\index{insertSinonimo@{insertSinonimo}!Palabra@{Palabra}}
+\doxysubsubsection{insertSinonimo()}
+{\footnotesize\ttfamily void Palabra\+::insert\+Sinonimo (\begin{DoxyParamCaption}\item[{const string \&}]{s }\end{DoxyParamCaption})}
+
+
+
+Inserta un nuevo sinonimo de forma ordenada. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em s} & sinonimo a insertar \\
+\hline
+\end{DoxyParams}
+\begin{DoxyPrecond}{Precondición}
+el sinonimo que queremos insertar no este en la lista de sinonimos ya existentes 
+\end{DoxyPrecond}
+\mbox{\label{classPalabra_a225946f9d0b8862c668c918091a0fd68}} 
+\index{Palabra@{Palabra}!isSinonimo@{isSinonimo}}
+\index{isSinonimo@{isSinonimo}!Palabra@{Palabra}}
+\doxysubsubsection{isSinonimo()}
+{\footnotesize\ttfamily bool Palabra\+::is\+Sinonimo (\begin{DoxyParamCaption}\item[{string}]{w }\end{DoxyParamCaption}) const}
+
+
+
+Devuelve si es sinonimo w a la palabra. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em w} & la palabra que queremos saber si es sinomino \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+Devolver true si es sinonimo, false no es sinonimo 
+\end{DoxyReturn}
+\mbox{\label{classPalabra_a56b52ef125b0dceee005873875e0bb49}} 
+\index{Palabra@{Palabra}!numSinonimos@{numSinonimos}}
+\index{numSinonimos@{numSinonimos}!Palabra@{Palabra}}
+\doxysubsubsection{numSinonimos()}
+{\footnotesize\ttfamily int Palabra\+::num\+Sinonimos (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const}
+
+
+
+Devuelve el numero de sinonimos. 
+
+\begin{DoxyReturn}{Devuelve}
+el tamaño del sinonimos 
+\end{DoxyReturn}
+\mbox{\label{classPalabra_a4c46a6070cd91937cc437001081ad18d}} 
+\index{Palabra@{Palabra}!setPalabra@{setPalabra}}
+\index{setPalabra@{setPalabra}!Palabra@{Palabra}}
+\doxysubsubsection{setPalabra()}
+{\footnotesize\ttfamily void Palabra\+::set\+Palabra (\begin{DoxyParamCaption}\item[{const string \&}]{w }\end{DoxyParamCaption})}
+
+
+
+Modifica la palabra. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em w} & palabra queremos ahora \\
+\hline
+\end{DoxyParams}
+\mbox{\label{classPalabra_ae7577beaa6f7e65b7cf2ba4a18aebc45}} 
+\index{Palabra@{Palabra}!setSinonimo@{setSinonimo}}
+\index{setSinonimo@{setSinonimo}!Palabra@{Palabra}}
+\doxysubsubsection{setSinonimo()}
+{\footnotesize\ttfamily void Palabra\+::set\+Sinonimo (\begin{DoxyParamCaption}\item[{int}]{i,  }\item[{const string \&}]{s }\end{DoxyParamCaption})}
+
+
+
+Modifica el i-\/th sinonimo con s. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em s} & sinonimo que queremos ahora \\
+\hline
+{\em i} & posicion de sinonimo que desamos modificar \\
+\hline
+\end{DoxyParams}
+\mbox{\label{classPalabra_aba73a40d1da695a36edfe9cdc9ef03d3}} 
+\index{Palabra@{Palabra}!setTipo@{setTipo}}
+\index{setTipo@{setTipo}!Palabra@{Palabra}}
+\doxysubsubsection{setTipo()}
+{\footnotesize\ttfamily void Palabra\+::set\+Tipo (\begin{DoxyParamCaption}\item[{const string \&}]{t }\end{DoxyParamCaption})}
+
+
+
+Modifica el tipo de palabra. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em t} & el tipo de palabra queremos ahora \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Documentación de las funciones relacionadas y clases amigas}
+\mbox{\label{classPalabra_a6f2cedc5fb3232ffe614f7047bb67f34}} 
+\index{Palabra@{Palabra}!operator$<$$<$@{operator$<$$<$}}
+\index{operator$<$$<$@{operator$<$$<$}!Palabra@{Palabra}}
+\doxysubsubsection{operator$<$$<$}
+{\footnotesize\ttfamily ostream \& operator$<$$<$ (\begin{DoxyParamCaption}\item[{ostream \&}]{os,  }\item[{const \textbf{ Palabra} \&}]{P }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [friend]}}
+
+
+
+Operador de salida. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em os} & stream de salida \\
+\hline
+{\em P} & Parabra a escribir \\
+\hline
+\end{DoxyParams}
+\mbox{\label{classPalabra_ad8bbe51acd22ef10d59ed3ee528361f2}} 
+\index{Palabra@{Palabra}!operator$>$$>$@{operator$>$$>$}}
+\index{operator$>$$>$@{operator$>$$>$}!Palabra@{Palabra}}
+\doxysubsubsection{operator$>$$>$}
+{\footnotesize\ttfamily istream \& operator$>$$>$ (\begin{DoxyParamCaption}\item[{istream \&}]{is,  }\item[{\textbf{ Palabra} \&}]{P }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [friend]}}
+
+
+
+Operador de entrada de una palabra. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em is} & stream de entrada \\
+\hline
+{\em P} & palabra \\
+\hline
+\end{DoxyParams}
+
+
+La documentación para esta clase fue generada a partir de los siguientes ficheros\+:\begin{DoxyCompactItemize}
+\item 
+include/\textbf{ palabra.\+h}\item 
+src/palabra.\+cpp\end{DoxyCompactItemize}
